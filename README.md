@@ -44,3 +44,17 @@ To read more about how PRDXN is working on positioning itself, read here: https:
 
 Vision for our future: https://docs.google.com/document/d/1KXpkr0pmhaW3JBPgsIv-u7ybbXhdmeTJWOtC7h5xV9A/edit
 
+## Goals
+
+### Strategic
+- Customer / Client
+  - To be defined / elaborated
+- Product / Services
+  - To be defined / elaborated
+- People & Organization
+  - To be defined / elaborated
+- Infrastructure / Partners / Others
+  - To be defined / elaborated
+
+### Cultural
+Build an ethical, human-centric company that attracts and retains the top technology and business talent from around the world.
