@@ -22,6 +22,34 @@ The key use cases that we use Zoho Projects for are as follows:
 
 **Portal Link:** https://projects.zoho.com/portal/prdxn
 
+## Timesheets
+
+At PRDXN we have Zoho projects as our internal Project Management and Time Tracking tool.
+
+In terms of creating transparency around your/the teams work we need to focus on Zoho Time Tracking.
+
+Please see/read the details in the PRDXN Handbook regarding the clarified requirements for Zoho time tracking: [Section 3.6.1 "Zoho Time Tracking"](http://bit.ly/PRDXN-Handbook).
+
+### Time Logging
+
+- In your Project click Timesheet in the left panel.
+- Click Add Log Time in the upper-right corner.
+- Select the Date, User, and the Task/Bug detail for which you are going to log time.
+- Log the time in Hours and set the Billing Status respectively. 
+  - Billable hours: Refers to the hours included in the estimate. 
+  - Non-billable hours: Refers to the hours not part of approved estimate.
+  - ***Note:** If unsure about this, reach out to the respective Project Manager.*
+- Click Add.
+
+#### View and Manage Entries
+
+You can view your logged hours in List/Grid/Month view and manage (Edit/Delete) your logged entries from the Timesheet tab.
+
+- Track Timesheet: Go to individual Project and client on Timesheet on left toolbar.
+- You can track your logged time by either clicking on List/Grid/Mnth view.
+- Under the List view, hover over the log and click on Setting icon .
+- Choose to edit or delete the entry accordingly.
+
 ## Creating a project
 
 > Only Project Managers and Admin users (Line Managers, Management and IT team) have access to create new projects.
@@ -53,6 +81,18 @@ Steps:
     - If a Retainer: Add the base monthly retainer budget hours as shared by the Accounts team
 - Techstack (Multiselect) - define these to help with easier reference and future reporting/categorization of projects. 
 - Click "Add"
+
+> See note on creating Intenal Projects
+
+## Manage Task Status
+
+Just like tracking hours against your task is important, equally important is keeping the status of Task updated.
+
+- Navigate to Projects.
+- Go to particular Project OR search for the project using search icon present on the upper bar.
+- Navigate to Tasks.
+- Change the status from the Dropdown.
+- In Kanban view, drag the task to respective status swimlane.
 
 ## Adding Users to a project
 
@@ -164,12 +204,30 @@ Just like logging issues is important, equally important is keeping the status o
 
 ### Deleting and Moving an Issue
 
-### Delete:
+#### Delete:
 - In the Kanban or List view, click on an issue and then click on Delete icon in the upper-right corner to delete it. If your issue has time logs that have been invoiced, it cannot be deleted.
 
-### Move:
+#### Move:
 - Navigate to an issue.
 - Click on the issue to view details.
 - Click `•••`  in the top right and then click Move.
 - Select a project from the drop-down. The issue will be moved to this project.
 - If there are invoiced time logs, the issue cannot be moved to another project.
+
+## Internal Projects
+
+- PRDXN Training: Once the resource passes his/her FED test OR associated with some training, he/she should reach out to the line manager/TL if the training task is not assigned .
+  - Task Assignment
+    - TL/Manager should ensure that the task for the specific resource is added under the Particular Task list with Resource name and training area e.g Task list: SAAS, Task: Ashwini P. SAAS Training.
+    - Ensure that the task completion % is getting updated so that the progress can be tracked.
+    - Once the training is completed the line manager should mark the task as closed.
+- Buddy Program: This project has below tasks designed for Buddies. In case you are the one, reach out to your line manager and get this project and its tasks assigned.
+  - Machine and Logical Round
+  - Buddy Responsibility
+  - Buddy meet: TL to close this task every week, then the new task will be created automatically.
+- Interviews
+  - If you are the one conducting interviews then get added to this project and task.
+- PRDXN Activities
+  - Any internal activity such as Townhall meet etc. should be added here.
+- Internal projects
+  - The list/names of internal projects should be added and driven through Project Managers or Line Manager.
