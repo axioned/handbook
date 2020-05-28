@@ -91,16 +91,6 @@ Steps:
 
 > See note on [creating Intenal Projects](https://github.com/banuragprdxn/handbook/blob/master/zoho.md#internal-projects)
 
-## Manage Task Status
-
-Just like tracking hours against your task is important, equally important is keeping the status of Task updated.
-
-- Navigate to Projects.
-- Go to particular Project OR search for the project using search icon present on the upper bar.
-- Navigate to Tasks.
-- Change the status from the Dropdown.
-- In Kanban view, drag the task to respective status swimlane.
-
 ## Adding Users to a Project
 
 > Only Project Managers and Admin users (Line Managers, Management and IT team) have access to create new projects.
@@ -144,6 +134,16 @@ Task is a piece of work to be done in a project.
     - Work hours
   - Priority
   - Recurring: Set a task as recurrent if it's going to happen more than once.(New task will be created automatically once you close the current task)
+
+## Manage Task Status
+
+Just like tracking hours against your task is important, equally important is keeping the status of Task updated.
+
+- Navigate to Projects.
+- Go to particular Project OR search for the project using search icon present on the upper bar.
+- Navigate to Tasks.
+- Change the status from the Dropdown.
+- In Kanban view, drag the task to respective status swimlane.
 
 ## Creating Issues
 
