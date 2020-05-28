@@ -1,13 +1,20 @@
 # Zoho Projects Expectations
 
 ### Table of Contents
-- Introduction					
-- For PMs: Manage Projects
-- For QAs: Manage Issues
-- For all resources: Timesheet
-- For all resources: Manage Task status
-- For all resources: Manage Issue status
-- For all resources: Internal projects
+- Introduction
+- Timesheets
+  - Time logging
+- Creating a Project
+- Adding Users to a Project
+- Creating a Task List
+- Creating a Task
+- Manage Task Status
+- Creating Issues
+  - Issue Details
+  - Associating Issues with Tasks
+  - Manage Issue Status
+  - Deleting and Moving an Issue
+- Internal Projects
 
 ## Introduction
 We use Zoho Projects as our default Project Management tool to manage most aspects of the internal as well as client projects.
@@ -50,7 +57,7 @@ You can view your logged hours in List/Grid/Month view and manage (Edit/Delete) 
 - Under the List view, hover over the log and click on Setting icon .
 - Choose to edit or delete the entry accordingly.
 
-## Creating a project
+## Creating a Project
 
 > Only Project Managers and Admin users (Line Managers, Management and IT team) have access to create new projects.
 
@@ -82,7 +89,7 @@ Steps:
 - Techstack (Multiselect) - define these to help with easier reference and future reporting/categorization of projects. 
 - Click "Add"
 
-> See note on creating Intenal Projects
+> See note on [creating Intenal Projects](https://github.com/banuragprdxn/handbook/blob/master/zoho.md#internal-projects)
 
 ## Manage Task Status
 
@@ -94,7 +101,7 @@ Just like tracking hours against your task is important, equally important is ke
 - Change the status from the Dropdown.
 - In Kanban view, drag the task to respective status swimlane.
 
-## Adding Users to a project
+## Adding Users to a Project
 
 > Only Project Managers and Admin users (Line Managers, Management and IT team) have access to create new projects.
 
