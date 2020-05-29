@@ -12,10 +12,10 @@ We start with the question: What would we/PRDXN do if your (Client’s) technolo
 
 ## Core Values
 PRDXN's seven values are:
-- WOW - clients and fellow team members
-- Respect
-- Proactiveness
-- Ownership
+- WOW - clients and fellow team members 🤗
+- Respect 🙇🏽‍♀️🙇🏽‍♂️
+- Proactiveness 💪🏽
+- Ownership 
 - 🤝 Team Spirit
 - Integrity
 - 👁️ Transparency
