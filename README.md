@@ -3,12 +3,10 @@
 The PRDXN team handbook is the central repository for how we run the company. As part of our value of being transparent the handbook is open to the world, and we welcome feedback. Please make a pull request to suggest improvements or add clarifications. Few sections of this handbook may not open to the world and is only accessible to employees.
 
 ## Purpose (why we exist)
-Our purpose and satisfaction comes from delighting our clients and seeing their businesses scale and grow as a result of our support and services.
+We realize responsible solutions for our clients’ challenges.
 
 ## Mission Statement (what we do)
-We’re biased towards action and getting things done; solving for industry-agnostic creative and technology challenges.
-
-We start with the question: What would we/PRDXN do if your (Client’s) technology project was ours? We spend your (Client’s) time & money as though it were our own based on our 10+ years of experience in building & maintaining innovative technology solutions.
+To guide clients towards responsible approaches to enhance and grow their business.
 
 ## Core Values
 PRDXN's seven values are:
@@ -20,8 +18,14 @@ PRDXN's seven values are:
 - Integrity
 - 👁️ Transparency
 
+## What are the values / principles which guide our behaviour?
+
+We tackle your problems as though they are our own.
+Spend your budgets as though our own.
+Invest our time, effort and commitment in a way that delivers mutual success.
+
 ### About our values
-We take inspiration from other companies, and we always go for the boring solutions. Just like the rest of our work, we continually adjust our values and strive to make them better. PRDXN values are a living document. In many instances, they have been documented, refined, and revised based on lessons learned (and scars earned) in the course of doing business.
+We take inspiration from other companies. Just like the rest of our work, we continually adjust our values and strive to make them better. PRDXN values are a living document. In many instances, they have been documented, refined, and revised based on lessons learned (and scars earned) in the course of doing business.
 
 Everyone is welcome to suggest improvements.
 
