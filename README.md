@@ -38,6 +38,7 @@ Remote work is also what led to the development of our publicly viewable handboo
 - Finance / Accounts
 - IT / Systems
 - Marketing / Sales
+
 These details would be move here soon.
 
 
