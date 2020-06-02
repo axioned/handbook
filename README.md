@@ -5,7 +5,10 @@ The PRDXN team handbook is the central repository for how we run the company. As
 ## Purpose (why we exist)
 We realize responsible solutions for our clients’ challenges.
 
-## Mission Statement (what we do)
+## What is the future vision?
+A global team of technologists guiding clients to responsible solutions. 
+
+## Mission (what we do)
 To guide clients towards responsible approaches to enhance and grow their business.
 
 ## Core Values
