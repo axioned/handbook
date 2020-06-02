@@ -34,8 +34,10 @@ Remote work is also what led to the development of our publicly viewable handboo
 - Engineering
 - Project Management
 - Quality Assurance
-- Creative / DesignFinance / Accounts
+- Creative / Design
+- Finance / Accounts
 - IT / Systems
+- Marketing / Sales
 These details would be move here soon.
 
 
