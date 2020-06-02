@@ -3,7 +3,7 @@
 The PRDXN team handbook is the central repository for how we run the company. As part of our value of being transparent the handbook is open to the world, and we welcome feedback. Please make a pull request to suggest improvements or add clarifications. Few sections of this handbook may not open to the world and is only accessible to employees.
 
 ## Purpose (why we exist)
-We realize responsible solutions for our clients’ challenges.
+We realize responsible solutions for our clients' challenges.
 
 ## What is the future vision?
 A global team of technologists guiding clients to responsible solutions. 
