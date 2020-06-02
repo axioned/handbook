@@ -14,7 +14,7 @@ The PRDXN team handbook is the central repository for how we run the company. As
 - [Culture](https://github.com/prdxn-org/handbook/blob/master/culture.md)
   - [Communication](https://github.com/prdxn-org/handbook/blob/master/communication.md)
   - [Workin Remotely](https://github.com/prdxn-org/handbook/blob/master/remote.md)
-  - [MVPs](https://github.com/prdxn-org/handbook/blob/master/mvps.md)
+  - [MVPs](https://github.com/prdxn-org/handbook/blob/master/mvp.md)
 - Processes
   - [Zoho](https://github.com/prdxn-org/handbook/blob/master/zoho.md)
 
