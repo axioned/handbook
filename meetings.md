@@ -30,3 +30,30 @@ This accomplishes several things:
 - It shifts the memorization burden away from humans. If there's an agenda doc affixed to each calendar invite, you can easily search your calendar for key words (marketing, CEO, engineering, etc.), find a given meeting, and immediately access a documented history of what was discussed.
 
 > Many meetings can be avoided by understanding how to work well asynchronously but not all meetings are inherently bad. We encourage managers to establish regular 1:1 meetings with their team, for example. 
+
+## Document everything live (yes, everything)
+It's not rude to focus on documentation in a meeting. A surefire way to waste time in a meeting is to avoid writing anything down. Meetings within an remote company require documentation to be worthwhile.
+
+## Cancel unnecessary recurring meetings
+Recurring meetings are oftentimes established as meaningful points along a given a journey. Don't hesitate to cancel them after their purpose has been served. Cancelling meetings isn't a slight to those on the invite list. In fact, ridding multiple calendars of a meeting should be celebrated and conjure a sense of liberation.
+
+## Meetings are about the work, not the background
+
+One's appearance, surroundings, and background can be the source of great stress and anxiety when preparing for a video call. At GitLab, we encourage team members to bring their whole selves to work.
+
+- Don't waste time trying to find the perfect backdrop for your video call.
+- Celebrate unique surroundings. It's not uncommon to see GitLab team members participate in a video call from the shores of a lake, coffee shops, RVs, or even while walking.
+- Focus on your internet connection and your audio quality (use headphones), reducing listening fatigue for others.
+- Encourage others to say hello! All remote employees invite others into their homes via video call, creating a unique opportunity to share their lives with colleagues.
+
+## Start on time, end on time
+A nontrivial amount of time is required to regain focus on a task following a distraction. While it is not always possible to schedule meetings such that they do not break up the flow of an ongoing project, it's important to begin and end meetings on time as to minimize disruption.
+
+When scheduling a meeting we value people's time and prefer the "speedy meetings" setting in our Google Calendar. This gives us meetings of, for example, 25 or 50 minutes leaving some time to write notes, stretch, etc. before continuing to our next call or meeting. (This setting can be found under the calendar Settings menu at "default event duration"). 
+
+## It's OK to look away
+We empower team members to be the manager of their attention.
+
+- It's completely acceptable to work on other tasks if (a particular portion of) a meeting doesn't apply to you. If your meeting is with only PRDXN team members please leave your camera on to allow people to see the overall interest level and adjust the time spent on certain topics.
+- It's not embarrassing to ask occasionally for something to be repeated. Because you manage your own attention, you are free to engage with other work and then be pulled back into a relevant part of the meeting conversation.
+- It feels rude in video calls to interrupt people. This is because the latency causes you to talk over the speaker for longer than during an in-person meeting. We should not be discouraged by this, the questions and context provided by interruptions are valuable. This is a situation where we have to do something counter-intuitive to make all-remote meetings work. Everyone is encouraged to interrupt the speaker in a video call to ask a question or offer context. We want everyone to contribute instead of a monologue. Just like in-person meetings be cognizant of when, who, and how you interrupt, we don't want manterrupting.
