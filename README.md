@@ -21,11 +21,12 @@ PRDXN's seven values are:
 - Integrity
 - Transparency 👁️
 
-## What are the values / principles which guide our behaviour?
+Read more about them [here](https://github.com/prdxn-org/handbook/blob/master/values.md).
 
-We tackle your problems as though they are our own.
-Spend your budgets as though our own.
-Invest our time, effort and commitment in a way that delivers mutual success.
+## What are the values / principles which guide our behaviour?
+- We tackle your problems as though they are our own.
+- Spend your budgets as though our own.
+- Invest our time, effort and commitment in a way that delivers mutual success.
 
 ### About our values
 We take inspiration from other companies. Just like the rest of our work, we continually adjust our values and strive to make them better. PRDXN values are a living document. In many instances, they have been documented, refined, and revised based on lessons learned (and scars earned) in the course of doing business.
