@@ -11,8 +11,11 @@ The PRDXN team handbook is the central repository for how we run the company. As
   - Our Customers
   - Goals
 - [Core Values](https://github.com/prdxn-org/handbook/blob/master/values.md)
-- [Communication](https://github.com/prdxn-org/handbook/blob/master/communication.md)
-- [Workin Remotely](https://github.com/prdxn-org/handbook/blob/master/remote.md)
-- [Zoho](https://github.com/prdxn-org/handbook/blob/master/zoho.md)
+- [Culture](https://github.com/prdxn-org/handbook/blob/master/culture.md)
+  - [Communication](https://github.com/prdxn-org/handbook/blob/master/communication.md)
+  - [Workin Remotely](https://github.com/prdxn-org/handbook/blob/master/remote.md)
+  - [MVPs](https://github.com/prdxn-org/handbook/blob/master/mvps.md)
+- Processes
+  - [Zoho](https://github.com/prdxn-org/handbook/blob/master/zoho.md)
 
 > Heavily inspired by [GitLab's Handbook](https://about.gitlab.com/handbook/), which is a wonderful resource for everyone.
