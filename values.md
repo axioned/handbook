@@ -9,12 +9,12 @@ The dictionary definition of “values” that we’re referring to here is: “
 
 Synonyms: principles, moral principles, ethics, moral code, morals, moral values, standards, moral standards, code of behaviour, rules of conduct, standards of behaviour.
 
-## Customer WOW
+## WOW - clients and fellow team members 🤗
 - We create value for our customers because without our customers our company does not exist.
 - We see our customers as humans, not corporations, and we treat them accordingly.
 - We partner with our customers and use their feedback to guide our product and our business.
 
-## Respect
+## Respect 🙇🏽‍♀️🙇🏽‍♂️
 - Respect everyone’s differences
   - Treat each person with the same respect that you yourself would like to be treated, no matter how different they are from you, in terms of how they look, speak, think, act, etc. (This is often referred to as "The Golden Rule".) 
 - Respect other people’s ideas and expressions.
@@ -25,7 +25,23 @@ Synonyms: principles, moral principles, ethics, moral code, morals, moral values
 - Cultivate good manners. 
   - This is as simple as saying "thank you" and "please" when you're requesting something from another person. It shows that you respect their time and effort.
 
-## Cooperation & Teamwork
+## Proactiveness 💪🏽
+- Creating or controlling a situation rather than just responding to it after it has happened.
+- Taking action by causing change and not only reacting to change when it happens.
+- It says you care about how your clients feel. 
+- It says you care about the end users, even though you’ve probably never met them, and the experience they’ll have with the product you’re building.
+- Being fully accountable for our work in gaining any possible repeat business with customers.
+- Being fearless, taking initiatives, and thinking out of the box.
+
+## Ownership
+- In absence of authority taking lead.
+- Own the work, clear the dependency.
+- Be open to any kind of challenge, be ready for acceptance.
+- Taking ownership of our customers’ needs and being accountable for delivering the services.  
+- Sharing the work of colleagues and taking ownership to complete it.
+- Taking new task and completing it as per timeline.
+
+## Team Spirit / Cooperation & Teamwork 🤝
 - Work effectively with fellow team mates, from all areas of the Company, to accomplish common objectives → aka cooperate.
 - Motivate others to meet mutual goals and objectives via personal relationships vs. authority (force). 
 - Listen to, acknowledge and celebrate each team-mate early and often.
@@ -42,24 +58,12 @@ Synonyms: principles, moral principles, ethics, moral code, morals, moral values
   - **Be Honest**: Choose words and actions that are sincere, not misleading.
 - A person who has integrity lives his or her values in relationships with coworkers, customers, and stakeholders. Honesty and trust are central to integrity. Acting with honor and truthfulness are also basic tenets in a person with integrity.
 - Integrity means following your moral or ethical convictions and doing the right thing in all circumstances, even if no one is watching you. 
-### Transparency
+### Transparency 👁️
 - Transparency is about being Honest. Don’t Fake It – If You Aren’t Sure, Say So
 - Being honest with him or herself about the actions they are taking.
 - A transparent culture is a work culture where employees rigorously communicate with their peers and exchange ideas and thoughts, which gradually builds up trust and pride. It is about involving everyone in the company in accepting responsibility for how the company is run, making sure, they have the knowledge, information and education to properly read and interpret data, and showing people, the outcomes they produce.
 - Being unbiased in rewarding the employees, acknowledging their efforts, etc. Transparency can be only achieve if you trust on someone, Mostly top-bottom trust builds huge level of transparency. Supportive approach gives people comfort which leads to transparent approach being followed.
 
-## Ownership
-- In absence of authority taking lead.
-- Own the work, clear the dependency.
-- Be open to any kind of challenge, be ready for acceptance.
-- Taking ownership of our customers’ needs and being accountable for delivering the services.  
-- Sharing the work of colleagues and taking ownership to complete it.
-- Taking new task and completing it as per timeline.
 
-## Proactiveness
-- Creating or controlling a situation rather than just responding to it after it has happened.
-- Taking action by causing change and not only reacting to change when it happens.
-- It says you care about how your clients feel. 
-- It says you care about the end users, even though you’ve probably never met them, and the experience they’ll have with the product you’re building.
-- Being fully accountable for our work in gaining any possible repeat business with customers.
-- Being fearless, taking initiatives, and thinking out of the box.
+
+
