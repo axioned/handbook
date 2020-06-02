@@ -17,9 +17,9 @@ PRDXN's seven values are:
 - Respect 🙇🏽‍♀️🙇🏽‍♂️
 - Proactiveness 💪🏽
 - Ownership 
-- 🤝 Team Spirit
+- Team Spirit 🤝
 - Integrity
-- 👁️ Transparency
+- Transparency 👁️
 
 ## What are the values / principles which guide our behaviour?
 
