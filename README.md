@@ -31,8 +31,10 @@ Remote work is also what led to the development of our publicly viewable handboo
 ## Functional processes / documentations
 - People Group / HR
 - Operations and Processes
+  - [Business Continuity Committee](https://github.com/prdxn-org/handbook/blob/master/businesscontinuity.md)
 - Engineering
 - Project Management
+  - [Communication Guidelines](https://github.com/prdxn-org/handbook/blob/master/commguidelines.md)
 - Quality Assurance
 - Creative / Design
 - Finance / Accounts
