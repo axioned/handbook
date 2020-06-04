@@ -69,3 +69,5 @@ A Project Manager and the team should always be clear with each of these 5W and 
 - Identify **how** the message will be communicated (ideally email for key updates). 
 - Identify **who** will communicate each message (ideally the Project Manager).
 - Pick a given template/format and follow through the entire project life. 
+
+> [Google Doc](https://docs.google.com/document/d/1xnHdryiuUtvhCKcwoKmZvV3N8jCxxZCTc75WG_6XPUw/edit#heading=h.ksd4pjpzxipd)
