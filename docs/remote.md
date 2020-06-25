@@ -94,6 +94,6 @@ It's sometimes hard to remember to stay active when you work from home. Here are
 - Try to get enough sleep at night and take a nap during the day if you need one.
 
 ## Contribute to this page
-We recognize that the whole idea of remote / office-optional team is still quite new, and can only be successful with active participation from the whole team. Here's how you can participate:
+We recognize that the whole idea of remote working is still quite new, and can only be successful with active participation from the whole team. Here's how you can participate:
 - Propose or suggest any change to this site by creating a merge request.
 - Create an issue if you have any questions or if you see an inconsistency.

@@ -23,10 +23,3 @@ Working this way means our team members are expected to quickly deliver the mini
 While this can be a challenging practice to adopt at first, it's liberating to be able to make mistakes, get feedback quickly, and course correct to reach a better outcome, faster.
 
 As our company and the industry continue to grow, you'll have the freedom to change and constantly evolve everything from your schedule and your workspace to your job description and your skills.
-
-## Remote Work
-As a PRDXN team member, you can work from anywhere with good internet. Whether you prefer to work from an office environment (which allows you space and facilities to support your work) or you’re an adventurer looking to travel the world while still pursuing your career, a parent or caregiver who wants a job that allows you to spend more time with family, or somewhere in between, you'll have the freedom to contribute when and where you do your best work.
-
-But there's more to our remote / office-optional culture than the daily flexibility it provides. By nature, this makes us more inclusive, more transparent, and more efficient in everything we do. We invite diverse perspectives, we document everything, and we collaborate asynchronously.
-
-See [here](https://github.com/prdxn-org/handbook/blob/master/remote.md) for more details.
