@@ -1,4 +1,8 @@
-# PRDXN Testing Honor Code:
+---
+id: honorcode
+title: PRDXN Testing Honor Code
+sidebar_label: PRDXN Testing Honor Code
+---
 
 All members of the PRDXN team are expected to strictly adhere to the PRDXN "Testing" Honor Code:
 

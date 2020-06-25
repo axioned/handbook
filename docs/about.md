@@ -1,4 +1,8 @@
-# About Us
+---
+id: about
+title: About Us
+sidebar_label: About Us
+---
 
 ## Purpose (why we exist)
 We realize responsible solutions for our clients' challenges.

@@ -1,4 +1,8 @@
-# How to do meetings
+---
+id: meetings
+title: How to do meetings
+sidebar_label: Meetings
+---
 
 On this page, we're detailing how to optimize meetings, especially in remote environment.
 

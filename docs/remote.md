@@ -1,4 +1,8 @@
-# Working Remotely
+---
+id: remote
+title: Working Remotely
+sidebar_label: Working Remotely
+---
 
 ##  What remote work promotes:
 - Flexible working hours over set working hours.

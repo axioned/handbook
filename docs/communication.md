@@ -1,4 +1,8 @@
-# Communication
+---
+id: communication
+title: Communication
+sidebar_label: Communication
+---
 
 It's important for us to practice clear communication in ways that help us stay connected and work more efficiently. To accomplish this, we use **asynchronous communication as a starting point** and stay as open and transparent as we can by communicating through Slack / MS Teams channels, Zoho Projects, Github issues / merge requests and emails. We also place an emphasis on ensuring that conclusions of offline conversations are written down. When we go **back and forth three times,** we jump on a synchronous video call.
 

@@ -1,4 +1,8 @@
-# MVPs
+---
+id: mvps
+title: MVPs
+sidebar_label: MVPs
+---
 
 ## Past Winners
 

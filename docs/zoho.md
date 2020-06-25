@@ -1,20 +1,8 @@
-# Zoho Projects Expectations
-
-### Table of Contents
-- Introduction
-- Timesheets
-  - Time logging
-- Creating a Project
-- Adding Users to a Project
-- Creating a Task List
-- Creating a Task
-- Manage Task Status
-- Creating Issues
-  - Issue Details
-  - Associating Issues with Tasks
-  - Manage Issue Status
-  - Deleting and Moving an Issue
-- Internal Projects
+---
+id: zoho
+title: Zoho Projects Expectations
+sidebar_label: Zoho Projects Expectations
+---
 
 ## Introduction
 We use Zoho Projects as our default Project Management tool to manage most aspects of the internal as well as client projects.

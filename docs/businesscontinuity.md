@@ -1,4 +1,8 @@
-# Business Continuity Committee
+---
+id: businesscontinuity
+title: Business Continuity Committee
+sidebar_label: Business Continuity Committee
+---
 
 ### Council Members:
 - Anurag

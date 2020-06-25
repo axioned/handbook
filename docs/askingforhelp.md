@@ -1,4 +1,8 @@
-# Asking for help
+---
+id: askingforhelp
+title: Asking for help
+sidebar_label: Asking for help
+---
 
 > "You need to reward those who cooperate and blame those who don't cooperate."
 

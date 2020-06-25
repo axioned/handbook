@@ -1,4 +1,8 @@
-# PRDXN's Core Values
+---
+id: values
+title: Values
+sidebar_label: Values
+---
 
 When we use the expression “PRDXN’s Core Values” we mean the behaviours, attitudes and standards we would like each and everyone of us to:
 - Value in our colleagues
@@ -63,7 +67,3 @@ Synonyms: principles, moral principles, ethics, moral code, morals, moral values
 - Being honest with him or herself about the actions they are taking.
 - A transparent culture is a work culture where employees rigorously communicate with their peers and exchange ideas and thoughts, which gradually builds up trust and pride. It is about involving everyone in the company in accepting responsibility for how the company is run, making sure, they have the knowledge, information and education to properly read and interpret data, and showing people, the outcomes they produce.
 - Being unbiased in rewarding the employees, acknowledging their efforts, etc. Transparency can be only achieve if you trust on someone, Mostly top-bottom trust builds huge level of transparency. Supportive approach gives people comfort which leads to transparent approach being followed.
-
-
-
-

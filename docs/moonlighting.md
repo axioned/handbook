@@ -1,4 +1,10 @@
-# A Note About Moonlighting 
+---
+id: moonlighting
+title: Moonlighting
+sidebar_label: Moonlighting
+---
+
+# A Note About Moonlighting
 
 Moonlighting means working other professional, paid jobs outside of your work at PRDXN. It’s not a black and white topic. There are one-time gigs, other pursuits, or opportunities that help you grow and make life interesting. We want to support that. But we want to make sure professional endeavors outside of PRDXN dont create conflicts of interest or affect your time, dedication, or performance at PRDXN. So it’s a delicate balance.
 

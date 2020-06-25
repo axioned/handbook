@@ -1,4 +1,8 @@
-# Communication Guidelines
+---
+id: commguidelines
+title: Communication Guidelines
+sidebar_label: Communication Guidelines
+---
 
 ## Answer the 5 W and 1 H for your project 
 - **Why** - The reason why the project or a task is being undertaken in terms of the issue, problem and/or opportunity. Client’s perspective.

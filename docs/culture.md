@@ -1,4 +1,8 @@
-# Culture
+---
+id: culture
+title: Culture
+sidebar_label: Culture
+---
 
 ## Everyone can contribute
 Our size and our mission (that everyone can contribute) mean that our team members can — and are expected to — make an impact across the company.
