@@ -1,4 +1,8 @@
-# PRDXN Observed Holidays
+---
+id: holidays
+title: PRDXN Observed Holidays
+sidebar_label: PRDXN Observed Holidays
+---
 
 ## Holiday List 2020
 
