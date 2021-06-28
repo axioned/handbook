@@ -1,28 +1,38 @@
+const lightCodeTheme = require('prism-react-renderer/themes/github');
+const darkCodeTheme = require('prism-react-renderer/themes/dracula');
+
+/** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: 'PRDXN Handbook',
-  tagline: 'The tagline of my site',
-  url: 'https://happy-fermat-21842f.netlify.app/',
+  title: 'Axioned Handbook',
+  tagline: 'Our collective brain',
+  url: 'https://handbook.axioned.com/',
   baseUrl: '/',
-  favicon: 'img/favicon.ico',
-  organizationName: 'PRDXN', // Usually your GitHub org/user name.
-  projectName: 'PRDXN Handbook', // Usually your repo name.
+  onBrokenLinks: 'throw',
+  onBrokenMarkdownLinks: 'warn',
+  favicon: 'img/favicon.png',
+  organizationName: 'axioned', // Usually your GitHub org/user name.
+  projectName: 'handbook', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'PRDXN Handbook',
+      title: 'Axioned Handbook',
       logo: {
-        alt: 'PRDXN Logo',
-        src: 'img/logo.svg',
+        alt: 'My Site Logo',
+        src: 'img/logo.png',
       },
-      links: [
+      items: [
         {
-          to: 'docs/',
-          activeBasePath: 'docs',
-          label: 'Docs',
+          type: 'doc',
+          docId: 'welcome',
           position: 'left',
+          label: 'Tutorial',
         },
-        {to: 'blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/prdxn-org/handbook',
+          href: 'https://medium.com/axioned',
+          label: 'Blog',
+          position: 'right',
+        },
+        {
+          href: 'https://github.com/axioned/handbook',
           label: 'GitHub',
           position: 'right',
         },
@@ -35,25 +45,21 @@ module.exports = {
           title: 'Docs',
           items: [
             {
-              label: 'Style Guide',
-              to: 'docs/',
-            },
-            {
-              label: 'Second Doc',
-              to: 'docs/doc2/',
+              label: 'Handbook',
+              to: '/docs/welcome',
             },
           ],
         },
         {
-          title: 'Team',
+          title: 'Quick Links',
           items: [
             {
               label: 'Slack',
-              href: 'https://prdxn.slack.com/',
+              href: 'https://axioned.slack.com/',
             },
             {
               label: 'Zoho',
-              href: 'https://projects.zoho.com/portal/prdxn',
+              href: 'https://projects.zoho.com/portal/axioned',
             },
             {
               label: 'Github',
@@ -66,7 +72,7 @@ module.exports = {
           items: [
             {
               label: 'Website',
-              to: 'https://prdxn.com',
+              href: '/https://axioned.com/',
             },
             {
               label: 'Email',
@@ -79,7 +85,11 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Open Source. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Axioned. Built with Docusaurus.`,
+    },
+    prism: {
+      theme: lightCodeTheme,
+      darkTheme: darkCodeTheme,
     },
   },
   presets: [
@@ -87,18 +97,16 @@ module.exports = {
       '@docusaurus/preset-classic',
       {
         docs: {
-          // It is recommended to set document id as docs home page (`docs/` path).
-          homePageId: 'introduction',
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/prdxn-org/handbook/edit/master/website/',
+            'https://github.com/facebook/docusaurus/edit/master/website/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/prdxn-org/handbook/edit/master/website/blog/',
+            'https://github.com/facebook/docusaurus/edit/master/website/blog/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),

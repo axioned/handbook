@@ -8,15 +8,13 @@ sidebar_label: Slack
 
 | Name  | Description |
 | --- | --- |
-| #general-must-read &nbsp; &nbsp; &nbsp; | For team-wide communication and announcements. All team members are in this channel. |
-| #wow |  |
-| #thanks | A place to say thanks to those your team members who did a great job, helped a client, or helped you! |
-| #help |  |
-| #resourcing-ltd |  |
-| #it-support | Let us know if you are having technical, connectivity or access related issues. |
-| #townhall |  |
+| [#general-must-read](https://prdxn.slack.com/archives/C024GTVNN) &nbsp; &nbsp; &nbsp; | For team-wide communication and announcements. All team members are in this channel. |
+| [#wow](https://prdxn.slack.com/archives/C016THU1FB2) |  |
+| [#help](https://prdxn.slack.com/archives/C016UBG8QGG) |  |
+| [#team-resourcing-ltd](https://prdxn.slack.com/archives/C010W9MEWS0) |  |
+| [#it-support](https://prdxn.slack.com/archives/C02TD2MLR) | Let us know if you are having technical, connectivity or access related issues. |
 | #suggestions |  |
-| #random | Non-work banter and water cooler conversation |
+| [#random](https://prdxn.slack.com/archives/C015YSRNPT4) | Non-work banter and water cooler conversation |
 
 ## Teams :key:
 

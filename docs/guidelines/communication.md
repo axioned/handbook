@@ -113,7 +113,7 @@ Some Topics for Calls:
 - Music, books, TV & movies, and video/board games.
 
 ## Random
-The #random Slack channel is your go-to place to share random ideas, pictures, articles, and more. It's a great channel to check out when you need a mental break.
+The [#random](https://prdxn.slack.com/archives/C015YSRNPT4) Slack channel is your go-to place to share random ideas, pictures, articles, and more. It's a great channel to check out when you need a mental break.
 
 ## Scheduling Meetings
 
