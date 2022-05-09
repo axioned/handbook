@@ -72,7 +72,7 @@ module.exports = {
 					items: [
 						{
 							label: "Website",
-							href: "/https://axioned.com/",
+							href: "https://axioned.com/",
 						},
 						{
 							label: "Email",
