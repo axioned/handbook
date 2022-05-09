@@ -35,7 +35,7 @@ sidebar_label: Experienced Project Manager Training Template
 - **PRDXN_Zoho (1.5 hour)**
   - Work with HR/IT team to get your account setup on Zoho
   - Review: https://projects.zoho.com/
-  - Review [Zoho Policy and Expectations](.../../../../process/zoho.md)
+  - Review [Zoho Policy and Expectations](../../processes/zoho.md)
   - You can find all the helpful online resources [here](https://www.zoho.com/projects/help/)
 - **Activity:**
 

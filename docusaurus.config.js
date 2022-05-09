@@ -53,10 +53,6 @@ module.exports = {
 							to: "/docs/playbook",
 						},
 						{
-							label: "Guidelines",
-							to: "/docs/guidelines",
-						},
-						{
 							label: "Processes",
 							to: "/docs/category/processes",
 						},
