@@ -14,9 +14,9 @@ module.exports = {
 	projectName: "handbook", // Usually your repo name.
 	themeConfig: {
 		navbar: {
-			title: "Axioned Handbook",
+			title: "Handbook",
 			logo: {
-				alt: "My Site Logo",
+				alt: "Axioned",
 				src: "img/logo.png",
 			},
 			items: [
@@ -27,13 +27,13 @@ module.exports = {
 					label: "Docs",
 				},
 				{
-					href: "https://medium.com/axioned",
+					href: "https://insights.axioned.com/",
 					label: "Blog",
 					position: "right",
 				},
 				{
-					href: "https://github.com/axioned/handbook",
-					label: "GitHub",
+					href: "https://3.basecamp.com/5301242/",
+					label: "Basecamp",
 					position: "right",
 				},
 			],
@@ -47,6 +47,18 @@ module.exports = {
 						{
 							label: "Handbook",
 							to: "/docs/welcome",
+						},
+						{
+							label: "Playbook",
+							to: "/docs/playbook",
+						},
+						{
+							label: "Guidelines",
+							to: "/docs/guidelines",
+						},
+						{
+							label: "Processes",
+							to: "/docs/category/processes",
 						},
 					],
 				},

@@ -29,15 +29,16 @@ sidebar_label: Experienced Project Manager Training Template
   - PRDXN_CALL SCRIPTS - https://goo.gl/3bgGnX
   - Daily Update Email Template- You're required to send out a "Daily Update Email". See: Daily Update Email Template: https://goo.gl/gPy2W6
 - **PRDXN_PROJECT FOLDER STRUCTURE - (0.5 hour)**
-  - PRDXN_PROJECT FOLDER STRUCTURE - http://goo.gl/VRv1k7 
+  - PRDXN_PROJECT FOLDER STRUCTURE - http://goo.gl/VRv1k7
 - **PRDXN_HL EXECUTION WORKFLOW - (1 hour)**
-  - https://goo.gl/stK4vv 
+  - https://goo.gl/stK4vv
 - **PRDXN_Zoho (1.5 hour)**
   - Work with HR/IT team to get your account setup on Zoho
   - Review: https://projects.zoho.com/
-  - Review [Zoho Policy and Expectations](zoho.md)
+  - Review [Zoho Policy and Expectations](.../../../../process/zoho.md)
   - You can find all the helpful online resources [here](https://www.zoho.com/projects/help/)
 - **Activity:**
+
   - It’s Zoho time:
     - Create a Project on Zoho
     - Prepare a task list and add activities listed out below for each day.
@@ -65,7 +66,7 @@ sidebar_label: Experienced Project Manager Training Template
     - Makeable/Success Academy - https://goo.gl/MK94To
 - **Practical #1 - (1.5 hours)**
   - Fill Out the HTWwM document for yourself.
-  - Here’s the designs - https://goo.gl/CTOsRy 
+  - Here’s the designs - https://goo.gl/CTOsRy
     - Prepare the Estimate.
     - Make a Project Brief by using Proposal template.
   - Send a formal mail to your buddy and CC projectmanagement@prdxn.com and mention all the details within the mail with the a) estimate b) timeline/schedule c) question if you have any.
@@ -75,14 +76,14 @@ sidebar_label: Experienced Project Manager Training Template
 ## Day 3
 
 - **More Good to Know(s)!**
-  - **PRDXN_[PROJECT NAME]_DESIGN/UX Q&A - (1 hour)**
-      - PRDXN_[PROJECT NAME]_DESIGN/UX Q&A - https://goo.gl/20p6iX 
+  - **PRDXN\_[PROJECT NAME]\_DESIGN/UX Q&A - (1 hour)**
+    - PRDXN\_[PROJECT NAME]\_DESIGN/UX Q&A - https://goo.gl/20p6iX
     - **INVISION - (2 hours)**
       - What is InVision?
       - InVision - https://goo.gl/I8KTmD
   - **SEO PAGE STRUCTURE (1.25 hours)**
-    - Introduction of SEO - https://goo.gl/bxVrQP 
-    - SEO PAGE STRUCTURE - https://goo.gl/ruzfGR  
+    - Introduction of SEO - https://goo.gl/bxVrQP
+    - SEO PAGE STRUCTURE - https://goo.gl/ruzfGR
   - **Project Group Email ID Setup (0.5 hours)**
     - Project Group Email ID Setup - https://goo.gl/veWPrK
 - **WBS - (1 hour)**
@@ -102,7 +103,7 @@ sidebar_label: Experienced Project Manager Training Template
   - Establish a ballpark estimate for a **Static** one-page website. (2 hours)
   - Establish a ballpark estimate for **CMS (preferred CMS - WordPress)** homepage of the given website. (2 hours)
   - Here’s the designs - https://goo.gl/3NzIKU
-  - *Note: Once your practical is over, please inform your buddy via slack channel.*
+  - _Note: Once your practical is over, please inform your buddy via slack channel._
 - **Buddy sign-off - (0.5 hours)**
 
 ## Day 4
@@ -112,7 +113,7 @@ sidebar_label: Experienced Project Manager Training Template
     - All in One SEO - https://wordpress.org/plugins/all-in-one-seo-pack/
     - WP Security - https://wordpress.org/plugins/all-in-one-wp-security-and-firewall/
     - iThemes Security - https://wordpress.org/plugins/better-wp-security/
-    - Simple History -	https://wordpress.org/plugins/simple-history/
+    - Simple History - https://wordpress.org/plugins/simple-history/
     - Advanced custom field - https://wordpress.org/plugins/advanced-custom-fields/
     - Advanced custom field pro - https://www.advancedcustomfields.com/pro/
     - Disqus plugin - https://wordpress.org/plugins/disqus-comment-system/
@@ -124,8 +125,8 @@ sidebar_label: Experienced Project Manager Training Template
 - **Practical #4 - (2 hours)**
   - Visit this website https://www.flipkart.com/?affid=apbsoluti
     - Name all the functionalities that are present. (screenshots can be helpful for references. If you want you can take a screenshot of that functionality and place in the doc to show the functionality, by all means!)
-    - Create a doc and write all the functionality. 
-    - *Note: Once your practical is over, please inform your buddy via the slack channel.*
+    - Create a doc and write all the functionality.
+    - _Note: Once your practical is over, please inform your buddy via the slack channel._
 - **Practical #5 - (2 hours)**
   - Review the designs - https://goo.gl/Ecj4Ie. Send to the client:
     - Ballpark Estimate
@@ -133,6 +134,7 @@ sidebar_label: Experienced Project Manager Training Template
     - WBS
 
 ## Day 5
+
 - **You’ve made great Progress! Few more good reads!**
   - **Retrospective (1 hour)**
     - Retrospective Guidelines - https://goo.gl/gtDMfp
@@ -158,13 +160,15 @@ sidebar_label: Experienced Project Manager Training Template
     - Contentful
     - HTML/CSS/JS
   - Based on the above, prepare Estimate & Proposal:
-    - *Note: Once your practical is over, please inform your buddy via the slack channel.*
+    - _Note: Once your practical is over, please inform your buddy via the slack channel._
 - **Shadow PM (1.5 hour)**
 - **Buddy sign-off (0.5 hour)**
 
 ## Day 6
+
     - https://www.w3.org/International/questions/qa-international-multilingual
     - https://www.w3.org/International/questions/qa-international-multilingual
+
 - Some tips on [content population](https://docs.google.com/presentation/d/1jkS0dbBtPfzIbLWBoj7S45VLRq3-abXl1zanSuxDkYE/edit#slide=id.g829340f35a_0_81)
 - **Practical #7 - (3 hours)**
   - Review https://unops.economist.com/
