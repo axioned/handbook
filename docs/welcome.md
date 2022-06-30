@@ -6,31 +6,34 @@ sidebar_label: Welcome
 
 # Handbook
 
-Welcome to this mixture of our working methodology, guidelines, useful resources and whatever we might decide to include here.
+The Axioned Team Handbook is the central repository for how we run the company.
+
+It offers us an opportunity to clarify who we actually are as a company. What do we stand for? How should we work? Codifying those beliefs into a handbook makes them tangible and, most importantly, editable. Making the company our best product is a guiding principle, but we can’t easily improve what we haven’t articulated.
+
+**Remote work (i.e., WFH / work from home) is also what led to the development of our handbook, which captures everything you'd need to know about the company.
+**
+
+Few sections of this handbook may link out to other documents that are only accessible to specific teams or individuals, but if you feel you need to know or see them you are more than welcome to give us a shout on Slack - either [#general](https://axioned.slack.com/archives/C024GTVNN), [#help](https://axioned.slack.com/archives/C016UBG8QGG) or [#handbook](https://axioned.slack.com/archives/C02UV6BREDU).
 
 > The handbook is a living thing. It isn't ready, and it will never be.
 
-The first rule of Axioned-club: Handbook First!
+We highly recommend that you:
 
-The Axioned team handbook is the central repository for how we run the company. It offers us an opportunity to clarify who we actually are as a company. What do we stand for? How should we work? Codifying those beliefs into a handbook makes them tangible and, most importantly, editable. Making the company our best product is a guiding principle, but we can’t easily improve what we haven’t articulated.
-
-So many of these employee handbook projects turn out to be ideal-case prescriptions rather than real-world descriptions. They cover all the ways people should act, not the ways they actually do. That’s a sham. Let’s not write a handbook like that. Let’s keep it honest.
-
-As part of our value of being transparent the handbook is open to the world, and we welcome feedback. Please make a pull request to suggest improvements or add clarifications. Few sections of this handbook may not open to the world and is only accessible to employees.
-
-Remote work is also what led to the development of our publicly viewable handbook, which captures everything you'd need to know about the company. If you can't tell, we like efficiency and don't like having to explain things twice.
+- Read it and refer back to it as often as you need to
+- Contribute to this, add comments, and you are more than welcome to ask questions in the [#handbook](https://axioned.slack.com/archives/C02UV6BREDU) channel
+- If there are any parts of this Handbook that you need to be clarified or explained further, please ask in #help channel
 
 ## Playbook
 
-If you are new at Axioned or would just like to read a more indetail overview of who we are and how to settle in, hop in.
+If you are new at Axioned or would just like to read a more in detail overview of who we are and how to settle in, hop in.
 
 ## Methodology
 
-Read along if you don't know anything about our working methodlogy or you simply wish to know better.
+Read along if you don't know anything about our working methodology or you simply wish to know better.
 
 ## Process
 
-We're always trying to find out ways to improve and to make Significa a more comprehensive company. Like this handbook, our work methodology is never ready. It's forever evolving and adapting itself to new perspectives.
+We're always trying to find out ways to improve and to make Axioned a more comprehensive company. Like this handbook, our work methodology is never ready. It's forever evolving and adapting itself to new perspectives.
 
 ## Guidelines
 
