@@ -8,9 +8,9 @@ sidebar_label: PRDXN Observed Holidays
 
 | Date | Observance | Holiday |
 | --- | --- | --- |
-| Wednesday, January 1, 2020 | USA, UK, India | New Years Day |
-| Tuesday, March 10, 2020 | India | Holi |
-| Wednesday, March 25, 2020 | India | Gudi Padwa |
+| Friday, January 14, 2022 | India | Makarsanktranti |
+| Wednesday, January 26, 2020 | India | Republic Day |
+| Friday, March 18, 2020 | India | Holi |
 | Friday, April 10, 2020 | India | Good Friday |
 | Friday, May 1, 2020 | India | Maharashtra Day |
 | Monday, May 25, 2020 | India | Idu'l Fitr |

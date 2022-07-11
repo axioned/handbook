@@ -2,6 +2,7 @@
 id: Dependabot
 title: Dependabot for module updates
 sidebar_label: Dependabot for module updates
+tags: [GitHub, GitHub Actions, CI/CD, Dependabot]
 ---
 
 ## What is Dependabot?
