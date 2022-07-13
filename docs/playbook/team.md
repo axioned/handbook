@@ -11,24 +11,22 @@ What’s the vision for our future org chart? Email Libby and Anurag, if interes
 ## Axioned Leadership
 
 - Management team
-
-  - [Dave (Dev) Jhala](mailto:dave@axioned.com): Founder/2006. CFO & CSO.
-
-  - [Libby Swan](mailto:libby@axioned.com): Co-Founder/2008. Chief Operating Officer (CEO).
-
-  - [Anurag Banerjee](mailto:anurag@axioned.com): Chief Operating Officer (COO).
-
-  - [Poonam Patil](mailto:poonamp@axioned.com): Tech Lead.
-
-  - [Sandip Bhise](mailto:sandipb@axioned.com): Head of People Operations (aka Human Resource).
-
-- Tim Redgate: Head of Axioned’s UK/European Operations.
-- Brian Miller: Global User Experience Lead.
-- Akshay Samarth: Design Team Lead.
-
+  - [Dave (Dev) Jhala](mailto:dave@axioned.com): Founder, CFO & CSO
+  - [Libby Swan](mailto:libby@axioned.com): Co-Founder, Chief Operating Officer (CEO)
+  - [Anurag Banerjee](mailto:anurag@axioned.com): Chief Operating Officer (COO)
+  - [Sandip Bhise](mailto:sandipb@axioned.com): Head of People Operations (aka Human Resource)
+- Tim Redgate: Head of Axioned’s UK/European Operations
+- Brian Miller: Global User Experience Lead
+- Akshay Samarth: Design Team Lead
 - PMO team:
 
   - Nimish Surve (Senior Project Manager)
   - Pratibha Kale (QA Lead)
   - Shyam Gharat (Senior Project Manager)
   - Sumeet Uniyal (Senior Project Manager)
+
+- Engineering Leadership
+  - Monil Vora (Senior Software Engineer)
+  - Kevin Jain (Senior Software Engineer)
+  - Vipin Yadav (Senior Software Engineer)
+  - Saurabh Pradhan (Technical Lead, Architect)

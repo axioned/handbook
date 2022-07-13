@@ -48,7 +48,7 @@ More on our Services page.
 
 Simply put, we are a company full of passionate people who love the products we create.
 
-We're so fortunate to have a team of people who's onboard to take the extra mile and put their best effort towards a common goal: making Significa a better company. With all it entails.
+We're so fortunate to have a team of people who's onboard to take the extra mile and put their best effort towards a common goal: making Axioned a better company. With all it entails.
 
 > We want to be successful together and we want you to be part of it.
 
@@ -63,7 +63,7 @@ We value everyone's opinion, we incentivise everyone's insights, we care about w
 > Most importantly: we hired you because we trust you.
 
 :::note
-It doesn't mean there won't be project managers and reviewers at every project we take. There will be. But instead of micro-managing every single detail of the project, they are the touchpoint between Significa and the client. They are responsible for coordinating the team and the work to be delivered, making sure the team has everything they need to complete their work peacefully. They ain't the police.
+It doesn't mean there won't be project managers and reviewers at every project we take. There will be. But instead of micro-managing every single detail of the project, they are the touchpoint between Axioned and the client. They are responsible for coordinating the team and the work to be delivered, making sure the team has everything they need to complete their work peacefully. They ain't the police.
 :::
 
 ## Maximum freedom, maximum responsibility
@@ -92,7 +92,7 @@ You'll get the chance to work remotely when you want to. Sometimes working from 
 
 ### Flexible Hours
 
-We know that people perform best when they care deeply about their work. Detailed lists of tasks to complete each day are tedious and demotivating. At Significa we encourage the flexibility to manage your time and avoid squeezing your creativity into a 9-to-6-time slot. All we care about are the Sprints. As long as they get completed, we're cool!
+We know that people perform best when they care deeply about their work. Detailed lists of tasks to complete each day are tedious and demotivating. At Axioned we encourage the flexibility to manage your time and avoid squeezing your creativity into a 9-to-6-time slot. All we care about are the Sprints. As long as they get completed, we're cool!
 
 ### Making Mistakes
 
@@ -104,7 +104,7 @@ Every mistake can be repaired, made up for and we'll be here to have your back a
 
 ## Career Plan
 
-We want everyone to feel included and we encourage every team member to contribute in their own way to Significa. We want everyone to feel proud of their contribution to our common goal: to make Significa a better place to work at, every day.
+We want everyone to feel included and we encourage every team member to contribute in their own way to Axioned. We want everyone to feel proud of their contribution to our common goal: to make Axioned a better place to work at, every day.
 
 ### T-Shaped People
 
@@ -124,13 +124,13 @@ The Career Plan is a set of Technical and Social competences that dictate where 
 
 ## Teamwork
 
-Building great digital products requires diverse perspectives. At Significa we embrace a diverse but inclusive culture and are committed to providing equal opportunities to all, regardless of gender, race, sexual orientation, disability, age, religion or any other aspects of appearance, background or personality.
+Building great digital products requires diverse perspectives. At Axioned we embrace a diverse but inclusive culture and are committed to providing equal opportunities to all, regardless of gender, race, sexual orientation, disability, age, religion or any other aspects of appearance, background or personality.
 
 > Even though we have fun together, we don’t tolerate any kind of disrespectful behaviour, discrimination or harassment.
 
 ### Experiment
 
-Serendipity and spontaneous discovery are at the heart of all creative thinking and are some of the cultural pillars of Significa. We believe that good things come from experimentation, random ideas and "just trying things". We incentivise a creative environment and an experimental playground.
+Serendipity and spontaneous discovery are at the heart of all creative thinking and are some of the cultural pillars of Axioned. We believe that good things come from experimentation, random ideas and "just trying things". We incentivise a creative environment and an experimental playground.
 
 ### Communication
 
@@ -146,8 +146,6 @@ We’re a small company with many people trying on different roles.
 
 Even though we're trying to unify processes and clarify methodologies, sometimes there will be friction and chaos. If you feel that something isn’t working the way it should, it probably isn’t and we should do something about it. With your help, we can pinpoint those issues as early as possible and adjust accordingly.
 
-> A lot of progress is being made thanks to everyone's commitment towards making Significa a better company.
-
 ### Our home, away from home
 
 Our workspace is our home away from home. It’s where we explore ideas, hang out, eat lunch, have meetings, discuss the best strategies and create digital products. Take good care of the space, groom it and treat like you treat your home.
@@ -160,13 +158,13 @@ Do you reckon we need more plants? Let's fix it.
 
 TODO: Suggestion box
 
-## Grooming Significa
+## Grooming Axioned
 
-We want you to feel you are part of Significa. We hate the feeling we are just one more tool amongst others. We want you to feel valued as you, indeed, are.
+We want you to feel you are part of Axioned. We hate the feeling we are just one more tool amongst others. We want you to feel valued as you, indeed, are.
 
 ### Group contribution
 
-Contributing to Significa processes, hiring, improving workflow, amplifying your colleagues, or creating tools and publish open-source projects are grandly valued.
+Contributing to Axioned processes, hiring, improving workflow, amplifying your colleagues, or creating tools and publish open-source projects are grandly valued.
 
 We deeply encourage you to walk a step further and take the time to work on such things as it means you are making a tradeoff versus an individual contribution. We appreciate that.
 

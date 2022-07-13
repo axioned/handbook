@@ -5,8 +5,6 @@ sidebar_label: Dependabot for module updates
 tags: [GitHub, GitHub Actions, CI/CD, Dependabot]
 ---
 
-## What is Dependabot?
-
 Dependabot alleviates that pain by raising a PR against a particular module automatically, so you can spend less time updating dependencies and more time building.
 
 **General notes:**
