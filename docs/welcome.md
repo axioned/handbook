@@ -31,7 +31,7 @@ If you are new at Axioned or would just like to read a more in detail overview o
 
 Read along if you don't know anything about our working methodology or you simply wish to know better.
 
-## Process
+## Processes
 
 We're always trying to find out ways to improve and to make Axioned a more comprehensive company. Like this handbook, our work methodology is never ready. It's forever evolving and adapting itself to new perspectives.
 
