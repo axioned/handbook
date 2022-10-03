@@ -69,7 +69,6 @@ const config = {
 						position: "left",
 						label: "Docs",
 					},
-					{ to: "/blog", label: "Blog", position: "left" },
 					{
 						href: "https://github.com/facebook/docusaurus",
 						label: "GitHub",
@@ -99,7 +98,7 @@ const config = {
 							},
 							{
 								label: "Playbook",
-								to: "/docs/playbook",
+								to: "/docs/category/playbook",
 							},
 							{
 								label: "Processes",
@@ -115,12 +114,8 @@ const config = {
 								href: "https://axioned.slack.com/",
 							},
 							{
-								label: "Zoho",
-								href: "https://projects.zoho.com/portal/axioned",
-							},
-							{
 								label: "Github",
-								href: "https://github.com/prdxn-org",
+								href: "https://github.com/axioned",
 							},
 						],
 					},
