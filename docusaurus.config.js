@@ -93,16 +93,16 @@ const config = {
 						title: "Docs",
 						items: [
 							{
-								label: "Handbook",
-								to: "/docs/welcome",
-							},
-							{
 								label: "Playbook",
 								to: "/docs/category/playbook",
 							},
 							{
 								label: "Processes",
 								to: "/docs/category/processes",
+							},
+							{
+								label: "Decision Records",
+								to: "/docs/category/decision-records",
 							},
 						],
 					},
