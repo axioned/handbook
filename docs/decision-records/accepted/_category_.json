@@ -1,0 +1,8 @@
+{
+	"label": "Accepted",
+	"position": 100,
+	"link": {
+		"type": "generated-index",
+		"description": "Accepted Decision Records"
+	}
+}

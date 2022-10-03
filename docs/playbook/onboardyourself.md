@@ -6,13 +6,13 @@ sidebar_label: How to on-board yourself
 
 ## Take charge of your own on-boarding process
 
-No one else is as invested in your success as you are. Everyone else is busy with their existing job, so embrace that you’ll need to take the reins. This is an opportunity to show you are proactive and self-directed — something every team member here at PRDXN appreciates.
+No one else is as invested in your success as you are. Everyone else is busy with their existing job, so embrace that you’ll need to take the reins. This is an opportunity to show you are proactive and self-directed — something every team member here at Axioned appreciates.
 
-- What information do you need to start contributing? 
-- What platforms, folders, and logins do you need access to? 
-- Which specific people do you need to keep in the loop about your decisions? 
+- What information do you need to start contributing?
+- What platforms, folders, and logins do you need access to?
+- Which specific people do you need to keep in the loop about your decisions?
 - What kind of decisions does your buddy or manager want to be involved with? What do they want you to decide on your own?
-- What questions do you have? 
+- What questions do you have?
 - What hunches do you want to validate?
 
 ## Review information with an active stance
@@ -28,6 +28,7 @@ Come prepared with specific questions and an idea of what you want to get out of
 So as you review, don’t just review for background info. Instead, assume you’ll be taking over those responsibilities.
 
 Think about what you want to do. Consider the following:
+
 - What resources you’ll need
 - What you want to start/stop/continue
 - How you want to lead in the next phase

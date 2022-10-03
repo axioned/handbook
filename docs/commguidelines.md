@@ -50,7 +50,7 @@ A Project Manager and the team should always be clear with each of these 5W and 
 ### Ideal time to acknowledge:
 
 - Such emails should be sent quickly. You may wish to respond within 1 to 24 hours. A good rule of thumb is to respond on the same day as the initial request.
-- At PRDXN as we work across different time zones the following may work best for us:
+- At Axioned as we work across different time zones the following may work best for us:
   - Any email hitting the inbox between 11 am till 9 pm IST will be acknowledged within 2 hr of receipt.
   - Any email hitting the inbox after 9 pm IST will be acknowledged before 1 pm the following day.
     - The time frame is an indicator. PMs should be able to make smart decisions on what to prioritize when, keeping in mind that we don't keep the client waiting for long so as to make him ask for an update.
@@ -63,8 +63,8 @@ A Project Manager and the team should always be clear with each of these 5W and 
 
 ## Decision making
 
-1. **Project Managers need to fully-own the decisions that they're making.** They need to question/test themselves on the decisions that they're making/recommending: 5Ws+1Hws; including testing their own decision against the Client/PRDXN Agreement language, through the perspective of the client, etc.
-2. Seema, as the Manager of all Project Managers, needs to be able to fully back the decisions a PM is recommending, In order to do this, she needs to question/test the PM on the decisions that they're making/recommending: 5Ws+1Hws; including testing the PMs decision against the Client/PRDXN Agreement language, through the perspective of the client, etc. If Seema disagrees with the PMs decision on something, then that needs to be figured out by/between the PM and Seema.
+1. **Project Managers need to fully-own the decisions that they're making.** They need to question/test themselves on the decisions that they're making/recommending: 5Ws+1Hws; including testing their own decision against the Client/Axioned Agreement language, through the perspective of the client, etc.
+2. Seema, as the Manager of all Project Managers, needs to be able to fully back the decisions a PM is recommending, In order to do this, she needs to question/test the PM on the decisions that they're making/recommending: 5Ws+1Hws; including testing the PMs decision against the Client/Axioned Agreement language, through the perspective of the client, etc. If Seema disagrees with the PMs decision on something, then that needs to be figured out by/between the PM and Seema.
 3. If Seema and the PM are not 101% confident in their decision or "confused" about their decision, and are seeking further inputs/guidance, then they need to schedule time with whomever they feel they need guidance from - e.g. me/Anurag or Libby - to gather inputs. But BOTH - Seema and the PM - must be prepared to be questioned/"tested" by them. And know that Anurag/Libby (or whomever is being asked to provide inputs) will test them on the 5Ws+1H that need to have been considered already/in steps #1 and #2.
 
 ## Establish communication plan for your project
