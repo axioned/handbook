@@ -1,5 +1,5 @@
 ---
-title: Using WP-CLI
+title: (Example) Using WP-CLI
 ---
 
 We should be using [WP-CLI](https://wp-cli.org/), which is the command-line interface for WordPress that allows you to update plugins, export/import data/databases between instances, configure the site, and [much more](https://developer.wordpress.org/cli/commands/), without using a web browser. By adopting this, we can reliably automate many manual yet important activities which are otherwise time-consuming or could be error-prone.

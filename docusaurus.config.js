@@ -102,7 +102,7 @@ const config = {
 							},
 							{
 								label: "Decision Records",
-								to: "/docs/category/accepted",
+								to: "/docs/category/decision-records",
 							},
 						],
 					},
