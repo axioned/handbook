@@ -1,12 +1,12 @@
 ---
 id: GithubActions
-title: GitHub Actions for Wordpress
-sidebar_label: Wordpress GitHub Actions
-tags: [GitHub, Actions, CICD, Deployment, Wordpress, yml, WP Engine, AWS]
+title: GitHub Actions for WordPress
+sidebar_label: WordPress GitHub Actions
+tags: [GitHub, Actions, CICD, Deployment, WordPress, yml, WP Engine, AWS]
 ---
 
 This document is an overview of the required information that a developer needs to have
-in order to implement CI/CD in any of the Wordpress projects.
+in order to implement CI/CD in any of the WordPress projects.
 
 CI/CD automates your builds, and deployment so you can ship code changes faster and more reliably.
 
@@ -18,8 +18,8 @@ The platform supported by the below scripts can run on GitHub since the below sc
 
 ### Prerequisite
 - A GitHub account
-- Repository/Project on GitHub (public/private)
-- Necessary Permissions on the repository to store some SECRET KEYS in - Github (for more details connect with the IT team/Sagar)
+- Repository/Project on GitHub (always private for client projects)
+- Necessary Permissions on the repository to store some SECRET KEYS _(like: SECURITY_AWS_ACCESS_KEY, SECURITY_AWS_SECRET_ACCESS_KEY, SSH_PRIVATE_KEY, etc)_ in - Github (for more details connect with the IT team/Sagar)
 - Access to the hosting/control panel to extract the server details and the Private keys etc.
 - SSH should be enabled/supported by the hosting provider
 
@@ -31,6 +31,7 @@ The platform supported by the below scripts can run on GitHub since the below sc
     ├── .github
     │   └── workflows
     │       ├── prod.yml
+    │       └── stage.yml
     │       └── dev.yml
     ├── wp-content
     │   ├── themes
