@@ -150,8 +150,7 @@ In this case, follow the below steps to set up
 Below attached is the snippet for the basic flow which is set for CI/CD in our case
 <u>**Note:**</u> the code is case sensitive and the indentation is very important wrong indentation will result in **Build Failure**
 
-```
- 
+```yml 
 # This is a basic workflow to help you get started with Actions
 name: Auto Deployment on Dev Environment
  
@@ -183,7 +182,6 @@ jobs:
          --exclude /node_modules/ \
          ./ ${{env.dest}}:/sites/dev123v
        ssh -i ./deploy_key -o StrictHostKeyChecking=no ${{env.dest}} 'rm -r /sites/dev123v/wp-content/cache -f'
-
 ```
 </br>
 
