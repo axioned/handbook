@@ -13,7 +13,7 @@ CI/CD automates your builds, and deployment so you can ship code changes faster 
 # General Information
 
 ### Platform
-The platform supported by the below scripts can run on GitHub since the below scripts are using GitHub action to achieve CI/CD.
+The platform supported by the below scripts can run only on GitHub since the below scripts are using GitHub action to achieve CI/CD.
 
 
 ### Prerequisite
@@ -63,7 +63,7 @@ Key advantages of using GitHub Actions for CI/CD pipelines
 - Support for any platform, any language, and any cloud
 
 
-[Learn more about](https://youtu.be/5MJRtldPOEI)  how to start a CI pipeline with Actions
+[Learn more about](https://youtu.be/5MJRtldPOEI)  how to start a CI pipeline with Github Actions
 
 </br>
 
@@ -77,8 +77,7 @@ You can either use an existing project code base, fork a project you like on Git
 
 To begin building your CI/CD pipeline, open the GitHub Actions tab in your repository’s top navigation bar.
 
-You should see a list of CI/CD and workflow automation templates that match the technology your project uses
-
+Under Github Action you will find list of templates from you can choose as per your project techstack.
 
 #### A CI/CD workflows include:
 - <u>**A development workflow**</u>
@@ -96,7 +95,7 @@ You should see a list of CI/CD and workflow automation templates that match the 
 - <u>**A release and builds workflow**</u>
     This workflow runs tests and enforces lint after releasing code changes to Docker and building the application. It also deploys the final code to our production environment
     
-    you can see which jobs and steps happen in the [workflow](https://github.com/aaronwinston/open-sauced/blob/main/.github/workflows/release.yml) for yourself.
+    You can see which jobs and steps happen in the [workflow](https://github.com/aaronwinston/open-sauced/blob/main/.github/workflows/release.yml) for yourself.
 </br>
 
 - <u>**A storybook deployment workflow**</u>
@@ -137,13 +136,13 @@ In this approach follow the below steps to achieve
 _You can manually create a respective YML file and put it into the GitHub workflows folder_
 
 In this case, follow the below steps to set up
-1. Make sure you are on the master/main branch of the project _(the file should exist in your master and development branch and it should not be in gitignore)_
+1. Make sure you are on the main (default) branch of the repository.
 2. Create a folder `.github` inside create `workflows` folder in the root directory of the project _(in our case it will reside outside the wp-content folder)_
-3. Under the workflows folder, you can create your deployment file which is a YML file in the end the path for the file will look like this: `.github/workflows/dev.yml`
+3. Under the workflows folder, you can create your deployment `.yml` file. The folder structure will look like this: `.github/workflows/dev.yml`
 4. You can set up all the processes and actions to be taken once the GitHub action is triggered.
 5. Once you are done with the YML file commit the changes and push the file
-6. As per the code, the actions will be taken
-7. Later step you will get to know the details of what goes into the YML file
+6. As per instructions in `.yml` file, the actions will run on GitHub.
+7. In the later step we will see what goes into the `.yml` file.
 
 <br>
 
@@ -170,7 +169,7 @@ jobs:
    - uses: actions/checkout@v2
    - name: Rsync to WP Engine Dev Env
      env:
-       dest: 'dev123v@dev123v.ssh.wpengine.net'
+       dest: '[WP_USER_NAME]@[WP_HOST]'
      run: |
        echo "${{secrets.DEV_DEPLOY_KEY_PRIVATE}}" > deploy_key
        chmod 600 ./deploy_key
@@ -181,22 +180,22 @@ jobs:
          --exclude /.github/ \
          --exclude /.github/workflows \
          --exclude /node_modules/ \
-         ./ ${{env.dest}}:/sites/dev123v
-       ssh -i ./deploy_key -o StrictHostKeyChecking=no ${{env.dest}} 'rm -r /sites/dev123v/wp-content/cache -f'
+         ./ ${{env.dest}}:[PROJECT_PATH]
+       ssh -i ./deploy_key -o StrictHostKeyChecking=no ${{env.dest}} 'rm -r [FOLDER_PATH_OF_CACHE] -f'
 ```
 </br>
 
-For more information about the GitHub action please visit this [link](https://github.blog/2021-11-04-10-github-actions-resources-basics-ci-cd/)
-Documentation for GitHub action: [link](https://docs.github.com/en/actions)
+For more information about the GitHub Action please visit this [link](https://github.blog/2021-11-04-10-github-actions-resources-basics-ci-cd/)
+Documentation for GitHub Action: [link](https://docs.github.com/en/actions)
 
 
 
 Here is the high-level summary/understanding of the above code (github _[link](https://github.com/axioned/axioned-wordpress-starter/blob/main/.github/workflows/dev.yml))_:
 
 
-- **on**: Since we are using GitHub actions to deploy the files from the GitHub server/repository to the development server _(where the site is hosted)_
-    - **push**: The GitHub action is set on the push on the **staging branch** as you can notice in the above code snippet.
-    - Whenever there are any changes pushed to the staging branch the GitHub action hook will be triggered.
+- **on**: Since we are using GitHub Actions to deploy the files from the GitHub server/repository to the development server _(where the site is hosted)_
+    - **push**: The GitHub Action is set on the push on the **staging branch** as you can notice in the above code snippet.
+    - Whenever there are any changes pushed to the staging branch the GitHub Action hook will be triggered.
     - As per our above code, the further job will be executed
 
 - Similarly, you can set triggers on pull as well but in the above case we have set on the push
@@ -228,8 +227,8 @@ Here is the high-level summary/understanding of the above code (github _[link](h
         - This needs to be created on GitHub under **Settings -> Secrets -> Action** _(If not visible please contact the IT team/Sagar for access)_
         - The private key you can download it from the server using your hosting login
     - **chmod**: setting up the proper permissions to the file
-    - **rsync**: using this command we are transferring the files from the GitHub repository to the actual development server over an ssh connection
-        - For more information about **rsync command** and its usage you can check this [link](https://help.ubuntu.com/community/rsync)
+    - **[rsync](https://help.ubuntu.com/community/rsync)**: using this command we are transferring the files from the GitHub repository to the actual development server over an ssh connection
+        - For more information about **rsync, ssh commands** and there usage you can check these [Official links](https://help.ubuntu.com/community/rsync) from Ubuntu
         - For more information about the **ssh command** and its usage you can check this [link](https://linux.die.net/man/1/ssh)
     - As you noticed in the above code we have excluded a few of the directories and files similarly you can add if any file/folder needs to be excluded in a deployment like a config file etc.
 
