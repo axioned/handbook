@@ -11,12 +11,12 @@ in order to implement CI/CD in any of the WordPress projects.
 CI/CD automates your builds, and deployment so you can ship code changes faster and more reliably.
 
 # General Information
+**Platform**
 
-### Platform
 The platform supported by the below scripts can run only on GitHub since the below scripts are using GitHub action to achieve CI/CD.
 
 
-### Prerequisite
+**Prerequisite**
 - A GitHub account
 - Repository/Project on GitHub (always private for client projects)
 - Necessary Permissions on the repository to store some SECRET KEYS _(like: SECURITY_AWS_ACCESS_KEY, SECURITY_AWS_SECRET_ACCESS_KEY, SSH_PRIVATE_KEY, etc)_ in - Github (for more details connect with the IT team/Sagar)
@@ -24,8 +24,7 @@ The platform supported by the below scripts can run only on GitHub since the bel
 - SSH should be enabled/supported by the hosting provider
 
 
-
-### Architecture 
+**Architecture** 
 *File & Folder Structure*
     
     ├── .github
@@ -40,8 +39,7 @@ The platform supported by the below scripts can run only on GitHub since the bel
     └── README.md
 
 
-
-# Why CI/CD?
+## Why CI/CD?
 The short answer would be - Speed.
 While faster development is the most well-known benefit of CI/CD, continuous integration and continuous delivery pipeline enable much more.
 
@@ -52,7 +50,7 @@ While faster development is the most well-known benefit of CI/CD, continuous int
 [Learn more about the benefits of CI/CD](https://resources.github.com/webcasts/Devops-collaboration-GitHub-Actions-thankyou/)
 
 
-# How to build a CI/CD pipeline
+## How to build a CI/CD pipeline
 Build a CI/CD pipeline with GitHub Actions
 [Learn more](https://github.blog/2022-02-02-build-ci-cd-pipeline-github-actions-four-steps/)
 
@@ -65,7 +63,7 @@ Key advantages of using GitHub Actions for CI/CD pipelines
 
 [Learn more about](https://youtu.be/5MJRtldPOEI)  how to start a CI pipeline with Github Actions
 
-</br>
+<br>
 
 <u>**Step 1:**</u> **Create or choose a repository, and pick a project**
 
@@ -83,20 +81,20 @@ Under Github Action you will find list of templates from you can choose as per y
 - <u>**A development workflow**</u>
     This workflow runs through a few different jobs whenever a pull request is opened, edited, synchronized, or reopened. These jobs include setting up Node, installing npm packages and dependencies, running npm test, and cycling through a number of lint jobs too (setup node, install npm@latest, install dependencies, lint code… you get the idea).
 
-</br>
+<br>
 
 - <u>**A CodeQL Analysis workflow**</u>
     This workflow runs a series of CodeQL security tests on our code after we merge it to the main branch to ensure there are no known vulnerabilities.
     
     Check out the [YAML](https://github.com/aaronwinston/open-sauced/blob/main/.github/workflows/codeql-analysis.yml) file for yourself. It’s super simple
     
-</br>
+<br>
 
 - <u>**A release and builds workflow**</u>
     This workflow runs tests and enforces lint after releasing code changes to Docker and building the application. It also deploys the final code to our production environment
     
     You can see which jobs and steps happen in the [workflow](https://github.com/aaronwinston/open-sauced/blob/main/.github/workflows/release.yml) for yourself.
-</br>
+<br>
 
 - <u>**A storybook deployment workflow**</u>
     This workflow deploys any UI component changes to our production website through our frontend UI tech
@@ -111,19 +109,20 @@ We will see an example step by step you can follow that and get a complete idea 
 _**Tip**: Few Github actions resources, basics to CI/CD - [reference link](https://github.blog/2021-11-04-10-github-actions-resources-basics-ci-cd/)_
 
 
-</br>
+<br>
 
 
-# CI/CD Example and detailed process step by step
-#### <u>Step 1</u>: Set up your Project/Repository on Github on which you want to set up the CI/CD process
+## CI/CD Example and detailed process step by step
+### <u>Step 1</u>: Setup Project/Repository
+Set up your Project/Repository on Github in which you want to implement the CI/CD process
 
 <br>
 
-#### <u>Step 2</u>: Setup GitHub workflow
+### <u>Step 2</u>: Setup GitHub workflow
 
 Here we have 2 ways to set up the GitHub workflow _(recommended is 2nd one for good practice)_
 
-##### 1. GitHub UI (via GitHub website)
+#### 1. GitHub UI (via GitHub website)
 In this approach follow the below steps to achieve
 
 - Go to the respective repository on the GitHub site
@@ -132,7 +131,7 @@ In this approach follow the below steps to achieve
 - After clicking you will be redirected to the YML file here you will add the code for deployment _(an example is attached below for reference)_
 
 
-##### 2. Via custom YML code _(within project setup phase)_:
+#### 2. Via custom YML code _(within project setup phase)_:
 _You can manually create a respective YML file and put it into the GitHub workflows folder_
 
 In this case, follow the below steps to set up
@@ -146,7 +145,7 @@ In this case, follow the below steps to set up
 
 <br>
 
-#### <u>Step 3</u>: Understanding the YML script below
+### <u>Step 3</u>: Understanding the YML script below
 Below attached is the snippet for the basic flow which is set for CI/CD in our case
 <u>**Note:**</u> the code is case sensitive and the indentation is very important wrong indentation will result in **Build Failure**
 
@@ -183,7 +182,7 @@ jobs:
          ./ ${{env.dest}}:[PROJECT_PATH]
        ssh -i ./deploy_key -o StrictHostKeyChecking=no ${{env.dest}} 'rm -r [FOLDER_PATH_OF_CACHE] -f'
 ```
-</br>
+<br>
 
 For more information about the GitHub Action please visit this [link](https://github.blog/2021-11-04-10-github-actions-resources-basics-ci-cd/)
 Documentation for GitHub Action: [link](https://docs.github.com/en/actions)
@@ -228,8 +227,7 @@ Here is the high-level summary/understanding of the above code (github _[link](h
         - The private key you can download it from the server using your hosting login
     - **chmod**: setting up the proper permissions to the file
     - **[rsync](https://help.ubuntu.com/community/rsync)**: using this command we are transferring the files from the GitHub repository to the actual development server over an ssh connection
-        - For more information about **rsync, ssh commands** and there usage you can check these [Official links](https://help.ubuntu.com/community/rsync) from Ubuntu
-        - For more information about the **ssh command** and its usage you can check this [link](https://linux.die.net/man/1/ssh)
+        - For more information about **rsync, ssh commands** and there usage you can check these Official links[rsync](https://help.ubuntu.com/community/rsync) [ssh](https://linux.die.net/man/1/ssh)
     - As you noticed in the above code we have excluded a few of the directories and files similarly you can add if any file/folder needs to be excluded in a deployment like a config file etc.
 
 - In the end, we are deleting the cache folder _(this is optional only if the cache is stored on a server in that case we can execute this)_
