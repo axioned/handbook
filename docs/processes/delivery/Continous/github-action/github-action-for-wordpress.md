@@ -63,7 +63,7 @@ Key advantages of using GitHub Actions for CI/CD pipelines
 
 [Learn more about](https://youtu.be/5MJRtldPOEI)  how to start a CI pipeline with Github Actions
 
-<br>
+<br />
 
 <u>**Step 1:**</u> **Create or choose a repository, and pick a project**
 
@@ -81,20 +81,20 @@ Under Github Action you will find list of templates from you can choose as per y
 - <u>**A development workflow**</u>
     This workflow runs through a few different jobs whenever a pull request is opened, edited, synchronized, or reopened. These jobs include setting up Node, installing npm packages and dependencies, running npm test, and cycling through a number of lint jobs too (setup node, install npm@latest, install dependencies, lint code… you get the idea).
 
-<br>
+<br />
 
 - <u>**A CodeQL Analysis workflow**</u>
     This workflow runs a series of CodeQL security tests on our code after we merge it to the main branch to ensure there are no known vulnerabilities.
     
     Check out the [YAML](https://github.com/aaronwinston/open-sauced/blob/main/.github/workflows/codeql-analysis.yml) file for yourself. It’s super simple
     
-<br>
+<br />
 
 - <u>**A release and builds workflow**</u>
     This workflow runs tests and enforces lint after releasing code changes to Docker and building the application. It also deploys the final code to our production environment
     
     You can see which jobs and steps happen in the [workflow](https://github.com/aaronwinston/open-sauced/blob/main/.github/workflows/release.yml) for yourself.
-<br>
+<br />
 
 - <u>**A storybook deployment workflow**</u>
     This workflow deploys any UI component changes to our production website through our frontend UI tech
@@ -109,14 +109,14 @@ We will see an example step by step you can follow that and get a complete idea 
 _**Tip**: Few Github actions resources, basics to CI/CD - [reference link](https://github.blog/2021-11-04-10-github-actions-resources-basics-ci-cd/)_
 
 
-<br>
+<br />
 
 
 ## CI/CD Example and detailed process step by step
 ### <u>Step 1</u>: Setup Project/Repository
 Set up your Project/Repository on Github in which you want to implement the CI/CD process
 
-<br>
+<br />
 
 ### <u>Step 2</u>: Setup GitHub workflow
 
@@ -143,7 +143,7 @@ In this case, follow the below steps to set up
 6. As per instructions in `.yml` file, the actions will run on GitHub.
 7. In the later step we will see what goes into the `.yml` file.
 
-<br>
+<br />
 
 ### <u>Step 3</u>: Understanding the YML script below
 Below attached is the snippet for the basic flow which is set for CI/CD in our case
@@ -182,7 +182,7 @@ jobs:
          ./ ${{env.dest}}:[PROJECT_PATH]
        ssh -i ./deploy_key -o StrictHostKeyChecking=no ${{env.dest}} 'rm -r [FOLDER_PATH_OF_CACHE] -f'
 ```
-<br>
+<br />
 
 For more information about the GitHub Action please visit this [link](https://github.blog/2021-11-04-10-github-actions-resources-basics-ci-cd/)
 Documentation for GitHub Action: [link](https://docs.github.com/en/actions)
