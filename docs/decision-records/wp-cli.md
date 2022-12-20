@@ -20,6 +20,8 @@ The beauty of the WP-CLI is that it gives us direct control over site. Anything 
 
 ## Installation of WP-CLI
 
+**Ubuntu:**
+
 Run the below commands in terminal:
 
 ```
@@ -34,6 +36,16 @@ chmod +x wp-cli.phar
 ```
 sudo mv wp-cli.phar /usr/local/bin/wp
 ```
+
+**Windows:**
+
+1. Download wp-cli.phar and save it in the ```/php``` directive of XAMPP installation.
+2. Move to the ```/php``` folder using shell and create a wrapping batch script that will create ```wp.cmd``` in the folder
+    ```echo @php "%~dp0wp-cli.phar" %* > wp.cmd```
+3. Confirm that we have successfuly installed WP-CLI.
+    ```wp --info```
+
+*Note: For windows as wp cli provides limited support, some dependencies needs to be installed separately*
 
 ## Project Setup with WP-CLI
 
@@ -71,3 +83,12 @@ sudo mv wp-cli.phar /usr/local/bin/wp
 - Custom command in WP-CLI
 - DB Migration
 - Run commands on the remote server
+
+**WP CLI Command details can be found [here](https://make.wordpress.org/cli/handbook/guides/commands-cookbook/)**
+
+**Troubleshooting details:**
+https://make.wordpress.org/cli/handbook/guides/troubleshooting/
+
+**References:** 
+https://wp-cli.org/
+https://make.wordpress.org/cli/handbook/
