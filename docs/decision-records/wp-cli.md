@@ -7,7 +7,7 @@ tags: cli, wp-cli, maintenance, security, updates, user-roles, plugin-updates
 
 This document is an overview of the required information that a developer needs to have in order to use WP-CLI in any of the WordPress projects.
 
-### Overview
+# Overview
 
 WP-CLI is a command line interface which allows the users to manage their WordPress websites from the command prompt. To upgrades and install plugins/themes, to generate backups, new posts can be published and most of the regular admin actions can be performed with a set of commands.
 
@@ -18,7 +18,7 @@ The beauty of the WP-CLI is that it gives us direct control over site. Anything 
 - PHP 5.6 or later.
 - WordPress 3.7 or later.
 
-### Installation of WP-CLI
+## Installation of WP-CLI
 
 Run the below commands in terminal:
 
@@ -35,7 +35,19 @@ chmod +x wp-cli.phar
 sudo mv wp-cli.phar /usr/local/bin/wp
 ```
 
-### Use Cses of WP-CLI
+## Project Setup with WP-CLI
+
+**Steps:**
+
+1. Clone the repo.
+2. Go to json file > Make the following changes to the file:
+    - wordpress version
+    - db details: dbuser, host, username, password
+    - site detail: site url, site title, admin: name, email, password
+3. Update the plugin version as per requirement in plugin list.
+4. Run command ```wp --require=axioned.php setup```
+
+## Use Cses of WP-CLI
 
 - Manage plugins and themes
     - Installing the WordPress software, themes, and/or plugins
@@ -59,4 +71,3 @@ sudo mv wp-cli.phar /usr/local/bin/wp
 - Custom command in WP-CLI
 - DB Migration
 - Run commands on the remote server
-
