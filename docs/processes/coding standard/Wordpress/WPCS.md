@@ -1,6 +1,9 @@
 ---
 position: 1
+id: WPCS
 title: WordPress Coding Standards
+sidebar_label: Coding Standards
+tags: wpcs, code sniffer, acf snippets, coding standards, phpcs, phpcbf, wordpress autocompletions, error reporting, wordpress sniffer
 ---
 
 ## Overview
@@ -97,14 +100,15 @@ For adding WPCS the Composer is required *( One time Installation )*
       ```
 
       :::tip How to check PHPCS error
-      *After adding this restart vscode now on saving the .php file it will run added phpcs command. Now it will start throwing error related to wordpress.*
-      *For checking error in vscode go to `Terminal -> output -> on right hand side there will be a dropdown open it and select Run on Save` You will get the error here.*
+      1. *After adding this restart vscode now on saving the .php file it will run added phpcs command. Now it will start throwing error related to WordPress.*
+      2. *For checking error in vscode go to `Terminal -> output -> on right hand side there will be a dropdown open it and select Run on Save` You will get the error here.*
+      3. *As we have set the reporting type to `.txt` format. For changing reporting type to `CSV, JSON, JUnit, etc`. Refer this git [reproting](https://github.com/squizlabs/PHP_CodeSniffer/wiki/Reporting) repository*
       :::
 ## Validating WP Functions
 
   1. Add [PHP Intelephense](https://marketplace.visualstudio.com/items?itemName=bmewburn.vscode-intelephense-client) Vscode extension by *Ben Mewburn*
-  2. For enabling this extension for Wordpress go to <mark>Vscode -> setting -> Extension -> Intelephense -> Intelephense Stubs</mark> and click on add item and add ***Wordpress***.
-  3. As this function are not wordpress specific. It will give error for acf methods like get_field, have_rows.
+  2. For enabling this extension for WordPress go to <mark>Vscode -> setting -> Extension -> Intelephense -> Intelephense Stubs</mark> and click on add item and add ***WordPress***.
+  3. As this function are not WordPress specific. It will give error for acf methods like get_field, have_rows.
   4. For removing the above error clone this [acf-pro-stubs](https://github.com/php-stubs/acf-pro-stubs) in your document directory
   5. Go to Vscode setting in JSON format add the acf-pro-stubs directory for PHP Intelephense
 
@@ -119,7 +123,15 @@ For adding WPCS the Composer is required *( One time Installation )*
 ## Important Extension for Development
 
   - Using [acf-snippets](https://marketplace.visualstudio.com/items?itemName=anthonydiametrix.ACF-Snippet) vscode extension by *Anthony Hubble*
-    1. field:if / field:ifelse
+  - Use below ***emmet/snippets*** for generating the acf code
+    - Eg: type `field:ifelse` snippet and press enter
+    1. field:ifelse
+        ```php
+        <?php if ( get_field('field_name') ) : ?>
+        <?php else: ?>
+        <?php endif; ?>
+        ```
+    1. field:if
         ```php
         <?php if ( get_field('field_name') ) : ?>
         <?php endif; ?>
@@ -162,17 +174,24 @@ For adding WPCS the Composer is required *( One time Installation )*
           <?php endif; ?>
         ```
     6. For more snippets checkout this [doc](https://docs.google.com/document/d/1CTLZ6f2agwWT4IiI7ZTEoQ0OrrZBDxDZxCHltRZrwG8/edit).
-  - Use [WordPress & ClassicPress snippets plus autocompletions](https://marketplace.visualstudio.com/items?itemName=laurencebahiirwa.classicpress-snippets) by *Laurence Bahiirwa*: For Wordpress Method autocompletions
+  - Use [WordPress & ClassicPress snippets plus autocompletions](https://marketplace.visualstudio.com/items?itemName=laurencebahiirwa.classicpress-snippets) by *Laurence Bahiirwa*: For WordPress Method autocompletions
 
 ## Fixing Minor formatting issues
 
 1. For fixing Some issues in a file use this command `phpcbf --standard="WordPress"  header.php` *( This command will format your WP php file )*
 2. To Fix some minor issue in all php file in a project use this command: `phpcbf -p -s -v -n . --standard=WordPress --extensions=php`
 
+
 ## Reference Link
 
-1. https://www.youtube.com/watch?v=pW9BzPUGYw4
-2. https://www.youtube.com/c/GregRickaby
-3. https://wpdevdesign.com/wp-coding-standards-in-vscode/
-4. https://github.com/WordPress/WordPress-Coding-Standards#introduction
-5. Code_sniffer: https://github.com/squizlabs/PHP_CodeSniffer
+1. WPCS Installation and configuration 
+  - https://www.youtube.com/playlist?list=PLa_Xqm9JWuydw6f1yBSlrkWQZHJA3P9jA ***( Recommended )***
+  - https://www.youtube.com/watch?v=pW9BzPUGYw4
+  - https://wpdevdesign.com/wp-coding-standards-in-vscode/
+2. [WPCS Repository](https://github.com/WordPress/WordPress-Coding-Standards)
+3. [Code Sniffer](https://github.com/squizlabs/PHP_CodeSniffer)
+4. [WPCS Reporting](https://github.com/squizlabs/PHP_CodeSniffer/wiki/Reporting)
+5. [Storing Reporting into a file](https://stackoverflow.com/questions/46704783/storing-results-of-phpcs-fixer-into-a-file)
+6. [Important Wordpress Extensions](https://asphaltthemes.com/wordpress-visual-studio-code-extensions/)
+7. [Stubs Repository](https://github.com/php-stubs)
+8. [Phpcbf](https://github.com/squizlabs/PHP_CodeSniffer/wiki/Fixing-Errors-Automatically)
