@@ -140,6 +140,41 @@ wp db import [<file name>]
 wp db export
 wp search-replace http://example.com http://newexample.com
 ```
+
+**4. User Management**
+```
+wp user list 
+wp user get admin
+
+// create user 
+wp user create ndg ndg@xyz.com --role=editor --first_name=alfa --last_name=beta --user_pass=admin
+
+// manage user capabilities 
+wp user list-caps ndg
+
+wp user add-cap ndg edit_plugins
+wp user remove-cap ndg edit_plugins
+
+// manage user role
+wp user add-role ndg administrator
+wp user remove-role ndg administrator
+
+wp user delete ndg
+```
+
+**5. Security check**
+
+Core files security check:
+
+```
+wp core verify-checksums --version=$(wp core version)
+```
+
+Plugins security check:
+```
+wp plugin verify-checksums --all
+```
+
 **WP CLI Command details can be found [here](https://make.wordpress.org/cli/handbook/guides/commands-cookbook/)**
 
 **Troubleshooting details:**
