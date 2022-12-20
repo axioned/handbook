@@ -24,20 +24,16 @@ The beauty of the WP-CLI is that it gives us direct control over site. Anything 
 
 Run the below commands in terminal:
 
+**For Linux:**
+
 ```
 curl -O https://raw.githubusercontent.com/wp-cli/builds/gh-pages/phar/wp-cli.phar
-``` 
-```
 php wp-cli.phar --info
-```
-```
 chmod +x wp-cli.phar
-```
-```
 sudo mv wp-cli.phar /usr/local/bin/wp
 ```
 
-**Windows:**
+**For Windows:**
 
 1. Download wp-cli.phar and save it in the ```/php``` directive of XAMPP installation.
 2. Move to the ```/php``` folder using shell and create a wrapping batch script that will create ```wp.cmd``` in the folder
@@ -84,6 +80,66 @@ sudo mv wp-cli.phar /usr/local/bin/wp
 - DB Migration
 - Run commands on the remote server
 
+## Some useful commands:
+
+**1. WP Installation**
+
+```
+// download core wp files
+wp core download 
+
+// create config file
+wp core config --dbname=wpcli_test --dbuser=phpmyadmin --dbpass=root --dbhost=localhost --dbprefix=wp_
+
+// create db
+wp db create
+
+// install wp with admin user
+wp core install --url=http://localhost/WP-Cli_Testing/wp --title="Your Blog Title" --admin_name=admin --admin_password=admin --admin_email=admin@example.com
+
+//upgrade or downgrade wp core 
+wp core update --version=5.8.4 --force
+```
+
+Reinstall WordPress Core
+
+```
+wp core download --skip-content --force
+```
+
+Change home and site url
+
+```
+wp option update home 'https://example.com'
+wp option update siteurl 'https://example.com'
+```
+
+**2. Plugins play around**
+
+```
+wp plugin list
+
+wp plugin install all-in-one-wp-migration
+wp plugin delete all-in-one-wp-migration
+
+wp plugin activate hello
+wp plugin deactivate hello
+
+// install & activate
+wp plugin install all-in-one-wp-migration --activate
+
+// install specific version
+wp plugin install all-in-one-wp-migration --version=7.60
+```
+
+**3. Db Migration**
+import, export and search replace
+
+```
+wp db import [<file name>]
+wp db export
+wp search-replace http://example.com http://newexample.com
+```
 **WP CLI Command details can be found [here](https://make.wordpress.org/cli/handbook/guides/commands-cookbook/)**
 
 **Troubleshooting details:**
