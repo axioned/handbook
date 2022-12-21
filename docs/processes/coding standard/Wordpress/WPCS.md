@@ -173,7 +173,7 @@ For adding WPCS the Composer is required *( One time Installation )*
             </ul>
           <?php endif; ?>
         ```
-    6. For more snippets checkout this [doc](https://docs.google.com/document/d/1CTLZ6f2agwWT4IiI7ZTEoQ0OrrZBDxDZxCHltRZrwG8/edit).
+    6. For more snippets checkout this [link](https://docs.google.com/document/d/1CTLZ6f2agwWT4IiI7ZTEoQ0OrrZBDxDZxCHltRZrwG8/edit).
   - Use [WordPress & ClassicPress snippets plus autocompletions](https://marketplace.visualstudio.com/items?itemName=laurencebahiirwa.classicpress-snippets) by *Laurence Bahiirwa*: For WordPress Method autocompletions
 
 ## Fixing Minor formatting issues
@@ -184,7 +184,7 @@ For adding WPCS the Composer is required *( One time Installation )*
 
 ## Reference Link
 
-1. WPCS Installation and configuration 
+- WPCS Installation and configuration 
   - https://www.youtube.com/playlist?list=PLa_Xqm9JWuydw6f1yBSlrkWQZHJA3P9jA ***( Recommended )***
   - https://www.youtube.com/watch?v=pW9BzPUGYw4
   - https://wpdevdesign.com/wp-coding-standards-in-vscode/
