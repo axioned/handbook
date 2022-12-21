@@ -3,7 +3,7 @@ position: 1
 id: WPCS
 title: WordPress Coding Standards
 sidebar_label: Coding Standards
-tags: wpcs, code sniffer, acf snippets, coding standards, phpcs, phpcbf, wordpress autocompletions, error reporting, wordpress sniffer
+tags: [wpcs, code sniffer, acf snippets, coding standards, phpcs, phpcbf, wordpress autocompletions, error reporting, wordpress sniffer]
 ---
 
 ## Overview
@@ -19,7 +19,7 @@ PHP Code Sniffer (PHPCS) is a package for syntax checking. It can check code aga
 ### Composer
 
 For adding WPCS the Composer is required *( One time Installation )*
-
+https://meet.google.com/fgn-kapq-hfn?authuser=0
   - First check if composer is installed in your system by using this command: `composer`
   - For Installing default composer version use this command: `sudo apt install composer`
   - Or check the Composer installation ref [link](https://getcomposer.org/download/) OR refer this [Doc](https://docs.google.com/document/d/1zZfmWng-0qMgpyyaSrXDt5SkkPRCFabU4JLvdELKqqE/edit).
