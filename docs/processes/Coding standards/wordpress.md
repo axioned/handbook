@@ -38,24 +38,22 @@ For adding WPCS the Composer is required *( One time Installation )*
 ## Configure PHPCS for WPCS
 
   1. Getting Composer ***bin*** directory
-    - To get composer bin directory use this command `composer global config bin-dir --absolute`
+      - To get composer bin directory use this command `composer global config bin-dir --absolute`
   2. Updating Environment variable.
-    - Open Terminal and add `echo $PATH`
-    - Use this command  `nano ~/.bashrc` ( To Edit Environment variable in Ubuntu ).
-    - On the 2nd last line of the file add the composer bin directory as mentioned below
-      ```html
-      eg: export PATH="<mark>/home/prdxn122/.composer/vendor/bin</mark>:$PATH"
-      ```
-      - Add your composer bin directory instead of yellow marked directory
+      - Open Terminal and add `echo $PATH`
+      - Use this command  `nano ~/.bashrc` ( To Edit Environment variable in Ubuntu ).
+      - On the 2nd last line of the file add the composer bin directory as mentioned below
+        eg: export PATH="<mark>/home/prdxn122/.composer/vendor/bin</mark>:$PATH"
+        - Add your composer bin directory instead of yellow marked directory
   3. Saving the file
-    - Ctrl + X ( For exiting editor )
-    - Now it will ask for saving the changes press y and then enter
+      - Ctrl + X ( For exiting editor )
+      - Now it will ask for saving the changes press y and then enter
   4. For check if your composer bin path is added successfully run this command `echo $PATH`
   5. Now go to your WPCS cloned folder directory
-    - Open the terminal and run this command `pwd`. This command will show the path of your directory
-    - After getting the directory path, run this command `phpcs --config-set installed_paths {Your-WPCS-Path}`
-    - After configuring phpcs for WP run this command: `phpcs -i` and check if you are getting the output as mentioned below:
-      - *The installed coding standards are `MySource, PEAR, PSR1, PSR2, PSR12, Squiz, Zend, WordPress, WordPress-Core, WordPress-Docs and WordPress-Extra`*
+      - Open the terminal and run this command `pwd`. This command will show the path of your directory
+      - After getting the directory path, run this command `phpcs --config-set installed_paths {Your-WPCS-Path}`
+      - After configuring phpcs for WP run this command: `phpcs -i` and check if you are getting the output as mentioned below:
+        - *The installed coding standards are `MySource, PEAR, PSR1, PSR2, PSR12, Squiz, Zend, WordPress, WordPress-Core, WordPress-Docs and WordPress-Extra`*
   6. Check if PHPCS is working as excepted use this command on your theme directory `phpcs --standard="WordPress" header.php`
 
         ```
@@ -76,34 +74,34 @@ For adding WPCS the Composer is required *( One time Installation )*
 
   7. To check all phpcs flags use this Command: `phpcs –help`
 
- ## Dynamically Run Phpcs and Phpcbf command on saving the php file
+## Dynamically Run Phpcs and Phpcbf command on saving the php file
 
   1. Install [Run on Save](https://marketplace.visualstudio.com/items?itemName=emeraldwalk.RunOnSave) extension by ***emeraldwalk*** on Vscode
   2. As Vscode setting is displayed in UI format we have to change it to JSON format
-    - Go To -` Vscode -> setting -> Workbench - setting Editor -> And change the Editor option to JSON`
+      - Go To -` Vscode -> setting -> Workbench - setting Editor -> And change the Editor option to JSON`
 
-      ```json
-        "emeraldwalk.runonsave": {
-            "commands": [
-                {
+        ```json
+          "emeraldwalk.runonsave": {
+              "commands": [
+                  {
+                      "match": "\\.php$",
+                      "cmd": "phpcbf --standard='WordPress' ${file}",
+                      "cmd": "phpcs --standard='WordPress' ${file}",
+                  },
+                  {
                     "match": "\\.php$",
-                    "cmd": "phpcbf --standard='WordPress' ${file}",
-                    "cmd": "phpcs --standard='WordPress' ${file}",
-                },
-                {
-                  "match": "\\.php$",
-                  "cmd": "rm ${workspaceFolder}/errors/${fileBasenameNoExt}",
-                  "cmd": "phpcs --standard='WordPress' -a ${file} > ${workspaceFolder}/errors/${fileBasenameNoExt}.txt"
-                }
-            ]
-          }
-      ```
+                    "cmd": "rm ${workspaceFolder}/errors/${fileBasenameNoExt}",
+                    "cmd": "phpcs --standard='WordPress' -a ${file} > ${workspaceFolder}/errors/${fileBasenameNoExt}.txt"
+                  }
+              ]
+            }
+        ```
 
-      :::tip How to check PHPCS error
-      1. *After adding this restart vscode now on saving the .php file it will run added phpcs command. Now it will start throwing error related to WordPress.*
-      2. *For checking error in vscode go to `Terminal -> output -> on right hand side there will be a dropdown open it and select Run on Save` You will get the error here.*
-      3. *As we have set the reporting type to `.txt` format. For changing reporting type to `CSV, JSON, JUnit, etc`. Refer this git [reproting](https://github.com/squizlabs/PHP_CodeSniffer/wiki/Reporting) repository*
-      :::
+  :::tip How to check PHPCS error
+  1. *After adding this restart vscode now on saving the .php file it will run added phpcs command. Now it will start throwing error related to WordPress.*
+  2. *For checking error in vscode go to `Terminal -> output -> on right hand side there will be a dropdown open it and select Run on Save` You will get the error here.*
+  3. *As we have set the reporting type to `.txt` format. For changing reporting type to `CSV, JSON, JUnit, etc`. Refer this git [reproting](https://github.com/squizlabs/PHP_CodeSniffer/wiki/Reporting) repository*
+  :::
 ## Validating WP Functions
 
   1. Add [PHP Intelephense](https://marketplace.visualstudio.com/items?itemName=bmewburn.vscode-intelephense-client) Vscode extension by *Ben Mewburn*
@@ -118,7 +116,7 @@ For adding WPCS the Composer is required *( One time Installation )*
           ”/var/www/html/stubs/acf-pro-stubs”,
         ]
         ```
-  - Now the ACF methods error will be gone.
+  6. Now the ACF methods error will be gone.
 
 ## Important Extension for Development
 
@@ -184,10 +182,10 @@ For adding WPCS the Composer is required *( One time Installation )*
 
 ## Reference Link
 
-- WPCS Installation and configuration 
-  - https://www.youtube.com/playlist?list=PLa_Xqm9JWuydw6f1yBSlrkWQZHJA3P9jA ***( Recommended )***
-  - https://www.youtube.com/watch?v=pW9BzPUGYw4
-  - https://wpdevdesign.com/wp-coding-standards-in-vscode/
+1. WPCS Installation and configuration 
+    - https://www.youtube.com/playlist?list=PLa_Xqm9JWuydw6f1yBSlrkWQZHJA3P9jA ***( Recommended )***
+    - https://www.youtube.com/watch?v=pW9BzPUGYw4
+    - https://wpdevdesign.com/wp-coding-standards-in-vscode/
 2. [WPCS Repository](https://github.com/WordPress/WordPress-Coding-Standards)
 3. [Code Sniffer](https://github.com/squizlabs/PHP_CodeSniffer)
 4. [WPCS Reporting](https://github.com/squizlabs/PHP_CodeSniffer/wiki/Reporting)
