@@ -76,31 +76,31 @@ For adding WPCS the Composer is required *( One time Installation )*
 
 ## Dynamically Run Phpcs and Phpcbf command on saving the php file
 
-  1. Install [Run on Save](https://marketplace.visualstudio.com/items?itemName=emeraldwalk.RunOnSave) extension by ***emeraldwalk*** on Vscode
-  2. As Vscode setting is displayed in UI format we have to change it to JSON format
-      - Go To -` Vscode -> setting -> Workbench - setting Editor -> And change the Editor option to JSON`
+  - Install [Run on Save](https://marketplace.visualstudio.com/items?itemName=emeraldwalk.RunOnSave) extension by ***emeraldwalk*** on Vscode
+  - As Vscode setting is displayed in UI format we have to change it to JSON format
+    - Go To - `Vscode -> setting -> Workbench - setting Editor -> And change the Editor option to JSON`
 
-        ```json
-          "emeraldwalk.runonsave": {
-              "commands": [
-                  {
-                      "match": "\\.php$",
-                      "cmd": "phpcbf --standard='WordPress' ${file}",
-                      "cmd": "phpcs --standard='WordPress' ${file}",
-                  },
-                  {
-                    "match": "\\.php$",
-                    "cmd": "rm ${workspaceFolder}/errors/${fileBasenameNoExt}",
-                    "cmd": "phpcs --standard='WordPress' -a ${file} > ${workspaceFolder}/errors/${fileBasenameNoExt}.txt"
-                  }
-              ]
+  ```json
+    "emeraldwalk.runonsave": {
+        "commands": [
+            {
+                "match": "\\.php$",
+                "cmd": "phpcbf --standard='WordPress' ${file}",
+                "cmd": "phpcs --standard='WordPress' ${file}",
+            },
+            {
+              "match": "\\.php$",
+              "cmd": "rm ${workspaceFolder}/errors/${fileBasenameNoExt}",
+              "cmd": "phpcs --standard='WordPress' -a ${file} > ${workspaceFolder}/errors/${fileBasenameNoExt}.txt"
             }
-        ```
+        ]
+      }
+  ```
 
   :::tip How to check PHPCS error
-  1. *After adding this restart vscode now on saving the .php file it will run added phpcs command. Now it will start throwing error related to WordPress.*
-  2. *For checking error in vscode go to `Terminal -> output -> on right hand side there will be a dropdown open it and select Run on Save` You will get the error here.*
-  3. *As we have set the reporting type to `.txt` format. For changing reporting type to `CSV, JSON, JUnit, etc`. Refer this git [reproting](https://github.com/squizlabs/PHP_CodeSniffer/wiki/Reporting) repository*
+    1. *After adding this restart vscode now on saving the .php file it will run added phpcs command. Now it will start throwing error related to WordPress.*
+    2. *For checking error in vscode go to `Terminal -> output -> on right hand side there will be a dropdown open it and select Run on Save` You will get the error here.*
+    3. *As we have set the reporting type to `.txt` format. For changing reporting type to `CSV, JSON, JUnit, etc`. Refer this git [reproting](https://github.com/squizlabs/PHP_CodeSniffer/wiki/Reporting) repository*
   :::
 ## Validating WP Functions
 
