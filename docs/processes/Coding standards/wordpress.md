@@ -2,7 +2,7 @@
 position: 1
 id: WPCS
 title: WordPress Coding Standards
-sidebar_label: Coding Standards
+sidebar_label: WordPress
 tags: [wpcs, code sniffer, acf snippets, coding standards, phpcs, phpcbf, wordpress autocompletions, error reporting, wordpress sniffer]
 ---
 
