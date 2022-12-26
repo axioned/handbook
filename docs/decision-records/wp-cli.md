@@ -14,7 +14,7 @@ WP-CLI is a command line interface which allows the users to manage their WordPr
 The beauty of the WP-CLI is that it gives us direct control over site. Anything that we do in WordPress admin dashboard can be done using WP-CLI instead. 
 
 **Pre requisites**
-- UNIX-like environment (OS X, Linux, FreeBSD, Cygwin); limited support in Windows 
+- UNIX-like environment (OS X, Linux, FreeBSD, Cygwin);
 - PHP 5.6 or later.
 - WordPress 3.7 or later.
 
