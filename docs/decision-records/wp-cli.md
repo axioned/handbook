@@ -84,10 +84,10 @@ WP-CLI supports registering any callable class, function, or closure as a comman
 The synopsis of a command defines which positional and associative arguments a command accepts. Let’s take a look at the synopsis for wp plugin install:
 
 ```
-usage: wp plugin install <plugin|zip|url>... [--version=<version>] [--force] [--activate] [--activate-network]
+    usage: wp plugin install <plugin|zip|url>... [--version=<version>] [--force] [--activate] [--activate-network]
 ```
 
-In this example, <plugin|zip|url>... is the accepted positional argument. In fact, wp plugin install accepts the same positional argument (the slug, ZIP, or URL of a plugin to install) multiple times. [--version=<version>] is one of the accepted associative arguments. It’s used to denote the version of the plugin to install. Notice, too, the square brackets around the argument definition; square brackets mean the argument is optional.
+In this example, ```<plugin|zip|url>...``` is the accepted positional argument. In fact, wp plugin install accepts the same positional argument (the slug, ZIP, or URL of a plugin to install) multiple times. ```[--version=<version>]``` is one of the accepted associative arguments. It’s used to denote the version of the plugin to install. Notice, too, the square brackets around the argument definition; square brackets mean the argument is optional.
 
 WP-CLI also has a series of [global arguments](https://make.wordpress.org/cli/handbook/config/) which work with all commands. For instance, including --debug means your command execution will display all PHP errors, and add extra verbosity to the WP-CLI bootstrap process.
 
