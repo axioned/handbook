@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhandbook=self.webpackChunkhandbook||[]).push([[6230],{5355:s=>{s.exports=JSON.parse('{"label":"phpcs","permalink":"/docs/tags/phpcs","allTagsPath":"/docs/tags","count":1,"items":[{"id":"processes/Coding standards/WPCS","title":"WordPress Coding Standards","description":"Overview","permalink":"/docs/processes/Coding standards/WPCS"}]}')}}]);
