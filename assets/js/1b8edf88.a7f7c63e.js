@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhandbook=self.webpackChunkhandbook||[]).push([[8147],{1306:e=>{e.exports=JSON.parse('{"label":"ide","permalink":"/docs/tags/ide","allTagsPath":"/docs/tags","count":1,"items":[{"id":"processes/Toolkit/VSCode","title":"Visual Studio Code","description":"Connecting with Github","permalink":"/docs/processes/Toolkit/VSCode"}]}')}}]);
