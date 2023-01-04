@@ -104,10 +104,6 @@ const config = {
 								label: "Processes",
 								to: "/docs/category/processes",
 							},
-							{
-								label: "Decision Records",
-								to: "/docs/category/decision-records",
-							},
 						],
 					},
 					{

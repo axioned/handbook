@@ -1,8 +1,0 @@
-{
-	"label": "Decision Records",
-	"position": 100,
-	"link": {
-		"type": "generated-index",
-		"description": "A document that describes a choice the team makes about a significant aspect of the software architecture they're planning to build."
-	}
-}

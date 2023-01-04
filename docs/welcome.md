@@ -23,10 +23,6 @@ We highly recommend that you:
 - Contribute to this, add comments, and you are more than welcome to ask questions in the [#handbook](https://axioned.slack.com/archives/C02UV6BREDU) channel
 - If there are any parts of this Handbook that you need to be clarified or explained further, please ask in #help channel
 
-## Decision Records
-
-A collection of documents that describes a choice the team makes about a significant aspect of the software architecture they're planning to build.
-
 ## Playbook
 
 If you are new at Axioned or would just like to read a more in detail overview of who we are and how to settle in, hop in.
