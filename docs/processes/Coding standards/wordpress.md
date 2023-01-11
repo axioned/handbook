@@ -82,19 +82,30 @@ For adding WPCS the Composer is required *( One time Installation )*
 
   ```json
     "emeraldwalk.runonsave": {
-        "commands": [
-            {
-                "match": "\\.php$",
-                "cmd": "phpcbf --standard='WordPress' ${file}",
-                "cmd": "phpcs --standard='WordPress' ${file}",
-            },
-            {
-              "match": "\\.php$",
-              "cmd": "rm ${workspaceFolder}/errors/${fileBasenameNoExt}",
-              "cmd": "phpcs --standard='WordPress' -a ${file} > ${workspaceFolder}/errors/${fileBasenameNoExt}.txt"
-            }
-        ]
+    "autoClearConsole": true,
+    "commands": [
+      {
+        "match": "\\.php$",
+        "isAsync": true,
+        "cmd": "phpcbf --standard='WordPress' ${file}",
+      },
+      {
+        "match": "\\.php$",
+        "isAsync": true,
+        "cmd": "rm ${workspaceFolder}/errors/${fileBasenameNoExt}.txt",
+      },
+      {
+        "match": "\\.php$",
+        "cmd": "phpcs --standard='WordPress,WordPress-Core,WordPress-Docs' ${file}",
+        "isAsync": true,
+      },
+      {
+        "match": "\\.php$",
+        "cmd": "phpcs --standard='WordPress' -n-l ${file} > ${workspaceFolder}/errors/${fileBasenameNoExt}.txt",
+        "isAsync": true,
       }
+    ],
+  },
   ```
 
   :::tip How to check PHPCS error
