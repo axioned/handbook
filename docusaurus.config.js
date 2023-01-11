@@ -9,7 +9,7 @@ const config = {
 	title: "Axioned Handbook",
 	tagline: "Our collective brain",
 	url: "https://github.com",
-	baseUrl: "/handbook/",
+	baseUrl: "/",
 	onBrokenLinks: "throw",
 	onBrokenMarkdownLinks: "warn",
 	favicon: "img/favicon.ico",
@@ -50,7 +50,7 @@ const config = {
 					customCss: require.resolve("./src/css/custom.css"),
 				},
 				gtag: {
-					trackingID: "G-XET7E8E4LW",
+					trackingID: "G-NLQNYBS8QK",
 					anonymizeIP: true,
 				},
 			}),
@@ -103,10 +103,6 @@ const config = {
 							{
 								label: "Processes",
 								to: "/docs/category/processes",
-							},
-							{
-								label: "Decision Records",
-								to: "/docs/category/decision-records",
 							},
 						],
 					},
