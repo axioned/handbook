@@ -14,8 +14,33 @@ Google Analytics is used to track website performance and collect visitor insigh
 
 ## Google Analytics 4 (GA4) Implementation
 
-1. [Difference between GA4 and UA analytics](https://docs.google.com/document/d/13o8VVuJW-ba7zp-k2lnMUxbh5yu5EyGKRrH4kuWQONA/edit)
-2. [Benefits of GA4 over GA3(aka Universal Analytics)](https://docs.google.com/document/d/1G58Reirj2WPvxmK9Zt0tX8csnBOB29WN_NEZW_744hg/edit?usp=sharing)
+1. **Difference between GA4 and UA analytics**
+
+  Google Analytics 4 is not an upgrade to Universal Analytics. It is a completely different new version of Google Analytics, it works on event-driven based models, and comes with a different set of reports.
+  - **#1 Reporting Interface**
+    - There are different sets of reports in your GA4 view, and a limited number of reports are generated. As many of the reports are generated only when we start tracking events.
+    - The reporting interface of the GA4 view looks similar to that of Google Analytics for Firebase (because GA4 is built on Firebase analytics). 
+  - **#2 Measurement model**
+    - GA3 (aka Universal Analytics) uses the measurement model **based on sessions and pageviews**. Whereas, GA4 uses the measurement model based on **events and parameters**. 
+    - GA3 uses a **session-based model** to track data. GA4 uses an **event-based model** to track data.  
+  - **#3 Tracking IDs**
+    - GA4 use the **measurement ID**.
+    - GA4 use the **tracking ID**. 
+  - **For More details please refer this** [doc](https://docs.google.com/document/d/13o8VVuJW-ba7zp-k2lnMUxbh5yu5EyGKRrH4kuWQONA/edit)
+2. **Benefits of GA4 over GA3(aka Universal Analytics**
+
+  Google Analytics 4 (GA4) (also referred to as ‘apps + web’) is the latest version of Google Analytics. 
+  GA4 is much more advanced and follows an event-based architecture. Unlike Universal Analytics where we have page views and events, GA4 tracks everything as an event.
+  For example, page views, session start, transactions, etc. are sent as events in GA4. So everything we track in GA4 is an event. 
+
+  - **#1 GA4 provides a platform for both website and mobile app**
+    - One of the biggest benefits of GA4 is that we can use it for your website and app, as well as both website and mobile app together.
+    - Under one property we can have multiple data streams like Android, iOS and web.
+  - **#2 GA4 user interface is much more user-centric**
+    - In Universal Analytics, we have user buckets such as **audience**, **acquisition**, **behavior**, and **conversion**.
+    - Whereas in GA4 we have user buckets like **acquisition**, **engagement**, **monetization**, and **retention**. These buckets are more aligned with user-oriented reports and marketer’s goals. 
+  - **For More details please refer this** [doc](https://docs.google.com/document/d/1G58Reirj2WPvxmK9Zt0tX8csnBOB29WN_NEZW_744hg/edit?usp=sharing)
+
 3. GA4 Setup
     - Step 1: [Create a Google Analytics Account and setup property](https://docs.google.com/document/d/1MjOlT4DV3VTScfsYtQLNDW5R0KjO2c5_6y8TGLnqQec/edit).
     - Step 2: [Upgrade UA to GA4](https://docs.google.com/document/d/17yegQqbn3C8DHsKE3vgTs6Wb0ytm0sv1w5VSRqbLEwI/edit?usp=sharing) 
@@ -120,7 +145,17 @@ To create a GA4 Configuration tag:
 8. Click **Triggering** and select appropriate triggers that would cause the tag to fire, e.g. "All Pages", so that the configuration tag fires on all pages of your website.
 9. Save the tag configuration and publish your container.
 
-#### How to create ***events*** the link can be found [here](https://docs.google.com/document/d/1OuYQOoA72anAWerHtlpfG4vND5SKMN03zh9s_cL_dtI/edit)
+### Events creation
+
+  In a Universal Analytics property implemented via gtag.js ("UA-XXXXXXXX"), events are implemented as a separate hit type, using the dimensions Event Category, Action, and Label and the metric Event Value. When collected, they appear in your reports and there are no limits to the number of different events, dimension and metric values.
+  In a Google Analytics 4 property, every "hit" is an "event," meaning there is no longer a distinction between hit types.
+
+#### Types of events in a Google Analytics 4 property
+
+  Google Analytics 4 events fall into four categories: **automatically collected events, enhanced measurement, recommended events, and custom events**.
+  
+  More details about event can be found [here](https://docs.google.com/document/d/1OuYQOoA72anAWerHtlpfG4vND5SKMN03zh9s_cL_dtI/edit)
+
 #### Additional implementation guidance doc link can be found - [here](https://docs.google.com/document/d/1I3MZlWJ_eP14tSoILuX3tpObbTzO7x-y7QD6BcFDTP4/edit)
 #### Adding GA4 to a site that already has universal analytics implemented (Keeping GA4 and UA active at same time) doc link can be found [here](https://docs.google.com/document/d/1Gw34_Y5tKe0_tIIra898XagswgwCy4F3UHahaFvAGmw/edit)
 #### GA4 Dashboard description -  Read more on GA4 dashboard - [here](https://docs.google.com/document/d/1TjoMsjT0PxXB-nyHOuyFQF3XmPSdq_izd2Kwi7LbHKA/edit#heading=h.3cby2s638jwr)
