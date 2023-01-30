@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhandbook=self.webpackChunkhandbook||[]).push([[3872],{7956:s=>{s.exports=JSON.parse('{"label":"ga events","permalink":"/docs/tags/ga-events","allTagsPath":"/docs/tags","count":1,"items":[{"id":"processes/analytics/GA4","title":"Google Analytics","description":"Overview","permalink":"/docs/processes/analytics/GA4"}]}')}}]);
