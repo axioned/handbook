@@ -36,16 +36,16 @@ Google Analytics is used to track website performance and collect visitor insigh
   - **Step-1**: Navigate to your GA4 reporting view.
   - **Step-2**: Click on ‘Events’ (under ‘Engagement’).
 
-    ![How to see automatically collected parameters in GA4 reports Snap 1](../analytics/analytics-image/How%20to%20see%20automatically%20collected%20parameters%20in%20GA4%20reports%20Snap%201.png)
+    ![How to see automatically collected parameters in GA4 reports Snap 1](../analytics/assets/How%20to%20see%20automatically%20collected%20parameters%20in%20GA4%20reports%20Snap%201.png)
   - **Step-3**: Scroll down and then click on an event name. Let’s click on the ‘page_view’ event.
 
-    ![How to see automatically collected parameters in GA4 reports Snap 2](../analytics/analytics-image/How%20to%20see%20automatically%20collected%20parameters%20in%20GA4%20reports%20Snap%202.png)
+    ![How to see automatically collected parameters in GA4 reports Snap 2](../analytics/assets/How%20to%20see%20automatically%20collected%20parameters%20in%20GA4%20reports%20Snap%202.png)
   - we should now see the detailed report about the ‘page_view’ event.
-    ![How to see automatically collected parameters in GA4 reports Snap 3](../analytics/analytics-image/How%20to%20see%20automatically%20collected%20parameters%20in%20GA4%20reports%20Snap%203.png)
+    ![How to see automatically collected parameters in GA4 reports Snap 3](../analytics/assets/How%20to%20see%20automatically%20collected%20parameters%20in%20GA4%20reports%20Snap%203.png)
   - **Step-4**: Click on the ‘PARAMETER NAME’ drop-down menu on the right-hand side.
-    ![How to see automatically collected parameters in GA4 reports Snap 4](../analytics/analytics-image/How%20to%20see%20automatically%20collected%20parameters%20in%20GA4%20reports%20Snap%204.png)
+    ![How to see automatically collected parameters in GA4 reports Snap 4](../analytics/assets/How%20to%20see%20automatically%20collected%20parameters%20in%20GA4%20reports%20Snap%204.png)
   - **Step-5**: Scroll down the drop-down list and then we should be able to see all the automatically collected parameters.
-    ![How to see automatically collected parameters in GA4 reports Snap 5](../analytics/analytics-image/How%20to%20see%20automatically%20collected%20parameters%20in%20GA4%20reports%20Snap%205.png)
+    ![How to see automatically collected parameters in GA4 reports Snap 5](../analytics/assets/How%20to%20see%20automatically%20collected%20parameters%20in%20GA4%20reports%20Snap%205.png)
 7. How to track events based on default parameters and custom parameters for Custom events - Custom Definitions
     - **Create new dimensions and metrics from event parameters**
       - We can set up custom dimensions and metrics that get their values from the event parameters that we collect for your property. 
@@ -90,8 +90,45 @@ Google Analytics is used to track website performance and collect visitor insigh
       - If you've previously exported the audience to other products, the audience will continue to function as expected. 
       - However, since the audience is not accumulating new users, the user count will drop as the membership duration expires for existing users until the audience contains no users.
 
+## GTM using GA4
 
+#### Enable basic data collection
 
+To enable basic data collection of events (including pageview and other **automatic** and **enhanced measurement** events) for a web data stream, you'll need to deploy the Google Analytics: GA4 Configuration tag to every page that needs to be measured. The tag initializes Google Analytics for your property, sets Google Analytics cookies, and sends automatic and enhanced measurement events (including pageviews).
 
+To create a GA4 Configuration tag:
 
+1. Click Tags **>** New.
+2. Click Tag Configuration.
+3. Select Google Analytics: GA4 Configuration.
+4. Enter your measurement ID.
 
+![GTM using GA4 Snap 1](../analytics/assets/GTM%20using%20GA4%20Snap%201.png)
+
+5. Optional: Add any parameters you'd like to configure in **Fields to Set**. Use recommended event parameter names for best results.
+
+![GTM using GA4 Snap 2](../analytics/assets/GTM%20using%20GA4%20Snap%202.png)
+
+6. Optional: Add any custom user properties that you'd like to configure in User Properties. Note: Analytics automatically logs some user properties. We can set up to 25 additional **user properties** per Google Analytics 4 property.
+
+![GTM using GA4 Snap 3](../analytics/assets/GTM%20using%20GA4%20Snap%203.png)
+
+7. Optional: Use **Advanced Settings** to set a **Tag Firing Priority** or use **Tag Sequencing** to help ensure that the Configuration tag fires before any other event tags that require it.
+
+![GTM using GA4 Snap 4](../analytics/assets/GTM%20using%20GA4%20Snap%204.png)
+
+8. Click **Triggering** and select appropriate triggers that would cause the tag to fire, e.g. "All Pages", so that the configuration tag fires on all pages of your website.
+9. Save the tag configuration and publish your container.
+
+#### How to create ***events*** the link can be found [here](https://docs.google.com/document/d/1OuYQOoA72anAWerHtlpfG4vND5SKMN03zh9s_cL_dtI/edit)
+#### Additional implementation guidance doc link can be found - [here](https://docs.google.com/document/d/1I3MZlWJ_eP14tSoILuX3tpObbTzO7x-y7QD6BcFDTP4/edit)
+#### Adding GA4 to a site that already has universal analytics implemented (Keeping GA4 and UA active at same time) doc link can be found [here](https://docs.google.com/document/d/1Gw34_Y5tKe0_tIIra898XagswgwCy4F3UHahaFvAGmw/edit)
+#### GA4 Dashboard description -  Read more on GA4 dashboard - [here](https://docs.google.com/document/d/1TjoMsjT0PxXB-nyHOuyFQF3XmPSdq_izd2Kwi7LbHKA/edit#heading=h.3cby2s638jwr)
+
+## General Guidelines & Good Practices
+
+1. GA/GTM Property ID should be implemented via code not through any plugins/3rd party libraries.
+2. GA/GTM Property ID should be configured at WP-Config level (WP:defined constants for ID) or non-WordPress sites can use env files to store the GA/GTM IDs
+3. Setting a Google Analytics Custom Alert that indicates/highlights if traffic is suddenly spiked/dropped by x% (recommended: 25%, but please see/read your traffic behaviour before you set a custom alert; or seek help from a senior)
+4. It is highly recommended that all analytics + marketing scripts are added through GTM Container on the website avoid adding through code in the header section
+5. Please make use of defer for such marketing and 3rd-party scripts while injecting in the GTM container.
