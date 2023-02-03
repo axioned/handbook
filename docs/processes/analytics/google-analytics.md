@@ -17,13 +17,13 @@ Google Analytics is used to track website performance and collect visitor insigh
 1. **Difference between GA4 and UA analytics**
 
   Google Analytics 4 is not an upgrade to Universal Analytics. It is a completely different new version of Google Analytics, it works on event-driven based models, and comes with a different set of reports.
-  - **#1 Reporting Interface**
+  - **Reporting Interface**
     - There are different sets of reports in your GA4 view, and a limited number of reports are generated. As many of the reports are generated only when we start tracking events.
     - The reporting interface of the GA4 view looks similar to that of Google Analytics for Firebase (because GA4 is built on Firebase analytics). 
-  - **#2 Measurement model**
+  - **Measurement model**
     - GA3 (aka Universal Analytics) uses the measurement model **based on sessions and pageviews**. Whereas, GA4 uses the measurement model based on **events and parameters**. 
     - GA3 uses a **session-based model** to track data. GA4 uses an **event-based model** to track data.  
-  - **#3 Tracking IDs**
+  - **Tracking IDs**
     - GA4 use the **measurement ID**.
     - GA4 use the **tracking ID**. 
   - **For More details please refer this** [doc](https://docs.google.com/document/d/13o8VVuJW-ba7zp-k2lnMUxbh5yu5EyGKRrH4kuWQONA/edit)
@@ -33,10 +33,10 @@ Google Analytics is used to track website performance and collect visitor insigh
   GA4 is much more advanced and follows an event-based architecture. Unlike Universal Analytics where we have page views and events, GA4 tracks everything as an event.
   For example, page views, session start, transactions, etc. are sent as events in GA4. So everything we track in GA4 is an event. 
 
-  - **#1 GA4 provides a platform for both website and mobile app**
+  - **GA4 provides a platform for both website and mobile app**
     - One of the biggest benefits of GA4 is that we can use it for your website and app, as well as both website and mobile app together.
     - Under one property we can have multiple data streams like Android, iOS and web.
-  - **#2 GA4 user interface is much more user-centric**
+  - **GA4 user interface is much more user-centric**
     - In Universal Analytics, we have user buckets such as **audience**, **acquisition**, **behavior**, and **conversion**.
     - Whereas in GA4 we have user buckets like **acquisition**, **engagement**, **monetization**, and **retention**. These buckets are more aligned with user-oriented reports and marketer’s goals. 
   - **For More details please refer this** [doc](https://docs.google.com/document/d/1G58Reirj2WPvxmK9Zt0tX8csnBOB29WN_NEZW_744hg/edit?usp=sharing)
