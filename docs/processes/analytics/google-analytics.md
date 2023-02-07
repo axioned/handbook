@@ -17,29 +17,29 @@ Google Analytics is used to track website performance and collect visitor insigh
 1. **Difference between GA4 and UA analytics**
 
   Google Analytics 4 is not an upgrade to Universal Analytics. It is a completely different new version of Google Analytics, it works on event-driven based models, and comes with a different set of reports.
-  - **Reporting Interface**
-    - There are different sets of reports in your GA4 view, and a limited number of reports are generated. As many of the reports are generated only when we start tracking events.
-    - The reporting interface of the GA4 view looks similar to that of Google Analytics for Firebase (because GA4 is built on Firebase analytics). 
-  - **Measurement model**
-    - GA3 (aka Universal Analytics) uses the measurement model **based on sessions and pageviews**. Whereas, GA4 uses the measurement model based on **events and parameters**. 
-    - GA3 uses a **session-based model** to track data. GA4 uses an **event-based model** to track data.  
-  - **Tracking IDs**
-    - GA4 use the **measurement ID**.
-    - GA4 use the **tracking ID**. 
-  - **For More details please refer this** [doc](https://docs.google.com/document/d/13o8VVuJW-ba7zp-k2lnMUxbh5yu5EyGKRrH4kuWQONA/edit)
+    - **Reporting Interface**
+      - There are different sets of reports in your GA4 view, and a limited number of reports are generated. As many of the reports are generated only when we start tracking events.
+      - The reporting interface of the GA4 view looks similar to that of Google Analytics for Firebase (because GA4 is built on Firebase analytics). 
+    - **Measurement model**
+      - GA3 (aka Universal Analytics) uses the measurement model **based on sessions and pageviews**. Whereas, GA4 uses the measurement model based on **events and parameters**. 
+      - GA3 uses a **session-based model** to track data. GA4 uses an **event-based model** to track data.  
+    - **Tracking IDs**
+      - GA4 use the **measurement ID**.
+      - GA4 use the **tracking ID**. 
+    - **For More details please refer this** [doc](https://docs.google.com/document/d/13o8VVuJW-ba7zp-k2lnMUxbh5yu5EyGKRrH4kuWQONA/edit)
 2. **Benefits of GA4 over GA3(aka Universal Analytics**
 
   Google Analytics 4 (GA4) (also referred to as ‘apps + web’) is the latest version of Google Analytics. 
   GA4 is much more advanced and follows an event-based architecture. Unlike Universal Analytics where we have page views and events, GA4 tracks everything as an event.
   For example, page views, session start, transactions, etc. are sent as events in GA4. So everything we track in GA4 is an event. 
 
-  - **GA4 provides a platform for both website and mobile app**
-    - One of the biggest benefits of GA4 is that we can use it for your website and app, as well as both website and mobile app together.
-    - Under one property we can have multiple data streams like Android, iOS and web.
-  - **GA4 user interface is much more user-centric**
-    - In Universal Analytics, we have user buckets such as **audience**, **acquisition**, **behavior**, and **conversion**.
-    - Whereas in GA4 we have user buckets like **acquisition**, **engagement**, **monetization**, and **retention**. These buckets are more aligned with user-oriented reports and marketer’s goals. 
-  - **For More details please refer this** [doc](https://docs.google.com/document/d/1G58Reirj2WPvxmK9Zt0tX8csnBOB29WN_NEZW_744hg/edit?usp=sharing)
+    - **GA4 provides a platform for both website and mobile app**
+      - One of the biggest benefits of GA4 is that we can use it for your website and app, as well as both website and mobile app together.
+      - Under one property we can have multiple data streams like Android, iOS and web.
+    - **GA4 user interface is much more user-centric**
+      - In Universal Analytics, we have user buckets such as **audience**, **acquisition**, **behavior**, and **conversion**.
+      - Whereas in GA4 we have user buckets like **acquisition**, **engagement**, **monetization**, and **retention**. These buckets are more aligned with user-oriented reports and marketer’s goals. 
+    - **For More details please refer this** [doc](https://docs.google.com/document/d/1G58Reirj2WPvxmK9Zt0tX8csnBOB29WN_NEZW_744hg/edit?usp=sharing)
 
 3. GA4 Setup
     - Step 1: [Create a Google Analytics Account and setup property](https://docs.google.com/document/d/1MjOlT4DV3VTScfsYtQLNDW5R0KjO2c5_6y8TGLnqQec/edit).
@@ -57,20 +57,20 @@ Google Analytics is used to track website performance and collect visitor insigh
       4. page_title
       5. screen_resolution
 6. **How to see automatically-collected parameters in GA4 reports?**
-- **Follow the steps below:**
-  - **Step-1**: Navigate to your GA4 reporting view.
-  - **Step-2**: Click on ‘Events’ (under ‘Engagement’).
+    - **Follow the steps below:**
+      - **Step-1**: Navigate to your GA4 reporting view.
+      - **Step-2**: Click on ‘Events’ (under ‘Engagement’).
 
-    ![How to see automatically collected parameters in GA4 reports Snap 1](../analytics/assets/How%20to%20see%20automatically%20collected%20parameters%20in%20GA4%20reports%20Snap%201.png)
-  - **Step-3**: Scroll down and then click on an event name. Let’s click on the ‘page_view’ event.
+        ![How to see automatically collected parameters in GA4 reports Snap 1](../analytics/assets/How%20to%20see%20automatically%20collected%20parameters%20in%20GA4%20reports%20Snap%201.png)
+      - **Step-3**: Scroll down and then click on an event name. Let’s click on the ‘page_view’ event.
 
-    ![How to see automatically collected parameters in GA4 reports Snap 2](../analytics/assets/How%20to%20see%20automatically%20collected%20parameters%20in%20GA4%20reports%20Snap%202.png)
-  - we should now see the detailed report about the ‘page_view’ event.
-    ![How to see automatically collected parameters in GA4 reports Snap 3](../analytics/assets/How%20to%20see%20automatically%20collected%20parameters%20in%20GA4%20reports%20Snap%203.png)
-  - **Step-4**: Click on the ‘PARAMETER NAME’ drop-down menu on the right-hand side.
-    ![How to see automatically collected parameters in GA4 reports Snap 4](../analytics/assets/How%20to%20see%20automatically%20collected%20parameters%20in%20GA4%20reports%20Snap%204.png)
-  - **Step-5**: Scroll down the drop-down list and then we should be able to see all the automatically collected parameters.
-    ![How to see automatically collected parameters in GA4 reports Snap 5](../analytics/assets/How%20to%20see%20automatically%20collected%20parameters%20in%20GA4%20reports%20Snap%205.png)
+        ![How to see automatically collected parameters in GA4 reports Snap 2](../analytics/assets/How%20to%20see%20automatically%20collected%20parameters%20in%20GA4%20reports%20Snap%202.png)
+      - we should now see the detailed report about the ‘page_view’ event.
+        ![How to see automatically collected parameters in GA4 reports Snap 3](../analytics/assets/How%20to%20see%20automatically%20collected%20parameters%20in%20GA4%20reports%20Snap%203.png)
+      - **Step-4**: Click on the ‘PARAMETER NAME’ drop-down menu on the right-hand side.
+        ![How to see automatically collected parameters in GA4 reports Snap 4](../analytics/assets/How%20to%20see%20automatically%20collected%20parameters%20in%20GA4%20reports%20Snap%204.png)
+      - **Step-5**: Scroll down the drop-down list and then we should be able to see all the automatically collected parameters.
+        ![How to see automatically collected parameters in GA4 reports Snap 5](../analytics/assets/How%20to%20see%20automatically%20collected%20parameters%20in%20GA4%20reports%20Snap%205.png)
 7. How to track events based on default parameters and custom parameters for Custom events - Custom Definitions
     - **Create new dimensions and metrics from event parameters**
       - We can set up custom dimensions and metrics that get their values from the event parameters that we collect for your property. 
@@ -81,8 +81,8 @@ Google Analytics is used to track website performance and collect visitor insigh
       - A custom metric always has an event scope.
     - **Limits**
       - We can create up to.
-        - 50 custom dimensions and 50 custom metrics per property
-        - 25 uniquely named user-scoped custom dimensions
+        1. 50 custom dimensions and 50 custom metrics per property
+        2. 25 uniquely named user-scoped custom dimensions
       - If we have reached your quota but need to create new custom dimensions and/or metrics, we can archive the ones we are no longer using.
       - To see the total number of custom dimensions and metrics you've created, click Custom definitions under Configure (in the left navigation), then click Quota information (top right).
     - **Create a custom dimension**: Click Custom definitions under Configure (in the left navigation), then click Create custom dimensions:
