@@ -1,5 +1,5 @@
 ---
-id: guidingPrinciples
+id: guidingprinciples
 title: Guiding Principles
 sidebar_label: Guiding Principles
 tags: [principles, guide, guiding, values]
