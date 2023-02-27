@@ -12,7 +12,7 @@ React is a JavaScript-based UI development library. Facebook and an open-source 
 
 ## Topics
 
-Sr No. | Topics | Task Level Efforts (in hrs)
+Sr No. | Topics | Efforts (in hrs)
 :-: | --- | :-:
 1 | **React Introduction** |
 1.1 | What is React? | 1 |
