@@ -22,7 +22,7 @@ Sr No. | Topics | Efforts (in hrs)
 2.1 | ES6 features and pure functions - Fat arrow function, spread operator, destructuring, template string, classes and extends, etc | 3 |
 2.2 | Webpack | 1 |
 2.3 | What is module bundling? Examples of module bundlers | 1 | 
-2.4 | <ul><li>What is webpack</li><li>How to configure or implement it with react  and redux</li><li>Demo example</li></ul> |
+2.4 | <ul><li>What is webpack</li><li>How to configure or implement it with react  and redux</li></ul> |
 3 | **React Components and States** |
 3.1 | JSX | 1 |
 3.2 | What are the Components and states | 1 |
@@ -46,8 +46,8 @@ Sr No. | Topics | Efforts (in hrs)
 5 | **Actions - AXIOS** |
 5.1 | What is the Action? Why it is neccessary to use Actions and when to use it? | 1 |
 5.2 | What is AXIOS? | 1 |
-5.3 | How to define an Action? with Pract | 3 |
-5.4 | What are the Promises? Why to use it? with Pract | 3 |
+5.3 | How to define an Action? with Practical | 3 |
+5.4 | What are the Promises? Why to use it? with Practical | 3 |
 5.5 | Action generator/creator | 2 |
 5.6 | How to get the Response from APIs using Action directly in the Components(w/o using Redux) - Practical | 3 |
 5.7 | What are the Action_Types? Why is it neccessary to create it? | 0.5 |
