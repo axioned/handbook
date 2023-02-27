@@ -82,5 +82,5 @@ Optional | **React with typescript** |
 | | **Total Hours** | 81.5
 
 :::tip React Template Google Sheet
-React template reference link can be found [here](https://docs.google.com/spreadsheets/d/1QUwI5LgS0PE954DicSKh7DfmvkxdbdSlmxxtsxqfewU/edit#gid=0).
+React template reference link can be found [**here**](https://docs.google.com/spreadsheets/d/1QUwI5LgS0PE954DicSKh7DfmvkxdbdSlmxxtsxqfewU/edit#gid=0).
 :::
