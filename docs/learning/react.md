@@ -9,6 +9,7 @@ tags: [react, react template, training, redux, state]
 # Overview
 
 React is a JavaScript-based UI development library. Facebook and an open-source developer community run it. Although React is a library rather than a language, it is widely used in web development. The library first appeared in May 2013 and is now one of the most commonly used frontend libraries for web development.
+React documentation link can be found [**here**](https://reactjs.org/docs/getting-started.html)
 
 ## Topics
 
