@@ -61,13 +61,14 @@ Sr No. | Type | Topics | Efforts (in hrs)
 37 | Reading |	How to use AJAX in WP | 4 |
 38 | Task | Task on Ajax | 12 |
 39 | Task | Create child theme and override exiting theme | 6 |
-40 | Reading |	Create Theme customizer API | 7 |
-41 | Reading |	Create Custom Setting for your Theme. | 9 |
-42 | Task |	override woocommerce plugin template | 8 |
-43 | Reading |	Security Guidelines | 4 |
+40 | Task | [**WPCLI**](../../docs/processes/Toolkit/wp-cli.md) <ol><li>Reading and installing WP-CLI environment</li><li>WP-CLI basic commands usage</li><li>Platform Plugin updates via CLI terminal</li><li>Custom Command which will trigger some activity in WP(eg. bulk update, import/export, creatinng users, etc)</li></ol> | 8 |
+41 | Reading | **Reading about SSH** <ol><li>how to connect remote servers</li></ol> | 2 |
+42 | Reading | [**Introduction to CI/CD**](../../docs/processes/delivery/Continous/github-action/github-action-for-wordpress.md) <ol><li>What is CI/CD how to use</li><li>Why should we use CI/CD</li><li>Github Actions</li></ol> | 3 |
+43 | Task | **Implement CI/CD on training repository** <ol><li>the github changes to be directly pushed to the server once the code is pushed on respected branch</li></ol> | 3 |
+44 | Reading |	Security Guidelines | 4 |
 | | **Total Hours** | | **157.5**
 | | | **Appendix - After Test topics to be continued** | 
-1 | Reading |	**Google Analytics Understanding and Guideline for implementation in projects** <ol><li>Why we use</li><li>Universal Analytics vs GA4</li><li>How to review the statistics like views, events details etc</li><li>How to integrate via GTM</li></ol> | 5 |
+1 | Reading |	[**Google Analytics Understanding and Guideline for implementation in projects**](../../docs//processes/analytics/google-analytics.md) <ol><li>Why we use</li><li>Universal Analytics vs GA4</li><li>How to review the statistics like views, events details etc</li><li>How to integrate via GTM</li></ol> | 5 |
 2 | Reading |	**REST API** <ol><li>Intro to REST API</li><li>Types of API calls (PUT, GET, POST, etc)</li><li>Explore Rest endpoints and its useCase</li></ol> | 4 |
 3 | Task | **Work on default endpoints** <ol><li>fetch posts/pages</li><li>create new post/pages via REST API</li><li>update/delete post/pages</li></ol> | 7 |
 4 | Task | **Custom REST endpoints** <ol><li>create your custom endpoint for user registration in Dashboard with role option in the call</li><li>create update endpoint which will interact with custom post and there ACF fields</li></ol> | 6 |
