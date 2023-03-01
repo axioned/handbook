@@ -1,5 +1,5 @@
 ---
-position: 1
+sidebar_position: 2
 id: html
 title: HTML Code Review Checklist
 sidebar_label: Code Review Checklist
