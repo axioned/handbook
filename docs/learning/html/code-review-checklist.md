@@ -2,7 +2,7 @@
 position: 1
 id: html
 title: HTML Code Review Checklist
-sidebar_label: Training Template
+sidebar_label: Code Review Checklist
 tags: [HTML, HTML checklist]
 ---
 
