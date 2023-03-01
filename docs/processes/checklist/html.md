@@ -22,18 +22,18 @@ tags: [HTML, HTML checklist]
 12. Unnecessary code needs to be removed before sending the page to production.
 13. All pages need to be tested with the W3C validator to identify possible issues in the HTML code.
 14. Use HTML validator to validate your code
-15. Your website shows your content correctly with adblockers enabled
+15. Your website shows your content correctly with adblocker enabled
 16. Make sure no links are broken on your page 
 17. All images are optimized to be rendered in the browser.
 18. You provide layout images 2x or 3x, support retina display.
 19. Use sprites wherever feasible
-20. All `<img>` have an alternative text which describe the image visually.
+20. All **`<img>`** have an alternative text which describe the image visually.
 21. Images are lazyloaded
 22. All anchor should has title attribute for SEO purpose
 23. Follow two tabs indentation
-24. Avoid using the `<hr>` and `<br>` tags.
+24. Avoid using the **`<hr>`** and **`<br>`** tags.
 25. Avoid empty elements in the structure
-26. Abound using the `<i>` tag for the icons. Simply use the `<span>` tag and write the icon name and icon can be added via css using the pseudo elements(before & after)
+26. Abound using the **`<i>`** tag for the icons. Simply use the **`<span>`** tag and write the icon name and icon can be added via css using the pseudo elements(before & after)
 27. Add proper commenting to the code/section
 28. Use the wrapper properly.
 29. Give meaningful classes.
