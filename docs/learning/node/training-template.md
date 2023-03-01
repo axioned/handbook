@@ -1,8 +1,8 @@
 ---
-position: 6
-id: node
-title: node Training Template
-sidebar_label: Node
+id: Node-training
+title: Node Training Template
+sidebar_label: Training Template
+sidebar_position: 1
 tags: [Node, Node training, mongodb, express, mongoose]
 ---
 
