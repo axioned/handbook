@@ -1,8 +1,8 @@
 ---
-position: 2
-id: wordpress
+sidebar_position: 1
+id: wordpress-training
 title: WordPress Training Template
-sidebar_label: WordPress
+sidebar_label: Training Template
 tags: [wordpress, wordpress template, wordpress training, theme development, acf, woocommerce]
 ---
 
