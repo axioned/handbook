@@ -1,5 +1,4 @@
 ---
-position: 2
 id: HTML
 title: HTML - HyperText Markup Language
 sidebar_label: Training Template

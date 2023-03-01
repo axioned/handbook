@@ -1,5 +1,4 @@
 ---
-position: 3
 id: CSS
 title: CSS - Cascading Style Sheets
 sidebar_label: Training Template

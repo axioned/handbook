@@ -1,5 +1,4 @@
 ---
-position: 4
 id: JS
 title: Javascript
 sidebar_label: Training Template
