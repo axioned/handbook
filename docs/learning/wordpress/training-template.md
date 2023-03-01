@@ -1,5 +1,5 @@
 ---
-position: 1
+sidebar_position: 1
 id: wordpress-training
 title: WordPress Training Template
 sidebar_label: Training Template

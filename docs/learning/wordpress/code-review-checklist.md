@@ -1,5 +1,5 @@
 ---
-position: 2
+sidebar_position: 2
 id: wordpress-checklist
 title: WordPress Code Review Checklist
 sidebar_label: Code Review Checklist
