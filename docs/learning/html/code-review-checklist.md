@@ -1,6 +1,6 @@
 ---
 sidebar_position: 2
-id: html
+id: html-checklist
 title: HTML Code Review Checklist
 sidebar_label: Code Review Checklist
 tags: [HTML, HTML checklist]
