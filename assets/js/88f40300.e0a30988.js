@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkhandbook=self.webpackChunkhandbook||[]).push([[1124],{9970:e=>{e.exports=JSON.parse('{"label":"html","permalink":"/docs/tags/html","allTagsPath":"/docs/tags","count":1,"items":[{"id":"learning/html/HTML","title":"HTML - HyperText Markup Language","description":"Overview","permalink":"/docs/learning/html/HTML"}]}')}}]);

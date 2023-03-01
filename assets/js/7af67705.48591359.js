@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkhandbook=self.webpackChunkhandbook||[]).push([[8785],{9897:s=>{s.exports=JSON.parse('{"label":"cascading style sheets","permalink":"/docs/tags/cascading-style-sheets","allTagsPath":"/docs/tags","count":1,"items":[{"id":"learning/css/CSS","title":"CSS - Cascading Style Sheets","description":"Overview","permalink":"/docs/learning/css/CSS"}]}')}}]);

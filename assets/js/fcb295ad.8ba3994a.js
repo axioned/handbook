@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkhandbook=self.webpackChunkhandbook||[]).push([[7642],{2118:e=>{e.exports=JSON.parse('{"label":"vcs","permalink":"/docs/tags/vcs","allTagsPath":"/docs/tags","count":1,"items":[{"id":"learning/git/VCS","title":"Version Control System - Git","description":"Overview","permalink":"/docs/learning/git/VCS"}]}')}}]);
