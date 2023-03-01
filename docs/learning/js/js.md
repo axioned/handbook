@@ -2,7 +2,7 @@
 position: 4
 id: JS
 title: Javascript
-sidebar_label: Javascript
+sidebar_label: Training Template
 tags: [javascript, js]
 ---
 

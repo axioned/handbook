@@ -2,7 +2,7 @@
 position: 2
 id: HTML
 title: HTML - HyperText Markup Language
-sidebar_label: HTML
+sidebar_label: Training Template
 tags: [html, html training, html reading topics, html topics]
 ---
 
