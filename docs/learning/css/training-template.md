@@ -3,6 +3,7 @@ position: 3
 id: CSS
 title: CSS - Cascading Style Sheets
 sidebar_label: Training Template
+sidebar_position: 1
 tags: [css, cascading style sheets]
 ---
 

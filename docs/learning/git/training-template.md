@@ -3,6 +3,7 @@ position: 1
 id: VCS
 title: Version Control System - Git
 sidebar_label: Training Template
+sidebar_position: 1
 tags: [git, github, vcs, version control system]
 ---
 
