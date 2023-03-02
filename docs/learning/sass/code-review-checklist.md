@@ -25,6 +25,6 @@ Sr No. | Check | Reference |
 13 | Omit leading ""0""s in values. | Eg: <br /> Instead of <br /> ```font-size: 0.8px;``` <br />Use <br />```font-size: .8px;``` |
 14 | Use 3 character hexadecimal notation where possible. | ```/* Not recommended */```<br /> ```color: #eebbcc;```<br />#eebbcc= hexadecimal notation.<br />```/* Recommended */``` <br />```color: #ebc;``` <br />#ebc= hexadecimal notation. |
 15 | Follow **Codecop** : Declarations are to be consistently ordered; box-model, display, positioning and etc. | ```.selector {/* Box Model */box-sizing: border-box;width: 100px;height: 100px;padding: 10px;border: 10px solid #333;margin: 10px;/* Display */display: inline-block;overflow: hidden;float: left;/* Positioning */position: absolute;z-index: 10;top: 0;right: 0;bottom: 0;left: 0;/* Other (in alphabetical order) */background: #000;color: #fff;font-family: sans-serif;font-size: 16px;text-align: right;opacity: 0;outline: none; }``` <br />Note: Commenting in the above code is just for reference
-:::tip HTML Checklist
-HTML Checklist reference link can be found [**here**](https://docs.google.com/spreadsheets/d/1kbpSVE_ysY8Is5qvuWfCDTTTMp_Wtt5js7FBZzqGODk/edit#gid=20521288).
+:::tip SASS Checklist
+SASS Checklist reference link can be found [**here**](https://docs.google.com/spreadsheets/d/1kbpSVE_ysY8Is5qvuWfCDTTTMp_Wtt5js7FBZzqGODk/edit#gid=20521288).
 :::
