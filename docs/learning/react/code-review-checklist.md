@@ -8,8 +8,8 @@ tags: [react code review, react checklist]
 
 # Checklist
 
-Sr No. | Check | Description |
-:-: | --- | --- 
+Sr No. | Check |
+:-: | --- |
 1 | Check if common services can be made
 2 | Create a common component if it can be reused in an app. Create single responsibility components
 3 | Create a separate folder for routes for a specific page and import all components and map them with the routes.
