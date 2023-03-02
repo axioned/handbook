@@ -1,14 +1,14 @@
 ---
-sidebar_position: 2
 id: javascript-checklist
 title: Javascript Code Review Checklist
 sidebar_label: Code Review Checklist
+sidebar_position: 2
 tags: [Javascript, Javascript checklist, JS, JS checklist]
 ---
 
 # Checklist Pointers
 
-Sr No. | Points |
+Sr No. | Check |
 :----: | ----- |
 1 |	Choose easy to understand and short names for variables and functions.
 2 |	Try using closures and the module pattern.
@@ -27,19 +27,19 @@ Sr No. | Points |
 15 |	No js inline code has to be present in html.
 16 |	Collate, minify and optimize your code in a build process.
 17 |	JavaScript files are loaded asynchronously using async or deferred using defer attribute.
-18 |	Add parameter description for every function parameter as a part of comments.
 19 |	Use of if, if else, else if, switch should be used properly. Avoid too many nested if else statements, instead go for switch-case.
 20 |	const and let should be used based on their definition.
 21 |	Functions should hardly ever be 20 - 40 lines long.
+18 |	Add parameter description for every function parameter as a part of comments.
 22 |	Proper use of HOF (Higher order functions.).
 23 |	Every  method/function should have a try-catch block to avoid run time errors.
 24 |	Use loggers in the catch block to get exact error.
 25 |	Verify if business logic is proper and written efficiently.
 26 |	Function casing. 
-27 |	Variable casing.
 28 |	Using spread operator.
 29 |	Be consistent in your usage of arrow function.
 30 |	Use destructuring assignment for arrays and objects.
+27 |	Variable casing.
 31 |	Use Promises or Asyns/Await. Rejection is handled.
 32 |	No syntax/runtime errors and warnings in the code.
 33 |	No deprecated functions in the code.

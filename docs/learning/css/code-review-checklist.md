@@ -1,14 +1,14 @@
 ---
-sidebar_position: 2
 id: css-checklist
 title: CSS Code Review Checklist
 sidebar_label: Code Review Checklist
+sidebar_position: 2
 tags: [CSS, CSS checklist]
 ---
 
 # Checklist Pointers
 
-Sr No. | Points |
+Sr No. | Check |
 :----: | ----- |
 1 |	The website is using responsive web design.
 2 |	If IDs are used, they are unique to a page.
