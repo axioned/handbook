@@ -1,6 +1,6 @@
 ---
 id: sass-checklist
-title: Sass Code Review Checklist
+title: SASS Code Review Checklist
 sidebar_label: Code Review Checklist
 sidebar_position: 2
 tags: [Sass, Sass checklist, mixin, partials]
