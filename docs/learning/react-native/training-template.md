@@ -1,8 +1,8 @@
 ---
-position: 3
-id: react-native
-title: React Training Template
-sidebar_label: React Native
+id: react-native-training
+title: React Native Training Template
+sidebar_label: Training Template
+sidebar_position: 1
 tags: [react native, react native template, training, react native reducers, reducers]
 ---
 
