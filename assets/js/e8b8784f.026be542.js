@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkhandbook=self.webpackChunkhandbook||[]).push([[8462],{1895:a=>{a.exports=JSON.parse('{"label":"javascript","permalink":"/docs/tags/javascript","allTagsPath":"/docs/tags","count":1,"items":[{"id":"learning/js/js-training","title":"Javascript","description":"Overview","permalink":"/docs/learning/js/js-training"}]}')}}]);

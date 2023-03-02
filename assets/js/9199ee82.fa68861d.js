@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhandbook=self.webpackChunkhandbook||[]).push([[4768],{613:e=>{e.exports=JSON.parse('{"label":"commit","permalink":"/docs/tags/commit","allTagsPath":"/docs/tags","count":1,"items":[{"id":"learning/git/git-checklist","title":"GIT Code Review Checklist","description":"Sr No. | Check |","permalink":"/docs/learning/git/git-checklist"}]}')}}]);
