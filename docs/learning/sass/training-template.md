@@ -1,9 +1,9 @@
 ---
-position: 5
-id: sass
-title: Sass Training Template
-sidebar_label: Sass
-tags: [sass, training, mixins, partials, interpolation]
+id: sass-training
+title: Sass - Syntactically Awesome Style Sheets
+sidebar_label: Training Template
+sidebar_position: 1
+tags: [Sass, training, mixins, partials, interpolation, placeholder]
 ---
 
 # Overview
