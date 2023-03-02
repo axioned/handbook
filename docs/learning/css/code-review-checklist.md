@@ -13,7 +13,7 @@ Sr No. | Check |
 1 |	The website is using responsive web design.
 2 |	If IDs are used, they are unique to a page.
 3 |	A CSS reset (reset, normalize or reboot) is used and up to date.
-4 |	Avoid at all cost embeding CSS in `<style>` tags or using inline CSS.
+4 |	Avoid at all cost embedding CSS in `<style>` tags or using inline CSS.
 5 |	CSS files are concatenated in a single file.
 6 |	CSS files are minified.
 7 |	CSS files need to be non-blocking to prevent the DOM from taking time to load.
@@ -30,7 +30,7 @@ Sr No. | Check |
 18 |	Follow two tabs indentation.
 19 |	Give proper spaces between brace brackets, colon etc.
 20 |	Use three value hex code wherever possible for eg. #000000 -> #000.
-21 |	Aoid ID usage for css styling purpose if possible.
+21 |	Avoid ID usage for css styling purpose if possible.
 22 |	Use shorthand wherever applicable.
 23 |	Try reusing css code whenever applicable.
 24 |	Avoid unwanted decimal points usage for matching font-sizes.

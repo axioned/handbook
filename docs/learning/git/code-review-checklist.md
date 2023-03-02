@@ -8,14 +8,14 @@ tags: [GIT, GIT checklist]
 
 # Checklist Pointers
 
-Sr No. | Points |
+Sr No. | Check |
 :----: | ----- |
 1 |	PR description should be proper.
 2 |	Integration branch for conflicts.
 3 |	Commits should be descriptive and according to the task/bug.
 4 |	Make sure no dist files, editor/IDE files, etc are checked in. There should be a .gitignore for that.
-5 |	No commented code should be present while commiting the code.
-6 |	Remove console logs while commiting.
+5 |	No commented code should be present while committing the code.
+6 |	Remove console logs while committing.
 7 |	Commits are small and divided into logical parts.
 8 |	Make sure code is rebased before merging to maintain history.
 9 |	Branching name in the agile should be based on the ticket name.

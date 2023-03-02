@@ -19,7 +19,7 @@ Sr No. | Check |
 7 |	Avoid heavy nesting.
 8 |	Keep computation-heavy code outside of loops.
 9 |	Keep DOM Access to a Minimum.
-10 |	Don’t trust that data reaches your function is of the right format.Test with typeof and then do something with it.
+10 |	Don’t trust that data reaches your function is of the right format.Test with `typeof` and then do something with it.
 11 |	Don’t expect elements in the DOM to be available.Test for them and that they indeed are what you expect them to be before altering them.
 12 |	Never ever use JavaScript to protect something.
 13 |	Use single quotation marks for string declarations.
@@ -40,18 +40,18 @@ Sr No. | Check |
 29 |	Be consistent in your usage of arrow function.
 30 |	Use destructuring assignment for arrays and objects.
 27 |	Variable casing.
-31 |	Use Promises or Asyns/Await. Rejection is handled.
+31 |	Use Promises or Async/Await. Rejection is handled.
 32 |	No syntax/runtime errors and warnings in the code.
 33 |	No deprecated functions in the code.
 34 |	Check that each function is doing only a single thing. 
 35 |	No magic numbers. Put all such numbers as a constant. 
-36 |	Make sure recurssive function don't end up in infinite loop.
+36 |	Make sure recursive function don't end up in infinite loop.
 37 |	Avoid inline styling through JS use classes instead.
 38 |	make sure the whole script wrapped inside document ready.
 39 |	Use meaningful names for variables and function.
-40 |	Add proper comenting.
+40 |	Add proper commenting.
 41 |	Try using deffer while loading Scripts to avoid render blocking resources issue in the performance.
-42 |	Make sure ther is no message/error prrsent in the console.
+42 |	Make sure there is no message/error present in the console.
 43 |	Please make sure to use condition while using offset().top property if the offset is present then only use top or else it will throw an error in the console.
 44 |	Form/Input validation is not just to add required attribute also validate the input via JS to make sure expected input is entered by user.
 
