@@ -9,7 +9,7 @@ tags: [NodeJS, NodeJS training, mongodb, express, mongoose]
 # Overview
 
 Node.js has a vast ecosystem of libraries and modules, which can be easily installed using the Node Package Manager (NPM). It is commonly used to build web applications, real-time applications, APIs, and command-line tools. Node.js is also used for data streaming, microservices architecture, and building Internet of Things (IoT) applications.
-Node documentation link can be found [**here**](https://nodejs.org/api/)
+NodeJS documentation link can be found [**here**](https://nodejs.org/api/)
 
 ## Topics
 
@@ -29,6 +29,6 @@ Sr No. | Topics | Efforts (in hrs)
 8 | [**Google Analytics Understanding**](https://docs.google.com/document/d/1Cj22DNBM3ZgcoExcM9e2y6lIlX5Cl0QSkdBIrjNw3ZU/edit?usp=sharing) <ol><li>Why we use</li><li>Universal Analytics vs GA4</li><li>How to review the statistics like views, events details etc</li><li>How to integrate via google Tag Manager</li></ol> | 5 |
 | | **Total Hours** | 142 |
 
-:::tip Node Template Google Sheet
-Node template reference link can be found [**here**](https://docs.google.com/spreadsheets/d/1tlib2XsXi_2gc0kFTv9rBUEYbv60XLtOtopAPGHI2q8/edit#gid=1636971823).
+:::tip NodeJS Template Google Sheet
+NodeJS template reference link can be found [**here**](https://docs.google.com/spreadsheets/d/1tlib2XsXi_2gc0kFTv9rBUEYbv60XLtOtopAPGHI2q8/edit#gid=1636971823).
 :::
