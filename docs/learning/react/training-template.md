@@ -1,8 +1,8 @@
 ---
-position: 1
-id: react
+id: react-training
 title: React Training Template
-sidebar_label: React
+sidebar_label: Training Template
+sidebar_position: 1
 tags: [react, react template, training, redux, state]
 ---
 
@@ -39,22 +39,22 @@ Sr No. | Topics | Efforts (in hrs)
 3.12 | Practical on components with passing the props and executing the functions | 3 |
 3.13 | React Hooks | 4 |
 4 | **React Router Dom** |
-4.1 | What is React Router and why it is neccessary to use? | 1 |
+4.1 | What is React Router and why it is necessary to use? | 1 |
 4.2 | How to define and access child routes? | 1 |
 4.3 | How to pass data using routes? | 1 |
 4.4 | How to create independent chunks for the components using react router | 3 |
 4.5 | Practical on React router to render the components | 2 |
 5 | **Actions - AXIOS** |
-5.1 | What is the Action? Why it is neccessary to use Actions and when to use it? | 1 |
+5.1 | What is the Action? Why it is necessary to use Actions and when to use it? | 1 |
 5.2 | What is AXIOS? | 1 |
 5.3 | How to define an Action? with Practical | 3 |
 5.4 | What are the Promises? Why to use it? with Practical | 3 |
 5.5 | Action generator/creator | 2 |
 5.6 | How to get the Response from APIs using Action directly in the Components(w/o using Redux) - Practical | 3 |
-5.7 | What are the Action_Types? Why is it neccessary to create it? | 0.5 |
+5.7 | What are the Action_Types? Why is it necessary to create it? | 0.5 |
 6 | **Storage - React Redux** |
 6.1 | Why we need storage? What is Redux and Flux? | 2 |
-6.2 | What is React Redux and why it is neccessary to use? | 0.5 |
+6.2 | What is React Redux and why it is necessary to use? | 0.5 |
 6.3 | What's the Redux's state and use with implementation? | 2 |
 6.4 | What is the Middleware in React Redux? What are those? Which one to use and why? How to apply multiple middlewares? | 3 |
 6.5 | What are the Reducers, Combined Reducer? | 1 |
@@ -82,6 +82,6 @@ Optional | **React with typescript** |
 4 | Static/optional/advanced typing
 | | **Total Hours** | 81.5
 
-:::tip React Template Google Sheet
-React template reference link can be found [**here**](https://docs.google.com/spreadsheets/d/1QUwI5LgS0PE954DicSKh7DfmvkxdbdSlmxxtsxqfewU/edit#gid=0).
+:::tip ReactJS Template Google Sheet
+ReactJS template reference link can be found [**here**](https://docs.google.com/spreadsheets/d/1QUwI5LgS0PE954DicSKh7DfmvkxdbdSlmxxtsxqfewU/edit#gid=0).
 :::
