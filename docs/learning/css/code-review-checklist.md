@@ -40,6 +40,6 @@ Sr No. | Points |
 28 |	Avoid units for 0 such as 0px or 0% etc. Also avoid using trailing zero example 0.4, 0.9 etc.
 29 |	Single line styling should be on the same line and should be merged i.e. there should be no spaces between them. Refer example below:
 
-:::tip HTML Checklist
+:::tip CSS Checklist
 CSS Checklist reference link can be found [**here**](https://docs.google.com/spreadsheets/d/1kbpSVE_ysY8Is5qvuWfCDTTTMp_Wtt5js7FBZzqGODk/edit#gid=912575460).
 :::
