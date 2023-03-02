@@ -1,15 +1,15 @@
 ---
-id: react-training
-title: React Training Template
+id: reactjs-training
+title: ReactJS Training Template
 sidebar_label: Training Template
 sidebar_position: 1
-tags: [react, react template, training, redux, state]
+tags: [reactjs, reactjs template, training, redux, state]
 ---
 
 # Overview
 
 React is a JavaScript-based UI development library. Facebook and an open-source developer community run it. Although React is a library rather than a language, it is widely used in web development. The library first appeared in May 2013 and is now one of the most commonly used frontend libraries for web development.
-React documentation link can be found [**here**](https://reactjs.org/docs/getting-started.html)
+ReactJS documentation link can be found [**here**](https://reactjs.org/docs/getting-started.html)
 
 ## Topics
 
@@ -35,7 +35,7 @@ Sr No. | Topics | Efforts (in hrs)
 3.8 | How to manage states inside the Components using functions | 1 |
 3.9 | How to define functions and why to bind the functions | 1 |
 3.10 | Practical on components | 3 |
-3.11 | How to pass data and functions as a props in the child components and how to use those funs as a props | 0.5 |
+3.11 | How to pass data and functions as a props in the child components and how to use those functions as a props | 0.5 |
 3.12 | Practical on components with passing the props and executing the functions | 3 |
 3.13 | React Hooks | 4 |
 4 | **React Router Dom** |
@@ -56,7 +56,7 @@ Sr No. | Topics | Efforts (in hrs)
 6.1 | Why we need storage? What is Redux and Flux? | 2 |
 6.2 | What is React Redux and why it is necessary to use? | 0.5 |
 6.3 | What's the Redux's state and use with implementation? | 2 |
-6.4 | What is the Middleware in React Redux? What are those? Which one to use and why? How to apply multiple middlewares? | 3 |
+6.4 | What is the Middleware in React Redux? What are those? Which one to use and why? How to apply multiple middleware? | 3 |
 6.5 | What are the Reducers, Combined Reducer? | 1 |
 7 | **React + Actions + Redux** |
 7.1 | What are the Providers? | 1 |
@@ -73,7 +73,7 @@ Optional | **RXJS** |
 3 | subscription and unsubscription
 4 | operators
 Optional | **Redux-Observable** |
-1 | Different pipline methods
+1 | Different pipeline methods
 2 | Cancellation of action
 Optional | **React with typescript** |
 1 | Namespace

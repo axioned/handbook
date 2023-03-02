@@ -1,9 +1,9 @@
 ---
-id: react-checklist
-title: React Code Review Checklist
+id: reactjs-checklist
+title: ReactJS Code Review Checklist
 sidebar_label: Code Review Checklist
 sidebar_position: 2
-tags: [react code review, react checklist]
+tags: [reactjs code review, reactjs checklist]
 ---
 
 # Checklist
@@ -38,6 +38,6 @@ Sr No. | Check |
 26 | When changing state in setState based on previous state value use previous state.
 27 | Sync and npm-check to automate the task of identifying insecure and outdated components. 
 
-:::tip React Inspection Checklist Google Sheet
-React Inspection Checklist reference link can be found [**here**](https://docs.google.com/spreadsheets/d/1kbpSVE_ysY8Is5qvuWfCDTTTMp_Wtt5js7FBZzqGODk/edit#gid=1281122238).
+:::tip ReactJS Inspection Checklist Google Sheet
+ReactJS Inspection Checklist reference link can be found [**here**](https://docs.google.com/spreadsheets/d/1kbpSVE_ysY8Is5qvuWfCDTTTMp_Wtt5js7FBZzqGODk/edit#gid=1281122238).
 :::
