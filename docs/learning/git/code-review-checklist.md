@@ -3,7 +3,7 @@ id: git-checklist
 title: GIT Code Review Checklist
 sidebar_label: Code Review Checklist
 sidebar_position: 2
-tags: [GIT, GIT checklist]
+tags: [git, git checklist, commit, branch]
 ---
 
 # Checklist Pointers
