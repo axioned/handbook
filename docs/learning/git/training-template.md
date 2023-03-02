@@ -1,5 +1,5 @@
 ---
-id: VCS
+id: git-training
 title: Version Control System - Git
 sidebar_label: Training Template
 sidebar_position: 1
