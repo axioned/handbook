@@ -1,9 +1,9 @@
 ---
-id: Node-checklist
-title: Node Code Review Checklist
+id: nodejs-checklist
+title: NodeJS Code Review Checklist
 sidebar_label: Code Review Checklist
 sidebar_position: 2
-tags: [Node code review, Node checklist]
+tags: [NodeJS code review, NodeJS checklist]
 ---
 
 # Checklist

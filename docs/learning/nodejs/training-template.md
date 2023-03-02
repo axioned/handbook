@@ -1,9 +1,9 @@
 ---
-id: Node-training
-title: Node Training Template
+id: nodejs-training
+title: NodeJS Training Template
 sidebar_label: Training Template
 sidebar_position: 1
-tags: [Node, Node training, mongodb, express, mongoose]
+tags: [NodeJS, NodeJS training, mongodb, express, mongoose]
 ---
 
 # Overview
