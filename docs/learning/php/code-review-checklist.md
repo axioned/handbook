@@ -3,24 +3,24 @@ id: php-checklist
 title: PHP Code Review Checklist
 sidebar_label: Code Review Checklist
 sidebar_position: 2
-tags: [PHP code review, PHP checklist]
+tags: [PHP code review, PHP checklist, PHP tags, control structures, method arguments]
 ---
 
 # Checklist
 
 Sr No. | Check | Description |
 :-: | --- | ---  
-1 | Backend Validation | Does the validation present in .php file?
-2 | Site Scripting | Does developer use htmlentities() to prevent their site from cross scripting? <br /><br />If you use the less than (<) or greater than (>) signs in your text, the browser might mix them with tags.<br />Character entities are used to display reserved characters in HTML.<br /><br />For Example -<br />```$company = htmlentities(trim($_POST['company']), ENT_COMPAT);```<br />```$services = htmlentities(trim($_POST['services']), ENT_COMPAT);```<br /><br /> How to check htmlentities() developer has used or not?<ol><li>Write ```<script>``` for alert box in form filed.</li><li>Submit the form.</li><li>Submit the form.</li></ol> If Alert appear in Backend then it is an issue.<br /><br />eg. Use below code:<br />```<script> function myFunction(){ alert("Hello World!"); } </script>```
-3 | Files MUST use only <?php and <?= tags. | Does the developer use <?php and <?= tags only?
-4 | Class names MUST be declared in “StudlyCaps”. | For Example -<br />```class EmployeeData {}```
-5 | Class constants MUST be declared in all upper-case with underscore separators. | For Example -<br />```const VERSION = '1.0';```<br />```const MATH_PI = '3.14';```
-6 | Method names MUST be declared in “camelCase”. | ```public function employeeReadData() {}```
-7 | Avoid fopen wrappers/reliance on fopen wrappers (PHP/SQL) |
-8 | Avoid unsanitized variables (PHP/SQL) |
-9 | Ensure all Functions are outside of Loops
-10 | Create classes out of functions where appropriate
-11 | Implement inheritance
+1 | **Backend Validation** | Does the validation present in .php file?
+2 | **Site Scripting** | Does developer use htmlentities() to prevent their site from cross scripting? <br /><br />If you use the less than (<) or greater than (>) signs in your text, the browser might mix them with tags.<br />Character entities are used to display reserved characters in HTML.<br /><br />For Example -<br />```$company = htmlentities(trim($_POST['company']), ENT_COMPAT);```<br />```$services = htmlentities(trim($_POST['services']), ENT_COMPAT);```<br /><br /> How to check htmlentities() developer has used or not?<ol><li>Write ```<script>``` for alert box in form filed.</li><li>Submit the form.</li><li>Submit the form.</li></ol> If Alert appear in Backend then it is an issue.<br /><br />eg. Use below code:<br />```<script> function myFunction(){ alert("Hello World!"); } </script>```
+3 | **Files MUST use only <?php and <?= tags.** | Does the developer use <?php and <?= tags only?
+4 | **Class names MUST be declared in “StudlyCaps”.** | For Example -<br />```class EmployeeData {}```
+5 | **Class constants MUST be declared in all upper-case with underscore separators.** | For Example -<br />```const VERSION = '1.0';```<br />```const MATH_PI = '3.14';```
+6 | **Method names MUST be declared in “camelCase”.** | ```public function employeeReadData() {}```
+7 | **Avoid fopen wrappers/reliance on fopen wrappers (PHP/SQL)** |
+8 | **Avoid unsanitized variables (PHP/SQL)** |
+9 | **Ensure all Functions are outside of Loops**
+10 | **Create classes out of functions where appropriate**
+11 | **Implement inheritance**
 12 | **PHP Tags**
 12.1 | PHP code MUST use the long <?php ?> tags or the short-echo <?= ?> tags. It MUST NOT use the other tag variations.
 13 | **Files**
@@ -48,7 +48,7 @@ Sr No. | Check | Description |
 18.2 | Avoid var keyword for property | Has var keyword used to declare a property?
 18.3 | Avoid more than one property per statement | Are there more than one property declared per statement?
 18.4 | Property name | Property names SHOULD NOT be prefixed with a single underscore to indicate protected or private visibility.
-18.5 | A property declaration looks like the following. | Example:<br />````<?php namespace Vendor\Package; class ClassName { public $foo = null; }```
+18.5 | A property declaration looks like the following. | Example:<br />```<?php namespace Vendor\Package; class ClassName { public $foo = null; }```
 19 | **Methods**
 19.1 | Visibility declaration on all methods. | Are the methods defined by prefixing the declaration with the keywords public, protected or private?<br />A method declaration looks like the following. Note the placement of parentheses, commas, spaces, and braces:<br /><br />Example:<br />```<?php namespace Vendor\Package; class   ClassName { public function fooBarBaz($arg1, &$arg2, $arg3 = []) { // method body } }```
 19.2 | Method names | Method names SHOULD NOT be prefixed with a single underscore to indicate protected or private visibility.
