@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhandbook=self.webpackChunkhandbook||[]).push([[703],{3299:e=>{e.exports=JSON.parse('{"title":"Learning","description":"Training Templates.","slug":"/category/learning","permalink":"/docs/category/learning","navigation":{"previous":{"title":"Welcome","permalink":"/docs/welcome"},"next":{"title":"CSS","permalink":"/docs/category/css"}}}')}}]);
