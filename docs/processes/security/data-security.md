@@ -2,8 +2,18 @@
 id: data-security
 title: Data Security Policies and Procedures
 sidebar_label: Data Security
-tags: []
+tags: [Device Use Regulation, External Pen Drives, Using SSH/SFTP, Personal Devices, Internet Cable, Credentials and Systems Management, Data Security, Security Auditing Actions, Data Sharing, Project Closure, workstation usage, Device lost, Remote Access, VPN Policy, Technical Safeguards]
 ---
+
+## Introduction
+
+We expect all Axioned employees to read and follow the policies and procedures within this document.
+
+The IT Admin team, Sagar Bisen& Ismile B, will work with the Axioned team to ensure that these policies and procedures are followed at all times. 
+
+:::tip Disclaimer
+This document contains information regarding policies, regulations, and rules of Axioned. If any breach or threat made by an employee, which can put business/project into risk, for that a proper investigation will take place and if any individual or team found violating the policy strict action can be taken.
+:::
 
 ## 1. Purpose
 
