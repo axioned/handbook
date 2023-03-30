@@ -37,6 +37,17 @@ Sr No. | Check |
 25 | Try avoiding multiple setState in a single function and be mindful of the asynchronous nature of setStates.
 26 | When changing state in setState based on previous state value use previous state.
 27 | Sync and npm-check to automate the task of identifying insecure and outdated components. 
+28 | Use Redux for global state management
+29 | Make sure to use functional components for components that don’t use state
+30 | Don’t use mixins, prefer HOC and composition
+31 | Avoid using inline styles, rather use themes or styled components
+32 | Avoid to useEffect without dependencies - Can loop infinitely 
+33 | Use Memoization to reduce load on App / Server
+34 | Apply Lazy-Loading where its required to optimize bundle load
+35 | Avoid direct DOM access 
+36 | Avoid JSON injection attacks 
+37 | All the paths private information should be a part of env file to avoid exposing
+38 | Minimize logic in the render method. Logic should be in helper methods, container components or in Redux actions (if used)
 
 :::tip ReactJS Inspection Checklist Google Sheet
 ReactJS Inspection Checklist reference link can be found [**here**](https://docs.google.com/spreadsheets/d/1kbpSVE_ysY8Is5qvuWfCDTTTMp_Wtt5js7FBZzqGODk/edit#gid=1281122238).
