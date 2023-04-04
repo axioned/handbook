@@ -235,7 +235,7 @@ Do not change the testing device setting or lock password, if there’s somethin
 
 ## 8. Email/Communication Policy
 
-  The Axioned emails are used for work purposes, @axioned.com email account is assigned to all individuals (eg: sagar@Axioned.com) and individuals are added to group email a/c is created accordingly to the project needs (eg: clientname@axioned.com). We want to ensure that our employees understand the limitations of using their email accounts.
+  The Axioned emails are used for work purposes, @axioned.com email account is assigned to all individuals (eg: sagar@axioned.com) and individuals are added to group email a/c is created accordingly to the project needs (eg: clientname@axioned.com). We want to ensure that our employees understand the limitations of using their email accounts.
 
 ### 8.1 Inappropriate use of company email
   
