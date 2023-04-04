@@ -9,7 +9,7 @@ tags: [Device Use Regulation, External Pen Drives, Using SSH/SFTP, Personal Devi
 
 We expect all Axioned employees to read and follow the policies and procedures within this document.
 
-The IT Admin team, Sagar Bisen& Ismile B, will work with the Axioned team to ensure that these policies and procedures are followed at all times. 
+The IT Admin team, Sagar Bisen and Ismile B, will work with the Axioned team to ensure that these policies and procedures are followed at all times. 
 
 :::tip Disclaimer
 This document contains information regarding policies, regulations, and rules of Axioned. If any breach or threat made by an employee, which can put business/project into risk, for that a proper investigation will take place and if any individual or team found violating the policy strict action can be taken.
@@ -235,7 +235,7 @@ Do not change the testing device setting or lock password, if there’s somethin
 
 ## 8. Email/Communication Policy
 
-  The Axioned emails are used for work purposes, @Axioned.com email a/c is assigned to all individuals (eg: sagarb@Axioned.com) and individuals are added to group email a/c is created respective to project need(eg: Clientname@Axioned.com). We want to ensure that our employees understand the limitations of using their email accounts.
+  The Axioned emails are used for work purposes, @axioned.com email account is assigned to all individuals (eg: sagar@Axioned.com) and individuals are added to group email a/c is created accordingly to the project needs (eg: clientname@axioned.com). We want to ensure that our employees understand the limitations of using their email accounts.
 
 ### 8.1 Inappropriate use of company email
   
