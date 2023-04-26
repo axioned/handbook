@@ -2,9 +2,11 @@
 id: culture
 title: Culture
 sidebar_label: Culture
+sidebar_position: 1
 ---
 
 ## Everyone can contribute
+
 Our size and our mission (that everyone can contribute) mean that our team members can — and are expected to — make an impact across the company.
 
 From your very first week, no matter your role, you'll gain the technical skills needed to access, question, and contribute to projects far beyond your job description.
@@ -16,6 +18,7 @@ Come prepared to do meaningful work that will help shape the future of the compa
 While the opportunities to contribute are boundless in a growing organization like us, they may not be clearly defined. You'll need to think creatively, speak up to see how you can help, and be willing to try something new.
 
 ## Freedom to iterate
+
 At GitLab, our value of iteration has a unique impact on the way we operate and get things done.
 
 Working this way means our team members are expected to quickly deliver the minimum viable change in their work instead of waiting to produce a polished, completed product.
