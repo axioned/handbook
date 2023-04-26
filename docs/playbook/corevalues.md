@@ -2,11 +2,12 @@
 id: corevalues
 title: Core Values
 sidebar_label: Core Values
+sidebar_position: 2
 ---
 
 ## Overview
 
-When we use the expression `Axioned’s Core Values` we mean: the behaviours, attitudes and standards we would like each and everyone of us to:
+When we use the expression `Axioned's Core Values` we mean: the behaviours, attitudes and standards we would like each and everyone of us to:
 
 - Value in our colleagues
 - Use as our “guiding light” for how we should behave and operate in the Axioned workplace/with others
