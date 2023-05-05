@@ -1,7 +1,7 @@
 ---
 id: communication
-title: Effective Communication
-sidebar_label: Communication Guidelines
+title: Effective Communication Guidelines (ECG)
+sidebar_label: Communication Guidelines (ECG)
 sidebar_position: 4
 ---
 
