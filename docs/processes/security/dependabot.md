@@ -49,8 +49,8 @@ updates:
       timezone: "America/New_York"
     # Allow up to 10 open pull requests for npm dependencies
     open-pull-requests-limit: 10
-    # to npm package against the `feature-cfm-module-updates` branch
-    target-branch: "feature-cfm-gcloud-dev"
+    # to npm package against the `main` or any other branch of your choice like `develop`
+    target-branch: "main"
     # Labels on pull requests for version updates only
     labels:
       - "npm dependency"
