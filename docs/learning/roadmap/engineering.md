@@ -24,16 +24,23 @@ sidebar_position: 1
 ### Trial
 
 - [React Server Components](https://www.patterns.dev/posts/react-server-components)
+- [Next 13 App Dir](https://nextjs.org/docs/app)
+- [Zod](https://zod.dev/) - TypeScript-first schema validation
+- [Zustand](https://github.com/pmndrs/zustand) - state management
 - [ChatGPT](https://chat.openai.com/) as a learning companion
 - [GitHub Copilot](https://copilot.github.com/) as a pair programmer
 - [T3 Stack](https://create.t3.gg/) - full-stack, typesafe Next.js application
 - [React Hook Form](https://react-hook-form.com/)
 - [Vercel](https://vercel.com/) - for frontend CI/CD and hosting
+- [Sanity](https://www.sanity.io/) - headless CMS
 
 ### Assess
 
 - [KeystoneJS](https://www.keystonejs.com/)
 - [React Query](https://react-query.tanstack.com/)
+- [KeyStatic](https://keystatic.com/) - for Git-based CMS
+- [Astro](https://astro.build/) - static site generator
+- [Flag-based rollout](https://martinfowler.com/articles/feature-toggles.html)
 
 ### Hold
 
