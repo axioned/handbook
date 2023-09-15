@@ -14,19 +14,18 @@ A project management framework is a set of standard project management processes
 
 ## 2. Key differences to consider between Project Management Framework and Project Methodology:
 
-This can be a common source of confusion. But it's simple to untangle. A project methodology acts as a set of processes or principles that best help manage a project. Methodologies are usually pretty strictly defined and reinforced—they're formal for a reason. Without a strict code in place for your methodology, the project can fall apart.
+This can be a common source of confusion. But it's simple to untangle. A project methodology acts as a set of processes or principles that best help manage a project. Methodologies are usually pretty strictly defined and reinforced they're formal for a reason. Without a strict code in place for your methodology, the project can fall apart.
 
-Meanwhile, you have more freedom and flexibility within a framework. Change rules, adapt new rules mid-framework and abandon rules as needed. Plus, a framework includes so much more detail—even phases that might not be included in a methodology such as complex onboarding processes and post-go-live assessments.
+Meanwhile, you have more freedom and flexibility within a framework. Change rules, adapt new rules mid-framework and abandon rules as needed. Plus, a framework includes so much more detail even phases that might not be included in a methodology such as complex onboarding processes and post-go-live assessments.
 
 There are many types of Project Methodology, but mostly use below:
+  1. Agile 
 
-1, Agile
+  2. Scrum 
 
-2, Scrum
+  3. Kanban
 
-3, Kanban
-
-4, Waterfall
+  4.  Waterfall
 
 Above is listed in the order they're being followed. Learn more about "Project Methodology" from [here](https://www.projectmanager.com/blog/project-management-methodology).
 
@@ -73,3 +72,35 @@ There are typically five phases that make up the project lifecycle. They are ini
   - **Execution:** Now that all creative briefs have been dispersed to relevant team members, the project will move into the production phase for designers, developers, writers and other members to create the actual deliverable.
   - **Management:** The management phase is where you'll monitor, review and report all updates—particularly at each milestone—to key stakeholders. Additionally, you'll want to make a note of everything, anomaly or not, just in case, and keep all notes in a repository to refer back to at a later date.
   - **Review:** The project is complete, and the deliverable has been successfully, well, delivered. At this stage, you'll review all notes, key successes and points that could be improved upon with stakeholders, team members, customers and manufacturers.
+
+  Stage | Pre Project | Define and Prepare|Build/Execution|Project Close|Post Project
+:-: | --- | --- | --- | --- | --- |
+Objectives |
+<ol>
+<li> Transform the idea into a project</li>
+<li> Develop the Cost Plan</li>
+<li> Quantify the Business Benefit</li>
+<li> Confirm alignment with Business Strategy</li>
+<li> Resource assignment (Sr. PM R&D)</li>
+</ol>
+|
+
+### D. Project Control Cycle
+This is essentially the monitoring and management portion of your project. At this phase, you’ll use software to combine communication across all channels into one area. Different project management metrics help you record the progress of all your team members, monitor for possible risks that you’ve already identified prior to kick-off and manage expectations of key stakeholders.
+
+Project management team can leverage the huddle meetings to address and discuss the issues and capture the Lessons learned document for the reference which can be validated/monitored by WoW team.
+
+When you see the project being at risk of an extended timeline /budget (this will be covered under “Daily priority checklist” email thread). 
+1. Share regular update on hours used vs total hours allocated with AM/ for anyone responsible for managing a client relationship/ or email to [management@axioned.com](mailto:management@axioned.com). This data is really helpful as it gives a very quick measure of ‘where we are in the project’ and can help to view even complex projects in a simple way. 
+
+2. For example, if the project has a deadline date and you can see that by half way through that timeline, 50% of resource has been used it can indicate that project is generally on-track. If it’s at 70% by that point it is a red flag at which point the PM and client lead can discuss to understand the details (I.e. do we need to push client for more budget, do we need to push client to reduce scope, are we burning the hours faster at this stage to ‘get ahead’ and expect to reduce resource in the final 25% of the project etc).
+
+
+## 4. Project Management Framework Best Practices
+
+* Keep a controlled method of communication. Without a method where communication is open across multiple channels and teams, the framework could easily collapse.
+* Create templates to use across similar project types. Because a framework is so flexible, you can use a framework for multiple types of projects without having to reinvent the wheel, so-to-speak. This can help improve efficiency across all teams involved.
+* Create a repository for all notes, documents, comments on the project and milestones reached. This can be useful for the review phase, as well as when you go to create a new project framework. You can use the lessons learned from the previous project to modify the new framework for more efficiency.
+
+Since a framework is so flexible and easy-to-use, it’s luckily fairly difficult for it to fail. But by using these best practices, you can ensure that it succeeds every time.
+
