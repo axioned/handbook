@@ -3,6 +3,8 @@ import starlight from "@astrojs/starlight";
 
 // https://astro.build/config
 export default defineConfig({
+  site: 'https://axionedhandbook.github.io',
+  base: '/handbook/tree/astro',
   integrations: [
     starlight({
       title: "Axioned Handbook",
