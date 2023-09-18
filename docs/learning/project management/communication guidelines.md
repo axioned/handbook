@@ -2,7 +2,7 @@
 id: axioned-communication guideline
 title: Communication Guidelines
 sidebar_label: Communication Guidelines
-sidebar_position: 10
+sidebar_position: 9
 tags: [Axioned communication, Communication Guidelines]
 ---
 
