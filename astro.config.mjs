@@ -11,15 +11,24 @@ export default defineConfig({
       },
       sidebar: [
         {
+          label: "Playbook",
+          autogenerate: { directory: "playbook" },
+        },
+        {
+          label: "Learning",
+          autogenerate: { directory: "learning" },
+        },
+        {
+          label: "Processes",
+          autogenerate: { directory: "processes" },
+        },
+        {
           label: "Guides",
           items: [
             // Each item here is one entry in the navigation menu.
-            { label: "Example Guide", link: "/guides/example/" },
+            { label: "Glossary", link: "/glossary/" },
+            { label: "Contribute", link: "/contribute/" },
           ],
-        },
-        {
-          label: "Reference",
-          autogenerate: { directory: "reference" },
         },
       ],
     }),
