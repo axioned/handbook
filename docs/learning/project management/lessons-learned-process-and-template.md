@@ -1,7 +1,7 @@
 ---
-id: axioned-communication guideline
-title: Communication Guidelines
-sidebar_label: Communication Guidelines
+id: lessons-learned
+title: Lessons Learned
+sidebar_label: Lessons Learned
 sidebar_position: 3
 tags: [Lessons, Lesson Learned]
 ---

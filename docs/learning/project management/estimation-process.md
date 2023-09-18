@@ -136,6 +136,8 @@ X
     - <https://docs.google.com/presentation/d/11Y6yNi8rp6B-MwsJI7bVPu_tNyLHNH12GcSBBxnrPtQ/edit>
   - Keep the client informed re when we/Axioned will share costing with them.. Refer the screenshot below (This is applicable in case of estimation requests of AR on existing project where Project Manager can set expectations):
 
+![pm knowledge mapping](./assets/rack-multipart.png)
+
 - PM/SPOC to take a follow-up with the client over email/call to make sure they have received costs (This is applicable in case of estimation requests of AR on existing project where Project Manager can set expectations).
 - Accounts team to confirm internally once the costs/estimate is approved by the client post which a PM/SPOC can change the status for the same in Zoho and start working on the project.
 
