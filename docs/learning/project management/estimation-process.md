@@ -1,5 +1,12 @@
-# Estimation Process
+---
+id: estimation-process
+title: Estimation Process
+sidebar_label: Estimation Process
+sidebar_position: 4
+tags: [Estimation,Estimation Process]
+---
 
+# Estimation Process
 ## Purpose:
 The goal of this document is to provide guidelines to the Project Managers/SPOC to be able to follow appropriate steps while creating an estimate. Proper estimations will help us predict the quantity, cost, and price of the resources required to complete a job within the project scope.
 

@@ -1,5 +1,12 @@
-# Lessons Learned
+---
+id: axioned-communication guideline
+title: Communication Guidelines
+sidebar_label: Communication Guidelines
+sidebar_position: 3
+tags: [Lessons, Lesson Learned]
+---
 
+# Lessons Learned
 ## What?
 
 Lessons learned are an informal conversation where you look at a project in retrospect. It is done after project completion,\* usually conducted as a meeting involving the project team and key stakeholders ( may include clients as applicable). During the lessons learned meetings, everyone shares their perspective on what they thought about the project, what they would have changed, what they learned and what could have been done better.
