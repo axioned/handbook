@@ -1,9 +1,9 @@
 ---
 id: landing-page
-title: Landing Page Test Case
+title: Landing Page
 sidebar_label: Landing Page
 sidebar_position: 1
-tags: [Accessing URL in all browsers,When user is on RRN Landing pag,Check the position of Sign Up and Sign In link,Check the clickability of Sign Up and Sign In link]
+tags: []
 ---
 
 |Sr.no|Test Scenario|Test Case Id|Test Case|Pre-requisite|Steps to Test|Input Test Data|Expected Result|
