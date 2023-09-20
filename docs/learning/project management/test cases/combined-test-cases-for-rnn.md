@@ -1,6 +1,6 @@
 ---
-id: Combined Test Cases For RNN
-title: Surviours Needs Int
+id: combined-test-cases-for-rnn
+title: Combined Test Cases For RNN
 sidebar_label:  Combined Test Cases For RNN
 sidebar_position: 7
 tags: []
