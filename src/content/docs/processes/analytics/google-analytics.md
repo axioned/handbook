@@ -27,12 +27,12 @@ Google Analytics is used to track website performance and collect visitor insigh
       - GA4 use the **measurement ID**.
       - GA4 use the **tracking ID**. 
     - **For More details please refer this** [doc](https://docs.google.com/document/d/13o8VVuJW-ba7zp-k2lnMUxbh5yu5EyGKRrH4kuWQONA/edit)
+    
 2. **Benefits of GA4 over GA3(aka Universal Analytics**
 
   Google Analytics 4 (GA4) (also referred to as ‘apps + web’) is the latest version of Google Analytics. 
   GA4 is much more advanced and follows an event-based architecture. Unlike Universal Analytics where we have page views and events, GA4 tracks everything as an event.
-  For example, page views, session start, transactions, etc. are sent as events in GA4. So everything we track in GA4 is an event. 
-
+  For example, page views, session start, transactions, etc. are sent as events in GA4. So everything we track in GA4 is an event.
     - **GA4 provides a platform for both website and mobile app**
       - One of the biggest benefits of GA4 is that we can use it for your website and app, as well as both website and mobile app together.
       - Under one property we can have multiple data streams like Android, iOS and web.
@@ -57,20 +57,17 @@ Google Analytics is used to track website performance and collect visitor insigh
       4. page_title
       5. screen_resolution
 6. **How to see automatically-collected parameters in GA4 reports?**
-    - **Follow the steps below:**
+      - **Follow the steps below:**
       - **Step-1**: Navigate to your GA4 reporting view.
-      - **Step-2**: Click on ‘Events’ (under ‘Engagement’).
-
-        ![How to see automatically collected parameters in GA4 reports Snap 1](../analytics/assets/How%20to%20see%20automatically%20collected%20parameters%20in%20GA4%20reports%20Snap%201.png)
+        ![How to see automatically collected parameters in GA4 reports Snap 1](/src/assets/How%20to%20see%20automatically%20collected%20parameters%20in%20GA4%20reports%20Snap%201.png)
       - **Step-3**: Scroll down and then click on an event name. Let’s click on the ‘page_view’ event.
-
-        ![How to see automatically collected parameters in GA4 reports Snap 2](../analytics/assets/How%20to%20see%20automatically%20collected%20parameters%20in%20GA4%20reports%20Snap%202.png)
+        ![How to see automatically collected parameters in GA4 reports Snap 2](/src/assets/How%20to%20see%20automatically%20collected%20parameters%20in%20GA4%20reports%20Snap%202.png)
       - we should now see the detailed report about the ‘page_view’ event.
-        ![How to see automatically collected parameters in GA4 reports Snap 3](../analytics/assets/How%20to%20see%20automatically%20collected%20parameters%20in%20GA4%20reports%20Snap%203.png)
+        ![How to see automatically collected parameters in GA4 reports Snap 3](/src/assets/How%20to%20see%20automatically%20collected%20parameters%20in%20GA4%20reports%20Snap%203.png)
       - **Step-4**: Click on the ‘PARAMETER NAME’ drop-down menu on the right-hand side.
-        ![How to see automatically collected parameters in GA4 reports Snap 4](../analytics/assets/How%20to%20see%20automatically%20collected%20parameters%20in%20GA4%20reports%20Snap%204.png)
+        ![How to see automatically collected parameters in GA4 reports Snap 4](/src/assets/How%20to%20see%20automatically%20collected%20parameters%20in%20GA4%20reports%20Snap%204.png)
       - **Step-5**: Scroll down the drop-down list and then we should be able to see all the automatically collected parameters.
-        ![How to see automatically collected parameters in GA4 reports Snap 5](../analytics/assets/How%20to%20see%20automatically%20collected%20parameters%20in%20GA4%20reports%20Snap%205.png)
+        ![How to see automatically collected parameters in GA4 reports Snap 5](/src/assets/How%20to%20see%20automatically%20collected%20parameters%20in%20GA4%20reports%20Snap%205.png)
 7. How to track events based on default parameters and custom parameters for Custom events - Custom Definitions
     - **Create new dimensions and metrics from event parameters**
       - We can set up custom dimensions and metrics that get their values from the event parameters that we collect for your property. 
@@ -128,19 +125,19 @@ To create a GA4 Configuration tag:
 3. Select Google Analytics: GA4 Configuration.
 4. Enter your measurement ID.
 
-![GTM using GA4 Snap 1](../analytics/assets/GTM%20using%20GA4%20Snap%201.png)
+![GTM using GA4 Snap 1](/src/assets/GTM%20using%20GA4%20Snap%201.png)
 
 5. Optional: Add any parameters you'd like to configure in **Fields to Set**. Use recommended event parameter names for best results.
 
-![GTM using GA4 Snap 2](../analytics/assets/GTM%20using%20GA4%20Snap%202.png)
+![GTM using GA4 Snap 2](/src/assets/GTM%20using%20GA4%20Snap%202.png)
 
 6. Optional: Add any custom user properties that you'd like to configure in User Properties. Note: Analytics automatically logs some user properties. We can set up to 25 additional **user properties** per Google Analytics 4 property.
 
-![GTM using GA4 Snap 3](../analytics/assets/GTM%20using%20GA4%20Snap%203.png)
+![GTM using GA4 Snap 3](/src/assets/GTM%20using%20GA4%20Snap%203.png)
 
 7. Optional: Use **Advanced Settings** to set a **Tag Firing Priority** or use **Tag Sequencing** to help ensure that the Configuration tag fires before any other event tags that require it.
 
-![GTM using GA4 Snap 4](../analytics/assets/GTM%20using%20GA4%20Snap%204.png)
+![GTM using GA4 Snap 4](/src/assets/GTM%20using%20GA4%20Snap%204.png)
 
 8. Click **Triggering** and select appropriate triggers that would cause the tag to fire, e.g. "All Pages", so that the configuration tag fires on all pages of your website.
 9. Save the tag configuration and publish your container.
