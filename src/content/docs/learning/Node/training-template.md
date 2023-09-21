@@ -1,8 +1,9 @@
 ---
 id: nodejs-training
 title: NodeJS Training Template
-sidebar_label: Training Template
-sidebar_position: 1
+sidebar:
+  label: Training Template
+  order: 1
 tags: [NodeJS, NodeJS training, mongodb, express, mongoose]
 ---
 

@@ -1,8 +1,9 @@
 ---
 id: glossary
 title: Glossary
-sidebar_label: Glossary
-sidebar_position: 98
+sidebar:
+  label: Glossary
+  order: 98
 ---
 
 A guide to all of the terms we use internally.

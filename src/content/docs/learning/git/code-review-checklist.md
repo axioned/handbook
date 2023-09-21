@@ -1,8 +1,9 @@
 ---
 id: git-checklist
 title: GIT Code Review Checklist
-sidebar_label: Code Review Checklist
-sidebar_position: 2
+sidebar:
+  label: Code Review Checklist
+  order: 2
 tags: [git, git checklist, commit, branch]
 ---
 

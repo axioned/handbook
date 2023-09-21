@@ -1,9 +1,10 @@
 ---
 id: guidingprinciples
 title: Guiding Principles
-sidebar_label: Guiding Principles
+sidebar:
+  label: Guiding Principles
+  order: 3
 tags: [principles, guide, guiding, values]
-sidebar_position: 3
 ---
 
 Why? To help align our culture and team to some core principles on how we actively do things here at Axioned. These go above and beyond our core values - and focus more on how we (individually and collectively) go about our days.

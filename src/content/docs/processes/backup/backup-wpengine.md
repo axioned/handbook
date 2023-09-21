@@ -2,7 +2,8 @@
 position: 1
 id: wpenginebackup
 title: Backup and Restore on WP Engine
-sidebar_label: WP Engine
+sidebar:
+  label: WP Engine
 tags: [Wordpress, Backup, WP Engine]
 ---
 

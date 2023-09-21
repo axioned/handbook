@@ -1,8 +1,9 @@
 ---
 id: axioned-communication guideline
 title: Communication Guidelines
-sidebar_label: Communication Guidelines
-sidebar_position: 3
+sidebar:
+  label: Communication Guidelines
+  order: 3
 tags: [Lessons, Lesson Learned]
 ---
 

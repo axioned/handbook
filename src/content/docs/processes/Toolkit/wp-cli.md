@@ -1,7 +1,8 @@
 ---
 id: WP-CLI
 title: WP-CLI
-sidebar_label: WP-CLI
+sidebar:
+  label: WP-CLI
 tags: [cli, wp-cli, maintenance, security, updates, user-roles, plugin-updates]
 ---
 

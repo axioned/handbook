@@ -1,7 +1,8 @@
 ---
 id: GithubNotifications
 title: GitHub Notifications on Slack
-sidebar_label: GitHub Notifications
+sidebar:
+  label: GitHub Notifications
 tags: [GitHub, Slack, Notifications, Observability]
 ---
 

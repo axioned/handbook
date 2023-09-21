@@ -1,7 +1,8 @@
 ---
 id: self-audit
 title: Web Performance Self-Audit
-sidebar_label: Performance Self-Audit
+sidebar:
+  label: Performance Self-Audit
 tags:
   [
     Web Performance,

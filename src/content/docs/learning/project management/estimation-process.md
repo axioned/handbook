@@ -1,8 +1,9 @@
 ---
 id: estimation-process
 title: Estimation Process
-sidebar_label: Estimation Process
-sidebar_position: 4
+sidebar:
+  label: Estimation Process
+  order: 4
 tags: [Estimation,Estimation Process]
 ---
 

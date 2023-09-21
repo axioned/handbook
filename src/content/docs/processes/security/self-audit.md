@@ -1,7 +1,8 @@
 ---
 id: self-audit
 title: Security Self-Audit
-sidebar_label: Security Self-Audit
+sidebar:
+  label: Security Self-Audit
 tags: [Mozilla Observatory, Security, Web Security, Audit, Maintenance, Go-live]
 ---
 

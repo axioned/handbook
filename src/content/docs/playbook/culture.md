@@ -1,8 +1,9 @@
 ---
 id: culture
 title: Culture
-sidebar_label: Culture
-sidebar_position: 1
+sidebar:
+  label: Culture
+  order: 1
 ---
 
 ## Everyone can contribute

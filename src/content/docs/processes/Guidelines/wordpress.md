@@ -2,7 +2,8 @@
 position: 1
 id: oversee-checklist
 title: Checklist Pointer for Oversee/Senior Dev
-sidebar_label: WordPress
+sidebar:
+  label: WordPress
 tags: [checklist, wordpress checklist, standards, wordpress oversee checklist pointers]
 ---
 

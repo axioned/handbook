@@ -1,8 +1,9 @@
 ---
-sidebar_position: 2
 id: wordpress-checklist
 title: WordPress Code Review Checklist
-sidebar_label: Code Review Checklist
+sidebar:
+  label: Code Review Checklist
+  order: 2
 tags: [wordpress code review, wordpress checklist]
 ---
 

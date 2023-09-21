@@ -1,8 +1,9 @@
 ---
 id: project-environment
 title: Project Environment
-sidebar_label: Project Environment
-sidebar_position: 2
+sidebar:
+  label: Project Environment
+  order: 2
 tags: [environment, project environment, project environment operate]
 ---
 

@@ -1,8 +1,9 @@
 ---
 id: corevalues
 title: Core Values
-sidebar_label: Core Values
-sidebar_position: 2
+sidebar:
+  label: Core Values
+  order: 2
 ---
 
 ## Overview

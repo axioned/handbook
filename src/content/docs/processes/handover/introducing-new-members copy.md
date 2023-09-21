@@ -2,7 +2,8 @@
 position: 1
 id: introducing-new-members
 title: Introducing new members
-sidebar_label: New members
+sidebar:
+  label: New members
 tags: ['handover', 'new members', 'onboarding', 'transition', 'kt', 'knowledge transfer']
 ---
 

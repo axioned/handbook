@@ -1,8 +1,9 @@
 ---
 id: html-training
 title: HTML - HyperText Markup Language
-sidebar_label: Training Template
-sidebar_position: 1
+sidebar:
+  label: Training Template
+  order: 1
 tags: [html, html training, html reading topics, html topics]
 ---
 

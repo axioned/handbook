@@ -1,7 +1,8 @@
 ---
-sidebar_position: 1
 title: Welcome to our Handbook
-sidebar_label: Welcome
+sidebar:
+  label: Welcome
+  order: 1
 ---
 
 The Axioned Team Handbook is the central repository for how we run the company.

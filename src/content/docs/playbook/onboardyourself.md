@@ -1,7 +1,8 @@
 ---
 id: onboardyourself
 title: How to on-board yourself
-sidebar_label: How to on-board yourself
+sidebar:
+  label: How to on-board yourself
 ---
 
 ## Take charge of your own on-boarding process

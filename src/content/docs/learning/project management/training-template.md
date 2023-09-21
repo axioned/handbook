@@ -1,8 +1,9 @@
 ---
 id: pm-training
 title: PM Training Template
-sidebar_label: Training Template
-sidebar_position: 3
+sidebar:
+  label: Training Template
+  order: 3
 tags: [pm training, pm template]
 ---
 

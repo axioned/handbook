@@ -1,7 +1,8 @@
 ---
 id: GithubActions
 title: GitHub Actions for WordPress
-sidebar_label: WordPress GitHub Actions
+sidebar:
+  label: WordPress GitHub Actions
 tags: [GitHub, Actions, CICD, Deployment, WordPress, yml, WP Engine, AWS]
 ---
 

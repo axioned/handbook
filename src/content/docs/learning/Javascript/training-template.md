@@ -1,8 +1,9 @@
 ---
 id: js-training
 title: Javascript
-sidebar_label: Training Template
-sidebar_position: 1
+sidebar:
+  label: Training Template
+  order: 1
 tags: [javascript, js]
 ---
 

@@ -1,8 +1,9 @@
 ---
 id: contribute
 title: Contribute to the Handbook
-sidebar_label: Contribute
-sidebar_position: 99
+sidebar:
+  label: Contribute
+  order: 99
 ---
 
 We recognize that the whole idea of remote working is still quite new, and can only be successful with active participation from the whole team. Here's how you can participate:

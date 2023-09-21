@@ -1,7 +1,8 @@
 ---
 id: data-security
 title: Data Security Policies and Procedures
-sidebar_label: Data Security
+sidebar:
+  label: Data Security
 tags: [Device Use Regulation, External Pen Drives, Using SSH/SFTP, Personal Devices, Internet Cable, Credentials and Systems Management, Data Security, Security Auditing Actions, Data Sharing, Project Closure, workstation usage, Device lost, Remote Access, VPN Policy, Technical Safeguards]
 ---
 

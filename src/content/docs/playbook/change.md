@@ -1,7 +1,8 @@
 ---
 id: change
 title: Change management flow
-sidebar_label: Change management flow
+sidebar:
+  label: Change management flow
 
 ---
 

@@ -1,8 +1,9 @@
 ---
 id: php-training
 title: PHP Training Template
-sidebar_label: Training Template
-sidebar_position: 1
+sidebar:
+  label: Training Template
+  order: 1
 tags: [PHP, PHP training, PHP7, unit testing, cURL]
 ---
 

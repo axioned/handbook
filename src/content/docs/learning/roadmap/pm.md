@@ -1,7 +1,8 @@
 ---
 title: Project Management Technology Roadmap
-sidebar_label: Project Management
-sidebar_position: 1
+sidebar:
+  label: Project Management
+  order: 1
 ---
 
 ## Project Management

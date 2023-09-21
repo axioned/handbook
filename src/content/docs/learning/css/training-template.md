@@ -1,8 +1,9 @@
 ---
 id: css-training
 title: CSS - Cascading Style Sheets
-sidebar_label: Training Template
-sidebar_position: 1
+sidebar:
+  label: Training Template
+  order: 1
 tags: [css, cascading style sheets]
 ---
 

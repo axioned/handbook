@@ -1,8 +1,9 @@
 ---
 id: reactjs-training
 title: ReactJS Training Template
-sidebar_label: Training Template
-sidebar_position: 1
+sidebar:
+  label: Training Template
+  order: 1
 tags: [reactjs, reactjs template, training, redux, state]
 ---
 

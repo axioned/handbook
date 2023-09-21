@@ -1,8 +1,9 @@
 ---
 id: pm-guide
 title: A Guide to Project Management
-sidebar_label: Guide
-sidebar_position: 1
+sidebar:
+  label: Guide
+  order: 1
 tags: [PM guide, guide]
 ---
 

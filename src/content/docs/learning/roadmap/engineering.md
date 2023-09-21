@@ -1,7 +1,8 @@
 ---
 title: Engineering Technology Roadmap
-sidebar_label: Engineering
-sidebar_position: 1
+sidebar:
+  label: Engineering
+  order: 1
 ---
 
 ## Engineering

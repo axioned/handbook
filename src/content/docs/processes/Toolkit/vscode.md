@@ -1,7 +1,8 @@
 ---
 id: VSCode
 title: Visual Studio Code
-sidebar_label: VS Code
+sidebar:
+  label: VS Code
 tags: [vscode, ide]
 ---
 
