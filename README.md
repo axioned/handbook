@@ -1,39 +1,42 @@
-# Website
+# Handbook
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+## 🚀 Project Structure
 
-## Installation
+Inside of your Astro + Starlight project, you'll see the following folders and files:
 
-```console
-yarn install
+```
+.
+├── public/
+├── src/
+│   ├── assets/
+│   ├── content/
+│   │   ├── docs/
+│   │   └── config.ts
+│   └── env.d.ts
+├── astro.config.mjs
+├── package.json
+└── tsconfig.json
 ```
 
-## Local Development
+Starlight looks for `.md` or `.mdx` files in the `src/content/docs/` directory. Each file is exposed as a route based on its file name.
 
-```console
-yarn start
-```
+Images can be added to `src/assets/` and embedded in Markdown with a relative link.
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+Static assets, like favicons, can be placed in the `public/` directory.
 
-## Build
+## 🧞 Commands
 
-```console
-yarn build
-```
+All commands are run from the root of the project, from a terminal:
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
+| Command                   | Action                                           |
+| :------------------------ | :----------------------------------------------- |
+| `npm install`             | Installs dependencies                            |
+| `npm run dev`             | Starts local dev server at `localhost:4321`      |
+| `npm run build`           | Build your production site to `./dist/`          |
+| `npm run preview`         | Preview your build locally, before deploying     |
+| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
+| `npm run astro -- --help` | Get help using the Astro CLI                     |
 
-### Serve
+## 👀 Want to learn more?
 
-```console
-yarn serve
-```
-
-## Deployment
-
-```console
-GIT_USER=<Your GitHub username> USE_SSH=true yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+Check out [Starlight’s docs](https://starlight.astro.build/), read [the Astro documentation](https://docs.astro.build), or jump into the [Astro Discord server](https://astro.build/chat).
