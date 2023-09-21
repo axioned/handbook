@@ -1,26 +1,18 @@
 ---
-id: kick-off-call-guidelines
-title: Guidelines For Kick Off Call 
-sidebar_label: Guidelines For Kick Off Call 
-sidebar_position: 4
-tags: [Purpose, Ref Doc,CLIENT CALL PREP,DISCUSSION and Q&A]
+title: Kick-off Call
+sidebar:
+  order: 4
 ---
 
-## Purpose:
+## Purpose
 
 The goal of this document is to provide guidelines to the Project Managers/SPOC to be able to follow appropriate steps while having a kick-off call/meeting.
 
+:::tip
 Note: SPOC = Single Point of Contact (which may or may not be the Project Manager)
+:::
 
-## Ref Doc:
-
-- CLIENT CALL PREP: [Link](https://docs.google.com/document/d/1yiK3YMJ9-rribaF8a2YME2Bo4W5UtNhZ78td56ZfykQ/edit?usp=sharing)
-- DISCUSSION and Q&A: [Link](https://docs.google.com/document/d/1eixZyPApQ2VU5SSPQh3YTLWM5rQwCziQOLF9ZE94B-g/edit?usp=sharing)
-- Additional Q&A for Design/Build: [Link](https://docs.google.com/document/d/1xvCGxGJ3y6Ko4nyDsTiYxk7eYkUvQ1VtaVHlXzzp1Ug/edit?usp=sharing)
-- DESIGN/UX Q&A: [Link](https://docs.google.com/document/d/1Xvy9LmaD6q62vhefqsYYRnRWhhy56RefXSaHtolCE7k/edit?usp=sharing)
-- GUIDELINES FOR DESIGN FEEDBACK: [Link](https://docs.google.com/document/d/1tsB6v48-4gXmkgH0m1uzso5XUiRYwkXR0s23tWVntKQ/edit?usp=sharing)
-
-## Prerequisite:
+## Prerequisite
 
 - SOW should be signed by axioned and client.
 - Internal SOW version is shared by the Accounts team.
@@ -31,7 +23,7 @@ Note: SPOC = Single Point of Contact (which may or may not be the Project Manage
 
 ## Process Flow
 
-### Pre Kickoff Call Prep/Actions:
+### Pre Kickoff Call Prep/Actions
 
 1. The SPOCs shall schedule an Engagement Kick-off call with internal team, Client, and their team.
 2. Agenda for the meeting should be added on invite.
@@ -87,3 +79,11 @@ Note: SPOC = Single Point of Contact (which may or may not be the Project Manage
 - Mention details such as names/email address/username of members for whom we need access to Tools discussed on call.
 - Send meeting invites for Check-in calls with the client.
 - Schedule internal standup calls with the project team.
+
+## References
+
+- [CLIENT CALL PREP](https://docs.google.com/document/d/1yiK3YMJ9-rribaF8a2YME2Bo4W5UtNhZ78td56ZfykQ/edit?usp=sharing)
+- [DISCUSSION and Q&A](https://docs.google.com/document/d/1eixZyPApQ2VU5SSPQh3YTLWM5rQwCziQOLF9ZE94B-g/edit?usp=sharing)
+- [Additional Q&A for Design/Build](https://docs.google.com/document/d/1xvCGxGJ3y6Ko4nyDsTiYxk7eYkUvQ1VtaVHlXzzp1Ug/edit?usp=sharing)
+- [DESIGN/UX Q&A](https://docs.google.com/document/d/1Xvy9LmaD6q62vhefqsYYRnRWhhy56RefXSaHtolCE7k/edit?usp=sharing)
+- [GUIDELINES FOR DESIGN FEEDBACK](https://docs.google.com/document/d/1tsB6v48-4gXmkgH0m1uzso5XUiRYwkXR0s23tWVntKQ/edit?usp=sharing)
