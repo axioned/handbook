@@ -1,5 +1,7 @@
 ---
 title: Base Setup
+sidebar:
+  order: 1
 ---
 
 ## Essentials
