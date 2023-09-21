@@ -1,8 +1,5 @@
 ---
-id: communication
 title: Effective Communication Guidelines (ECG)
-sidebar_label: Communication Guidelines (ECG)
-sidebar_position: 4
 ---
 
 1. Communicate your assumptions - verbally or in writing.

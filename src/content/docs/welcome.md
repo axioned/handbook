@@ -1,17 +1,14 @@
 ---
 sidebar_position: 1
-title: Welcome
+title: Welcome to our Handbook
 sidebar_label: Welcome
 ---
-
-# Handbook
 
 The Axioned Team Handbook is the central repository for how we run the company.
 
 It offers us an opportunity to clarify who we actually are as a company. What do we stand for? How should we work? Codifying those beliefs into a handbook makes them tangible and, most importantly, editable. Making the company our best product is a guiding principle, but we can’t easily improve what we haven’t articulated.
 
-**Remote work (i.e., WFH / work from home) is also what led to the development of our handbook, which captures everything you'd need to know about the company.
-**
+*Remote work (i.e., WFH / work from home) is also what led to the development of our handbook, which captures everything you'd need to know about the company.*
 
 Few sections of this handbook may link out to other documents that are only accessible to specific teams or individuals, but if you feel you need to know or see them you are more than welcome to give us a shout on Slack - either [#general](https://axioned.slack.com/archives/C024GTVNN), [#help](https://axioned.slack.com/archives/C016UBG8QGG) or [#handbook](https://axioned.slack.com/archives/C02UV6BREDU).
 

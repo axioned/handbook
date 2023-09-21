@@ -2,6 +2,7 @@
 id: change
 title: Change management flow
 sidebar_label: Change management flow
+
 ---
 
 Below are the 4 key stages which we'd like to put all our significant changes through, namely: Hold, Assess, Trial and then Adopt.
