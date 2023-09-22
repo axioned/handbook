@@ -1,9 +1,10 @@
 ---
 id: requirement-matrix
 title: Requirement Matrix
-sidebar_label: Requirement Matrix
-sidebar_position: 7
-tags: [Requirement, Requirement matrix]
+sidebar:
+  label: Requirement Matrix
+  order: 7
+tags: [Required, Requirement Matrix, Matrix]
 ---
 
 | ID | Template/Page       | Assoc ID | Customer Need(s)        | Technical Assumption(s)/Functional Requirement    | Status       | Comments         |
