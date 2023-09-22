@@ -27,17 +27,17 @@ export default defineConfig({
         },
         {
           label: "Playbook",
-          autogenerate: { directory: "playbook" },
+          autogenerate: { directory: "Playbook" },
         },
         {
           label: "Learning",
           collapsed: true,
-          autogenerate: { directory: "learning" },
+          autogenerate: { directory: "Learning" },
         },
         {
           label: "Processes",
           collapsed: true,
-          autogenerate: { directory: "processes" },
+          autogenerate: { directory: "Processes" },
         },
         {
           label: "Glossary",
