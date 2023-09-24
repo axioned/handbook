@@ -3,7 +3,7 @@ id: guidingprinciples
 title: Guiding Principles
 sidebar:
   label: Guiding Principles
-  order: 3
+  order: 4
 tags: [principles, guide, guiding, values]
 ---
 

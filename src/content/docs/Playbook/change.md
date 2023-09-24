@@ -3,12 +3,13 @@ id: change
 title: Change management flow
 sidebar:
   label: Change management flow
+  order: 99
 
 ---
 
 Below are the 4 key stages which we'd like to put all our significant changes through, namely: Hold, Assess, Trial and then Adopt.
 
-:::tip
+:::note
 These are inspired by ThoughtWorks' Radar (more specifically, the rings).
 :::
 
