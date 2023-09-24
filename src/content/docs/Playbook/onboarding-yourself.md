@@ -1,8 +1,7 @@
 ---
-id: onboardyourself
 title: How to on-board yourself
 sidebar:
-  label: How to on-board yourself
+  label: Onboarding yourself
 ---
 
 ## Take charge of your own on-boarding process
@@ -48,4 +47,6 @@ Form a point of view about what’s happening. This fresh perspective is one of 
 **Don’t shy away from sharing what you’re noticing. You can always do a gut check and ask for context to validate your hypotheses.**
 :::
 
-> **Credit:** https://almanac.io/articles/31008/checklist-how-to-on-board-yourself-when-you-join-a-new-team
+:::tip[Credit]
+Almanac's checklist for [How to on-board yourself when you join a new team](https://almanac.io/docs/checklist-how-to-on-board-yourself-when-you-join-a-new-team-95f25847a4540f3abe5a0637ae2e2209)
+:::
