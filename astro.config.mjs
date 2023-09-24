@@ -15,6 +15,7 @@ export default defineConfig({
         baseUrl: "https://github.com/axioned/handbook/edit/main/",
       },
       tableOfContents: true,
+      favicon: "/public/favicon.ico",
       logo: {
         src: "/public/logo.png",
         alt: "Axioned",
