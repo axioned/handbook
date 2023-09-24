@@ -47,10 +47,11 @@ tags: [pm training, pm template]
 8. Axioned_HL EXECUTION WORKFLOW - (1 hour)
     - https://goo.gl/stK4vv 
 
-:::tip Daily Update Email:
+:::tip[Daily Update Email]
+
 1. *Send a daily update email with what you accomplished today.*
 2. *Tweak the shared template, make it your own.*
-3. *Copy your buddy in that mail and CC buddies@Axioned.com.* 
+3. *Copy your buddy in that mail and CC [buddies@axioned.com](mailto:buddies@axioned.com).*
 :::
 
 **Buddy sign-off - (0.5 hours)**

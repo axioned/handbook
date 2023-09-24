@@ -31,7 +31,8 @@ Sr No. | Topics | Efforts (in hrs)
 5.2 | <ul><li>Create Navigations</li><li>Understand how to create scenes and jump on specific scene</li></ul> | 8 |
 | | **Total Hours** | 44
 
-:::tip React Native Template Google Sheet
+:::tip[React Native Template Google Sheet]
+
 1. React Native template reference link can be found [**here**](https://docs.google.com/spreadsheets/d/1IgAMZ_C8mO0-oyRB8NiQD4liE8hcxHbJXHR5AYv53-U/edit#gid=0).
 2. Please follow this [**link**](http://droidmentor.com/versioning-an-android-app-how-and-why/) for versioning an Android App
 3. Creating signed-apk and release-apk link can be found [**here**](https://facebook.github.io/react-native/docs/signed-apk-android.html)

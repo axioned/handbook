@@ -30,6 +30,6 @@ Sr No. | Topics | Efforts (in hrs)
 8 | [**Google Analytics Understanding**](https://docs.google.com/document/d/1Cj22DNBM3ZgcoExcM9e2y6lIlX5Cl0QSkdBIrjNw3ZU/edit?usp=sharing) <ol><li>Why we use</li><li>Universal Analytics vs GA4</li><li>How to review the statistics like views, events details etc</li><li>How to integrate via google Tag Manager</li></ol> | 5 |
 | | **Total Hours** | 142 |
 
-:::tip NodeJS Template Google Sheet
+:::tip[NodeJS Template Google Sheet]
 NodeJS template reference link can be found [**here**](https://docs.google.com/spreadsheets/d/1tlib2XsXi_2gc0kFTv9rBUEYbv60XLtOtopAPGHI2q8/edit#gid=1636971823).
 :::

@@ -38,6 +38,6 @@ Sr No. | Check | Description |
 25 | Use explain stage while writing big queries to see how well the query is performing |
 26 | Use of $match, $limit & $skip can filter out most of the documents if used on a early pipeline stage. | For detailed aggregation pipeline optimization, you can refer [**here**](https://docs.mongodb.com/manual/core/aggregation-pipeline-optimization/).
 
-:::tip NodeJS Inspection Checklist Google Sheet
+:::tip[NodeJS Inspection Checklist Google Sheet]
 NodeJS Inspection Checklist reference link can be found [**here**](https://docs.google.com/spreadsheets/d/1kbpSVE_ysY8Is5qvuWfCDTTTMp_Wtt5js7FBZzqGODk/edit#gid=30339181).
 :::

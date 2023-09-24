@@ -27,11 +27,11 @@ This document is intended to help new members get up to speed with a new project
   - Manage the feedback loop (with the client) and ensure the client is happy with the new member.
 - Complete the transition and confirmation
 
-:::tip In the overlap period
+:::tip[In the overlap period]
 The new member should be doing the actual work, not just shadowing the previous person.
 :::
 
-:::danger Important
+:::danger
 Step back and really think about the communication plan. **It is as much as about technical onboarding as it is about communication with the client.**
 :::
 

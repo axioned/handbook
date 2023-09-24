@@ -260,7 +260,7 @@ Sr No. | Topics | Reference
 1 | **Promises** | <ul><li>https://scotch.io/courses/10-need-to-know-javascript-concepts/callbacks-promises-and-async</li><li>https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Introducing</li></ul>
 2 | **Async/Await** | 
 
-:::tip JS Template Google Sheet
+:::tip[JS Template Google Sheet]
 1. JS Cheatsheet [*Link 1*](https://htmlcheatsheet.com/js/) [*Link 2*](https://github.com/mbeaudru/modern-js-cheatsheet) [*Link 3*](https://quickref.me/javascript) [*Link 4*](https://www.interviewbit.com/javascript-cheat-sheet/)
 2. JS Template Reference link can be found [**here**](https://docs.google.com/spreadsheets/d/18vnt-qOtInzMr0LIMzgzOiHP-LPeJ3KjRfZzckeWtUc/edit#gid=0)
 :::

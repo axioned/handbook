@@ -65,7 +65,7 @@ Sr No. | Topics
 :--: | ----- |
 1 | **1) Why and How should I declare the encoding of my HTML file?** 
 
-:::tip HTML Template Google Sheet
+:::tip[HTML Template Google Sheet]
 1. HTML Cheatsheet [*Link 1*](https://htmlcheatsheet.com/) [*Link 2*](https://html.com/wp-content/uploads/html-cheat-sheet.pdf)
 2. HTML Template Reference link can be found [**here**](https://docs.google.com/spreadsheets/d/18vnt-qOtInzMr0LIMzgzOiHP-LPeJ3KjRfZzckeWtUc/edit#gid=0)
 :::

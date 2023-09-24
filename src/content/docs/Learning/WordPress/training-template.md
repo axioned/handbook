@@ -76,6 +76,6 @@ Sr No. | Type | Topics | Efforts (in hrs)
 5 | Reading |	**Theme Options – The Customize API (Customizer)** <ol><li>explore existing default options available</li><li>create custom option and its working in the customizer</li></ol> | 4 |
 6 | Reading |	Explore Woocommerce | 4 |
 
-:::tip Wordpress Template Google Sheet
+:::tip[Wordpress Template Google Sheet]
 Wordpress template reference link can be found [**here**](https://docs.google.com/spreadsheets/d/1myWnRqq5nVxsTbaxh86jDPIv6rE5klkg1Qsq7axuFys/edit#gid=61816199).
 :::

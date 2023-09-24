@@ -109,11 +109,12 @@ For adding WPCS the Composer is required *( One time Installation )*
   },
   ```
 
-  :::tip How to check PHPCS error
+  :::tip[How to check PHPCS error]
     1. *After adding this restart vscode now on saving the .php file it will run added phpcs command. Now it will start throwing error related to WordPress.*
     2. *For checking error in vscode go to `Terminal -> output -> on right hand side there will be a dropdown open it and select Run on Save` You will get the error here.*
     3. *As we have set the reporting type to `.txt` format. For changing reporting type to `CSV, JSON, JUnit, etc`. Refer this git [reproting](https://github.com/squizlabs/PHP_CodeSniffer/wiki/Reporting) repository*
   :::
+
 ## Validating WP Functions
 
   1. Add [PHP Intelephense](https://marketplace.visualstudio.com/items?itemName=bmewburn.vscode-intelephense-client) Vscode extension by *Ben Mewburn*

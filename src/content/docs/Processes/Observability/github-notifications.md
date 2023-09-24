@@ -14,7 +14,7 @@ We recommend this to make sure those who need to be alerted about these (eg: dev
 
 Ask your Project manager or IT team to create another channel with the suffix of `-notifications` to your main channel.
 
-:::tip Example
+:::tip[Example]
 Eg: If your project channel name is `#live-axioned-website`, then your notifications channel name should be `#live-axioned-website-notifications`
 :::
 

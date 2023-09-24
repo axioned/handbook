@@ -43,6 +43,6 @@ The resulting data is made available via:
 - [Public Google BigQuery project](https://console.cloud.google.com/bigquery?p=chrome-ux-report&page=project), which aggregates user experience metrics by origin, for all origins that are known by Google's web crawlers, and split across multiple dimensions outlined below.
 - [CrUX Dashboard on Data Studio](https://web.dev/chrome-ux-report-data-studio-dashboard/), which can be setup to track an origin's user experience trends (my personal favourite given the ease of use for Engineers and non-Engineers alike, and gives you high-level snapshot based on the same data that Google uses).
 
-:::tip Want more?
+:::tip[Want more?]
 Head on over to https://web.dev/vitals-tools/ to learn about how to capture your own data, and other tools/libraries that might be worth knowing about.
 :::

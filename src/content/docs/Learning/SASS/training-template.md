@@ -36,6 +36,6 @@ Sr No. | Topics | Reading Efforts ( in hrs ) | Task Efforts ( in hrs )
 16 | Control Directive | 3 | 4 |
 | | **Total Hours** | 24.5 | 14
 
-:::tip SASS Template Google Sheet
+:::tip[SASS Template Google Sheet]
 SASS template reference link can be found [**here**](https://docs.google.com/spreadsheets/d/1y4zRUecedV2ftj6yUoBCiP2MK0VZafBAYzlJ8tht6Es/edit#gid=782361990).
 :::

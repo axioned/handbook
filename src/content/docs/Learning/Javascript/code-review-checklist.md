@@ -36,7 +36,7 @@ Sr No. | Check |
 23 |	Every  method/function should have a try-catch block to avoid run time errors.
 24 |	Use loggers in the catch block to get exact error.
 25 |	Verify if business logic is proper and written efficiently.
-26 |	Function casing. 
+26 |	Function casing.
 28 |	Using spread operator.
 29 |	Be consistent in your usage of arrow function.
 30 |	Use destructuring assignment for arrays and objects.
@@ -44,8 +44,8 @@ Sr No. | Check |
 31 |	Use Promises or Async/Await. Rejection is handled.
 32 |	No syntax/runtime errors and warnings in the code.
 33 |	No deprecated functions in the code.
-34 |	Check that each function is doing only a single thing. 
-35 |	No magic numbers. Put all such numbers as a constant. 
+34 |	Check that each function is doing only a single thing.
+35 |	No magic numbers. Put all such numbers as a constant.
 36 |	Make sure recursive function don't end up in infinite loop.
 37 |	Avoid inline styling through JS use classes instead.
 38 |	make sure the whole script wrapped inside document ready.
@@ -56,6 +56,6 @@ Sr No. | Check |
 43 |	Please make sure to use condition while using offset().top property if the offset is present then only use top or else it will throw an error in the console.
 44 |	Form/Input validation is not just to add required attribute also validate the input via JS to make sure expected input is entered by user.
 
-:::tip JS Checklist
+:::tip[JS Checklist]
 JS Checklist reference link can be found [**here**](https://docs.google.com/spreadsheets/d/1kbpSVE_ysY8Is5qvuWfCDTTTMp_Wtt5js7FBZzqGODk/edit#gid=0).
 :::

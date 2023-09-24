@@ -42,6 +42,6 @@ Sr No. | Topics | Efforts (in hrs)
 19 | **PHP7** <ol><li>Scalar type declarations</li><li>Return type declarations</li><li>Null Coalescing Operator</li><li>Spaceship Operator</li><li>Anonymous classes</li><li>Closure::call()</li><li>Group Use Declarations</li><li>Generator Return Expressions and Delegation</li></ol> | 30 |
 | | **Total Hours** | 286 |
 
-:::tip Core PHP Template Google Sheet
+:::tip[Core PHP Template Google Sheet]
 Core PHP template reference link can be found [**here**](https://docs.google.com/spreadsheets/d/13GmTz5-ilE_KYKxYiLKrv8RzQqb14SLCdcXsH3-6dpY/edit#gid=0).
 :::

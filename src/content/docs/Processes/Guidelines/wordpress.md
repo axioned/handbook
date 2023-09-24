@@ -29,5 +29,6 @@ tags: [checklist, wordpress checklist, standards, wordpress oversee checklist po
 - Global Settings:
   - Instruct developers to reach out to a senior developer or Oversee for making changes related to global settings.
 
-:::tip Checklist Pointer for Oversee/Senior Dev Google Sheet [*Link*](https://docs.google.com/document/d/1t38p9Z-QhVuG0b5Dca7YFMjZeVOuWpKCupL90aDWuxY/edit#)
+:::tip[Checklist Pointer for Oversee/Senior Dev Google Sheet]
+[*Link*](https://docs.google.com/document/d/1t38p9Z-QhVuG0b5Dca7YFMjZeVOuWpKCupL90aDWuxY/edit#)
 :::

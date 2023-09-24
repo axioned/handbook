@@ -25,6 +25,6 @@ Sr No. | Check |
 12 |	If there is a need of commented code please add TODO and then push on the repo.
 13 |	Make sure that you do not provide much file changes for PR> If you are building a bigger functionality use atomic commits and send it for review. 
 
-:::tip Git Checklist
+:::tip[Git Checklist]
 Git Checklist reference link can be found [**here**](https://docs.google.com/spreadsheets/d/1kbpSVE_ysY8Is5qvuWfCDTTTMp_Wtt5js7FBZzqGODk/edit#gid=1533928750).
 :::

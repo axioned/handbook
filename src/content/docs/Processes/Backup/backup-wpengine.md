@@ -9,7 +9,7 @@ tags: [Wordpress, Backup, WP Engine]
 
 WP Engine has both automated and manual backups to help protect your data, removing the need for any bulky third-party application. Backups exist for all environments on WP Engine by default (Production, Staging, and Development). These backups are stored offsite on Amazon S3 and are encrypted in transit and at rest.
 
-:::tip My tip
+:::tip
 Check out the official WPEngine documentation on their Support Center
 https://wpengine.com/support/restore/
 :::

@@ -14,7 +14,7 @@ Dependabot alleviates that pain by raising a PR against a particular module auto
 - To run the Dependabot, the `.yml` file needs to be in the default branch (main), If you want to run your Dependabot from any other branch, then you have to [change your default branch](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/managing-branches-in-your-repository/changing-the-default-branch) to required one.
 - Specify target branch should be present in the remote branches.
 
-:::danger Caution
+:::danger
 Before changing default branch: Make sure your CI/CD flow doesn’t get interrupted
 :::
 

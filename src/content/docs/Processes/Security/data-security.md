@@ -12,7 +12,7 @@ We expect all Axioned employees to read and follow the policies and procedures w
 
 The IT Admin team, Sagar Bisen and Ismile B, will work with the Axioned team to ensure that these policies and procedures are followed at all times. 
 
-:::tip Disclaimer
+:::caution
 This document contains information regarding policies, regulations, and rules of Axioned. If any breach or threat made by an employee, which can put business/project into risk, for that a proper investigation will take place and if any individual or team found violating the policy strict action can be taken.
 :::
 
@@ -30,7 +30,7 @@ Email: it@axioned.com, privacy@axioned.com, security@axioned.com
   1. Head of IT: Sagar, sagar@axioned.com
   2. Junior IT/Support: Ismile, ismileb@axioned.com 
 
-:::tip Data/Security Incident Guidelines
+:::tip[Data/Security Incident Guidelines]
 Note: Data/Security Incident Response Guidelines can be found [**here**](https://docs.google.com/document/d/1FuH1U6Iv_bDVoLYbBk3zDgi1NYZkdpbIFBSJYUa0DIg/edit#) 
 :::
 

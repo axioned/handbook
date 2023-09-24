@@ -24,6 +24,6 @@ Sr No. | Topics | Reference
 6 | **Alternative of gits** |
 7 | **Git Comman Commands** <ol><li>Init, config, clone, remote & origin</li><li>Push</li><li>Pull</li><li>Commit</li><li>Rebase</li><li>Merge</li><li>Clone</li><li>Log & diff</li><li>Status, stashs & reset</li><li>How to resolve conflicts (pull and merge conflicts overview)</li><li>Basic branching structure</li></ol>
 
-:::tip Version Control System Template Google Sheet
+:::tip[Version Control System Template Google Sheet]
 Version Control System Template Reference link can be found [**here**](https://docs.google.com/spreadsheets/d/18vnt-qOtInzMr0LIMzgzOiHP-LPeJ3KjRfZzckeWtUc/edit#gid=0)
 :::

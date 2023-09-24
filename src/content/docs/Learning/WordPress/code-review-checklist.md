@@ -91,6 +91,6 @@ return $rules;
 }
 ```
 
-:::tip WordPress Inspection Checklist Google Sheet
+:::tip[WordPress Inspection Checklist Google Sheet]
 WordPress Inspection Checklist reference link can be found [**here**](https://docs.google.com/spreadsheets/d/1OA8Cxbap91cH4-Mn3JasyWDZZw2faW5uw4i1xKJzidc/edit#gid=0).
 :::

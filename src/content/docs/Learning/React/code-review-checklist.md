@@ -50,6 +50,6 @@ Sr No. | Check |
 37 | All the paths private information should be a part of env file to avoid exposing
 38 | Minimize logic in the render method. Logic should be in helper methods, container components or in Redux actions (if used)
 
-:::tip ReactJS Inspection Checklist Google Sheet
+:::tip[ReactJS Inspection Checklist Google Sheet]
 ReactJS Inspection Checklist reference link can be found [**here**](https://docs.google.com/spreadsheets/d/1kbpSVE_ysY8Is5qvuWfCDTTTMp_Wtt5js7FBZzqGODk/edit#gid=1281122238).
 :::

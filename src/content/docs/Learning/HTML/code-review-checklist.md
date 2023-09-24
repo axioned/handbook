@@ -45,6 +45,6 @@ Sr No. | Check
 32 | Wrap every image inside a block level element.
 33 | Do not add any text in uppercase. Manage it via css.
 
-:::tip HTML Checklist
+:::tip[HTML Checklist]
 HTML Checklist reference link can be found [**here**](https://docs.google.com/spreadsheets/d/1kbpSVE_ysY8Is5qvuWfCDTTTMp_Wtt5js7FBZzqGODk/edit#gid=20521288).
 :::

@@ -83,6 +83,6 @@ Optional | **React with typescript** |
 4 | Static/optional/advanced typing
 | | **Total Hours** | 81.5
 
-:::tip ReactJS Template Google Sheet
+:::tip[ReactJS Template Google Sheet]
 ReactJS template reference link can be found [**here**](https://docs.google.com/spreadsheets/d/1QUwI5LgS0PE954DicSKh7DfmvkxdbdSlmxxtsxqfewU/edit#gid=0).
 :::

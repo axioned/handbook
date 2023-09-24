@@ -96,6 +96,7 @@ Sr No. | Check | Description |
 32.2 | If you'd like to insert values from variables, concatenate strings. | Example:<br />```$message = 'Hey ' . $name . ', you look ' . $appearance . ' today!';```
 32.3 | A space must be inserted before and after the dot for better readability. | Example:<br />```$vision = 'Inspiring people ' . 'to share.';```
 32.4 | You may break a string into multiple lines if you use the dot operator. You'll have to indent each following line to mark them as part of the value assignment. | Example:<br />```$vision = 'Inspiring' . people ' . to ' . share';```
-:::tip PHP Checklist Google Sheet
+
+:::tip[PHP Checklist Google Sheet]
 PHP Checklist reference link can be found [**here**](https://docs.google.com/spreadsheets/d/1kbpSVE_ysY8Is5qvuWfCDTTTMp_Wtt5js7FBZzqGODk/edit#gid=216983308).
 :::
