@@ -3,13 +3,17 @@ import starlight from "@astrojs/starlight";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://axionedhandbook.github.io",
+  site: "https://handbook.axioned.com",
   base: "/",
   integrations: [
     starlight({
       title: "Axioned Handbook",
+      description: "Central repository for how we run the company",
       social: {
-        github: "https://github.com/axioned/handbook",
+        github: "https://github.com/axioned",
+        linkedin: "https://www.linkedin.com/company/axioned",
+        instagram: "https://instagram.com/axionedteam",
+        twitter: "https://twitter.com/AxionedTeam",
       },
       editLink: {
         baseUrl: "https://github.com/axioned/handbook/edit/main/",
