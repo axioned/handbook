@@ -49,7 +49,7 @@ Ownership is a mindset. It's a way of thinking and acting as if you were the own
 
 ### Open Collaboration 🤜🤛
 
-We are all work-in-progress, so is everything we do. Be comfortable with "working in the open" - whether it is sharing your views or inviting feedback from others.
+We are all work-in-progress, so is everything we do. Be comfortable with "working in the open" - whether it is sharing your views candidly or inviting feedback from others.
 
 ## Appendix
 
