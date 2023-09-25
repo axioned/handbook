@@ -37,7 +37,7 @@ No one knows everything. Be open to learning, being wrong, being challenged, bei
 
 ### Help First 🤝
 
-We are not in a [zero-sum game](https://www.masterclass.com/articles/zero-sum-game-meaning); bring people along on the journey. Only thing better than helping someone is helping someone help someone else.
+We are not in a "I win, you lose" environment; bring people along for the journey. The best way to help someone is to teach them how to help themselves and others.
 
 :::note[Suggested reading]
 [Let’s stop calling them “soft skills” — and call them “real skills” instead](https://ideas.ted.com/soft-skills-and-real-skills/) - by Seth Godin (on TED Ideas)
@@ -45,7 +45,7 @@ We are not in a [zero-sum game](https://www.masterclass.com/articles/zero-sum-ga
 
 ### Proactive Ownership 🏅
 
-Ownership is a mindset. It's a way of thinking and acting as if you were the owner. It's a way of being accountable for your actions and their consequences.
+Ownership is a mindset. It's a way of thinking and acting as if you were the owner. It's a way of being accountable for your actions and the outcomes.
 
 ### Open Collaboration 🤜🤛
 
