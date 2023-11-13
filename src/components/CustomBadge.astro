@@ -1,0 +1,10 @@
+---
+// Custom Bagde Component
+import Badge from "@astrojs/starlight/components/Badge.astro";
+
+const { props } = Astro;
+---
+
+<span style="display: inline-flex; margin-left: 5px; vertical-align: middle;">
+  <Badge {...props} />
+</span>
