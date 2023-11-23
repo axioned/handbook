@@ -21,20 +21,20 @@ PHP Code Sniffer (PHPCS) is a package for syntax checking. It can check code aga
 
 For adding WPCS the Composer is required *( One time Installation )*
 
-  - First check if composer is installed in your system by using this command: `composer`
-  - For Installing default composer version use this command: `sudo apt install composer`
-  - Or check the Composer installation ref [link](https://getcomposer.org/download/) OR refer this [Doc](https://docs.google.com/document/d/1zZfmWng-0qMgpyyaSrXDt5SkkPRCFabU4JLvdELKqqE/edit).
+- First check if composer is installed in your system by using this command: `composer`
+- For Installing default composer version use this command: `sudo apt install composer`
+- Or check the Composer installation ref [link](https://getcomposer.org/download/) OR refer this [Doc](https://docs.google.com/document/d/1zZfmWng-0qMgpyyaSrXDt5SkkPRCFabU4JLvdELKqqE/edit).
 
 ### WPCS Repository Details
 
-  - WPCS clone command `git clone -b master  https://github.com/WordPress/WordPress-Coding-Standards.git wpcs`
-  - WPCS GIT [Link](https://github.com/WordPress/WordPress-Coding-Standards)
+- WPCS clone command `git clone -b master  https://github.com/WordPress/WordPress-Coding-Standards.git wpcs`
+- WPCS GIT [Link](https://github.com/WordPress/WordPress-Coding-Standards)
 
 ### PHP CodeSniffer Details
 
-  - To globally install PHP_CodeSniffer use this below command: 
-    - `composer global require "squizlabs/php_codesniffer=*"`
-  - Other ways to install code sniffer can be found [here](https://github.com/squizlabs/PHP_CodeSniffer#installation).
+- To globally install PHP_CodeSniffer use this below command:
+  - `composer global require "squizlabs/php_codesniffer=*"`
+- Other ways to install code sniffer can be found [here](https://github.com/squizlabs/PHP_CodeSniffer#installation).
 
 ## Configure PHPCS for WPCS
 
@@ -57,7 +57,7 @@ For adding WPCS the Composer is required *( One time Installation )*
         - *The installed coding standards are `MySource, PEAR, PSR1, PSR2, PSR12, Squiz, Zend, WordPress, WordPress-Core, WordPress-Docs and WordPress-Extra`*
   6. Check if PHPCS is working as excepted use this command on your theme directory `phpcs --standard="WordPress" header.php`
 
-        ```
+        ```shell
         FILE: /var/www/html/folder/project-name/wp-content/themes/themeName/header.php
 
         -------------------------------------------------------
@@ -71,15 +71,15 @@ For adding WPCS the Composer is required *( One time Installation )*
 
         9 | ERROR   | All output should be run through an escaping function
 
-        ``` 
+        ```
 
   7. To check all phpcs flags use this Command: `phpcs –help`
 
 ## Dynamically Run Phpcs and Phpcbf command on saving the php file
 
-  - Install [Run on Save](https://marketplace.visualstudio.com/items?itemName=emeraldwalk.RunOnSave) extension by ***emeraldwalk*** on Vscode
-  - As Vscode setting is displayed in UI format we have to change it to JSON format
-    - Go To - `Vscode -> setting -> Workbench - setting Editor -> And change the Editor option to JSON`
+- Install [Run on Save](https://marketplace.visualstudio.com/items?itemName=emeraldwalk.RunOnSave) extension by ***emeraldwalk*** on Vscode
+- As Vscode setting is displayed in UI format we have to change it to JSON format
+  - Go To - `Vscode -> setting -> Workbench - setting Editor -> And change the Editor option to JSON`
 
   ```json
     "emeraldwalk.runonsave": {
@@ -123,69 +123,82 @@ For adding WPCS the Composer is required *( One time Installation )*
   4. For removing the above error clone this [acf-pro-stubs](https://github.com/php-stubs/acf-pro-stubs) in your document directory
   5. Go to Vscode setting in JSON format add the acf-pro-stubs directory for PHP Intelephense
 
-       ```array
-        "intelephense.stubs": [ 
+       ```json
+        "intelephense.stubs": [
           “WordPress”,
           ”/var/www/html/stubs/acf-pro-stubs”,
         ]
         ```
+
   6. Now the ACF methods error will be gone.
 
 ## Important Extension for Development
 
-  - Using [acf-snippets](https://marketplace.visualstudio.com/items?itemName=anthonydiametrix.ACF-Snippet) vscode extension by *Anthony Hubble*
-  - Use below ***emmet/snippets*** for generating the acf code
-    - Eg: type `field:ifelse` snippet and press enter
-    1. field:ifelse
-        ```php
-        <?php if ( get_field('field_name') ) : ?>
-        <?php else: ?>
+- Using [acf-snippets](https://marketplace.visualstudio.com/items?itemName=anthonydiametrix.ACF-Snippet) vscode extension by *Anthony Hubble*
+- Use below ***emmet/snippets*** for generating the acf code
+  - Eg: type `field:ifelse` snippet and press enter
+  1. field:ifelse
+
+      ```php
+      <?php if ( get_field('field_name') ) : ?>
+      <?php else: ?>
+      <?php endif; ?>
+      ```
+
+  2. field:if
+
+      ```php
+      <?php if ( get_field('field_name') ) : ?>
+      <?php endif; ?>
+      ```
+
+  3. field:sub
+
+      ```php
+        <?php if ( get_sub_field('field_name') ) : ?>
+          <?php echo get_sub_field('field_name'); ?>
         <?php endif; ?>
-        ```
-    1. field:if
-        ```php
+      ```
+
+  4. field:image
+
+      ```php
         <?php if ( get_field('field_name') ) : ?>
+          <img src="<?php the_field('field_name'); ?>" alt="<?php the_field(''); ?>">
         <?php endif; ?>
-        ```
-    2. field:sub
-        ```php
-          <?php if ( get_sub_field('field_name') ) : ?>
-            <?php echo get_sub_field('field_name'); ?>
-          <?php endif; ?>
-        ```
-    3. field:image
-        ```php
-          <?php if ( get_field('field_name') ) : ?>
-            <img src="<?php the_field('field_name'); ?>" alt="<?php the_field(''); ?>">
-          <?php endif; ?>
-        ```
-    4. field:flex *(Flexible Content Field)*
-        ```php
-          <?php if ( have_rows( 'field_name' ) ) : ?>
-            <?php while ( have_rows('field_name' ) ) : the_row();
-              if ( get_row_layout() == 'layout_field' ) : ?>
-                <div class="class">
-                  <?php the_sub_field( 'field_name' ); ?>
-                </div>
-              <?php endif; ?>
-            <?php endwhile; ?>
-          <?php endif; ?>
-        ```
-    5. field:relationship *(Relationship Field)*
-        ```php
-          <?php $posts = get_field('field_name'); ?>
-          <?php if ( $posts ): ?>
-            <ul>
-              <?php foreach ( $posts as $post ) : setup_postdata( $post ); ?>
-                <li>
-                  <a href="<?php the_permalink(); ?>"><?php the_title(); ?></a>
-                </li>
-              <?php endforeach; wp_reset_postdata(); ?>
-            </ul>
-          <?php endif; ?>
-        ```
-    6. For more snippets checkout this [link](https://docs.google.com/document/d/1CTLZ6f2agwWT4IiI7ZTEoQ0OrrZBDxDZxCHltRZrwG8/edit).
-  - Use [WordPress & ClassicPress snippets plus autocompletions](https://marketplace.visualstudio.com/items?itemName=laurencebahiirwa.classicpress-snippets) by *Laurence Bahiirwa*: For WordPress Method autocompletions
+      ```
+
+  5. field:flex *(Flexible Content Field)*
+
+      ```php
+        <?php if ( have_rows( 'field_name' ) ) : ?>
+          <?php while ( have_rows('field_name' ) ) : the_row();
+            if ( get_row_layout() == 'layout_field' ) : ?>
+              <div class="class">
+                <?php the_sub_field( 'field_name' ); ?>
+              </div>
+            <?php endif; ?>
+          <?php endwhile; ?>
+        <?php endif; ?>
+      ```
+
+  6. field:relationship *(Relationship Field)*
+
+      ```php
+        <?php $posts = get_field('field_name'); ?>
+        <?php if ( $posts ): ?>
+          <ul>
+            <?php foreach ( $posts as $post ) : setup_postdata( $post ); ?>
+              <li>
+                <a href="<?php the_permalink(); ?>"><?php the_title(); ?></a>
+              </li>
+            <?php endforeach; wp_reset_postdata(); ?>
+          </ul>
+        <?php endif; ?>
+      ```
+
+  7. For more snippets checkout this [link](https://docs.google.com/document/d/1CTLZ6f2agwWT4IiI7ZTEoQ0OrrZBDxDZxCHltRZrwG8/edit).
+- Use [WordPress & ClassicPress snippets plus autocompletions](https://marketplace.visualstudio.com/items?itemName=laurencebahiirwa.classicpress-snippets) by *Laurence Bahiirwa*: For WordPress Method autocompletions
 
 ## Fixing Minor formatting issues
 
