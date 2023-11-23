@@ -3,7 +3,6 @@ title: Debugging (Diagnosing problems)
 sidebar:
   label: Debugging
   order: 10
-  badge: New
 ---
 
 It might seem silly, to be writing a page on debugging. But, it's a skill that is often overlooked, and it's a skill that can be improved with practice. Below are some tips and tricks that we feel are worth capturing.
