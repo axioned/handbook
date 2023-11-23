@@ -1,11 +1,65 @@
 ---
-title: Engineering Technology Roadmap
+title: Technology Roadmap
 sidebar:
-  label: Engineering
+  label: Technology
   order: 1
+tableOfContents:
+  minHeadingLevel: 2
+  maxHeadingLevel: 2
 ---
 
-## Engineering
+## October 2023
+
+### Adopt
+
+- [TypeScript](https://www.typescriptlang.org/) ✅
+- [Playwright](https://playwright.dev/) ✅
+- Headless CMS ✅
+  - [Contentful](https://www.contentful.com/) ✅
+  - [Strapi](https://strapi.io/) ✅
+  - [Sanity](https://www.sanity.io/) ✅
+  - [WordPress](https://wordpress.org/) ✅
+- [Shadcn UI](https://ui.shadcn.com/) ✅
+- [Prisma](https://www.prisma.io/) 🏗️
+- [Tailwind CSS](https://tailwindcss.com/) ✅
+- [Next.js](https://nextjs.org/) ✅
+- [Zod](https://zod.dev/) ✅
+- [Dependabot](https://github.com/dependabot) ✅
+- [ChatGPT](https://chat.openai.com/) / [Bard](https://bard.google.com/) ✅
+- [Zustand](https://zustand-demo.pmnd.rs/) 🏗️
+- [Excalidraw](https://excalidraw.com/) 🏗️
+- [T3 Stack](https://create.t3.gg/) 🏗️
+
+### Trial
+
+- [Kis.ai](https://kis.ai/) 🆕
+- [Ghost CMS](https://ghost.org/) ✅
+- Small-GPT 🆕
+- Feature flag driven development 🏗️
+- [Ionic Framework](https://ionicframework.com/) 🏗️
+- [Github Copilot](https://github.com/features/copilot) 🏗️
+
+### Assess
+
+- Gen AI (Generative AI)
+  - Open AI API ✅
+  - MidJourney ✅
+  - Dall-E 🏗️
+  - Hugging Face ✅
+- [Clickhouse](https://clickhouse.com/) 🏗️
+- [NextUI](https://nextui.org/docs/guide/introduction) 🏗️
+- [SST](https://sst.dev/) ✅
+- User Testing Tools
+  - [User Brain](https://www.userbrain.com/en/) ✅
+  - [User testing](https://www.usertesting.com/) ✅
+
+### Hold
+
+- [Astro](https://astro.build/)
+- [Terraform](https://www.terraform.io/)
+- [Cypress](https://www.cypress.io/)
+
+## May 2023
 
 ### Adopt
 

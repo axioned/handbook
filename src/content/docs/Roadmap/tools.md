@@ -1,7 +1,7 @@
 ---
-title: Project Management Technology Roadmap
+title: Tools Roadmap
 sidebar:
-  label: Project Management
+  label: Tools
   order: 1
 ---
 
@@ -24,8 +24,6 @@ sidebar:
 - Loggr - for time tracking
 
 ### Assess
-
-- []
 
 ### Hold
 
