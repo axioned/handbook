@@ -45,6 +45,11 @@ export default defineConfig({
           autogenerate: { directory: "Processes" },
         },
         {
+          label: "Roadmap",
+          collapsed: true,
+          autogenerate: { directory: "Roadmap" },
+        },
+        {
           label: "Glossary",
           link: "/glossary/",
         },
