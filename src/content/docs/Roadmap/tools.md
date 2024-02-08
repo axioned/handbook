@@ -14,14 +14,13 @@ sidebar:
 - [Basecamp](https://basecamp.com/) - our internal tool for project management
 - [Trello](https://trello.com/)
 - [Miro](https://miro.com/) - for whiteboarding and brainstorming
-- [Tick](https://tickspot.com) - for time tracking
 
 ### Trial
 
 - [Excalidraw](https://excalidraw.com/) - for whiteboarding and brainstorming
 - [FigJam](https://www.figma.com/figjam/) - for whiteboarding and brainstorming
 - [Github](https://gitbhu.com) - for Issue tracking, Documentation
-- Loggr - for time tracking
+- [Loggr](loggr.dev) - for time tracking
 
 ### Assess
 
@@ -30,4 +29,3 @@ sidebar:
 - [Asana](https://asana.com/)
 - [ClickUp](https://clickup.com/)
 - [Notion](https://www.notion.so/)
-
