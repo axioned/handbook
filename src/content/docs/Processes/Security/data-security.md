@@ -10,7 +10,7 @@ tags: [Device Use Regulation, External Pen Drives, Using SSH/SFTP, Personal Devi
 
 We expect all Axioned employees to read and follow the policies and procedures within this document.
 
-The IT Admin team, Ismile B, will work with the Axioned team to ensure that these policies and procedures are followed at all times. 
+The IT Admin team will work with the Axioned team to ensure that these policies and procedures are followed at all times. 
 
 :::caution
 This document contains information regarding policies, regulations, and rules of Axioned. If any breach or threat made by an employee, which can put business/project into risk, for that a proper investigation will take place and if any individual or team found violating the policy strict action can be taken.
@@ -27,7 +27,7 @@ The Axioned IT Team also wants to ensure that employees should get educated abou
 **Key Contact Details:**
 
 Email: it@axioned.com, privacy@axioned.com, security@axioned.com
-  1.IT/Support: Ismile, ismileb@axioned.com 
+  1.IT/Support: itadmin@axioned.com 
 
 :::tip[Data/Security Incident Guidelines]
 Note: Data/Security Incident Response Guidelines can be found [**here**](https://docs.google.com/document/d/1FuH1U6Iv_bDVoLYbBk3zDgi1NYZkdpbIFBSJYUa0DIg/edit#) 
