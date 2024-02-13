@@ -1,8 +1,9 @@
 ---
 id: guidelines-for-billable
-title: Guidelines for Billable and Non-Billable activities
+title: Guidelines for Time tracking
+tags: [Billable, Non-Billable, Time, Time Tracking]
 sidebar:
-  label: Guidelines for Billable Activities
+  label: Guidelines for Time tracking
 
 ---
 
@@ -17,6 +18,8 @@ The key determining factor is - the value the work creates, and is that delivere
 We understand that the word “fair” might introduce a degree of subjectivity. We have added a few guidelines on how to determine where an activity falls.
 
 **Remember, these are guidelines and not rules; common sense above everything.**
+
+If in doubt, ask your Project Manager or fellow members in your project channel, or [#help](https://axioned.slack.com/archives/C016UBG8QGG).
 
 ## Billable
 
@@ -35,5 +38,3 @@ We understand that the word “fair” might introduce a degree of subjectivity.
 :::tip
 Anything actual (or forecasted) overages of 10% or more (of a month’s budget) should be spiked and approved by Anurag or Accounts.
 :::
-
-If in doubt, ask your Project Manager or fellow members in your project channel, or #help.
