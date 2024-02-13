@@ -27,8 +27,8 @@ Ideally we should take somewhere between ***3 to 4 days***. These days are furth
 - ### **Pre-work:**
   - Once the estimation request is received (from PMO/COO/CEO/Tech Lead/Account Manager/Client), review the details available and set expectations re when this can be picked and by when the estimate will be ready for client.
 
-	@seemam@axioned.com as you flagged, this needs updates. will create a parallel placeholder in the PM framework document as well. 	
-cc @shyamg@axioned.com in case he has some suggestions/ideas.	
+	@employeename@axioned.com as you flagged, this needs updates. will create a parallel placeholder in the PM framework document as well. 	
+cc @pmo@axioned.com in case he has some suggestions/ideas.	
 \_Assigned to Deleted user\_
     - Also, you can prepare a [Q&A document](https://docs.google.com/document/d/1eixZyPApQ2VU5SSPQh3YTLWM5rQwCziQOLF9ZE94B-g/edit) that has all the questions you/the team have for the client.
   - Depending on the expectation set for the estimation, now work backwards and set the target timelines for internal estimation review, cost review etc before sharing with the client.
@@ -46,7 +46,7 @@ cc @shyamg@axioned.com in case he has some suggestions/ideas.
     - The total timeline as of “Phase 1 and Phase 2 Combined” would be addition of the separate tabs for phase 1 and phase 2.
     - The total Resource allocation % in the “Phase 1 and Phase 2 Combined” tab would be distributed across the resource allocation for the separate tabs for Phase 1 and Phase 2 (for better cost presentation/proposal work).
 
-    @sumeetu@axioned.com / @shyamg@axioned.com can someone please help me review this?
+    @pmo1@axioned.com / @pmo2@axioned.com can someone please help me review this?
 
 Thanks!
 
@@ -146,7 +146,7 @@ Feel free to add anything which u feel is missing.
 
 Aim is to circulate to wider audience that this section in this doc has been updated
 
-\_Assigned to Shyam Gharat\_
+\_Assigned to Project Manager\_
 ## **Phase 1 & 2 Approach in Estimations**
 - Apply the phase 1 and 2 approach in estimations (even in ARs) as applicable: 
   - Phase 1 = firm-up/document assumptions, requirement details, phase 2 plan/timeline and clarify estimate for phase 2 
