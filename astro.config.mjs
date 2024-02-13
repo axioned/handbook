@@ -19,7 +19,7 @@ export default defineConfig({
         baseUrl: "https://github.com/axioned/handbook/edit/main/",
       },
       tableOfContents: true,
-      favicon: "/public/favicon.ico",
+      favicon: "/favicon.ico",
       logo: {
         src: "/public/logo.png",
         alt: "Axioned",
@@ -60,22 +60,22 @@ export default defineConfig({
       ],
       head: [
         {
-          tag: 'script',
+          tag: "script",
           attrs: {
-            'src': 'https://www.googletagmanager.com/gtag/js?id=G-DNGX3SW0WQ',
-            'async': true,
+            src: "https://www.googletagmanager.com/gtag/js?id=G-DNGX3SW0WQ",
+            async: true,
           },
         },
         {
-          tag: 'script',
+          tag: "script",
           content: `
             window.dataLayer = window.dataLayer || [];
             function gtag(){dataLayer.push(arguments);}
             gtag('js', new Date());
             gtag('config', 'G-DNGX3SW0WQ');
-            `
-        }
-      ]
+            `,
+        },
+      ],
     }),
   ],
 });
