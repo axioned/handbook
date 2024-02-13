@@ -20,7 +20,7 @@ The platform supported by the below scripts can run only on GitHub since the bel
 **Prerequisite**
 - A GitHub account
 - Repository/Project on GitHub (always private for client projects)
-- Necessary Permissions on the repository to store some SECRET KEYS _(like: SECURITY_AWS_ACCESS_KEY, SECURITY_AWS_SECRET_ACCESS_KEY, SSH_PRIVATE_KEY, etc)_ in - Github (for more details connect with the IT team/Sagar)
+- Necessary Permissions on the repository to store some SECRET KEYS _(like: SECURITY_AWS_ACCESS_KEY, SECURITY_AWS_SECRET_ACCESS_KEY, SSH_PRIVATE_KEY, etc)_ in - Github (for more details connect with the IT team)
 - Access to the hosting/control panel to extract the server details and the Private keys etc.
 - SSH should be enabled/supported by the hosting provider
 
@@ -224,7 +224,7 @@ Here is the high-level summary/understanding of the above code (github _[link](h
 - Here we are executing multiple commands in series in order to deploy files from the GitHub repository to the development server
     - **echo**: using this line we are saving/creating a private key file which will be required to establish a connection between the GitHub ubuntu machine and the development server further
         - In our example, **DEV_DEPLOY_KEY_PRIVATE** this variable was used in the script
-        - This needs to be created on GitHub under **Settings -> Secrets -> Action** _(If not visible please contact the IT team/Sagar for access)_
+        - This needs to be created on GitHub under **Settings -> Secrets -> Action** _(If not visible please contact the IT team for access)_
         - The private key you can download it from the server using your hosting login
     - **chmod**: setting up the proper permissions to the file
     - **[rsync](https://help.ubuntu.com/community/rsync)**: using this command we are transferring the files from the GitHub repository to the actual development server over an ssh connection
