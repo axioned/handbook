@@ -4,9 +4,6 @@ title: Core Values
 sidebar:
   label: Core Values
   order: 2
-  badge:
-    text: Updated
-    variant: tip
 ---
 
 When we use the expression Axioned's **Core Values** we mean: the behaviours, attitudes and standards we would like each and everyone of us to:
