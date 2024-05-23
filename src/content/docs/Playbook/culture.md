@@ -6,24 +6,19 @@ sidebar:
   order: 1
 ---
 
-## Everyone can contribute
+## Shared adventure
 
-Our size and our mission (that everyone can contribute) mean that our team members can — and are expected to — make an impact across the company.
+- Everyone can and is expected to make an impact beyond their individual assignments.
+- Each one of you can help shape us the direction we take as a company.
+- One of our core values is, [Help First](https://handbook.axioned.com/playbook/core-values/#help-first), and we are driven by mutual success.
+- Opportunities to contribute are boundless but may not be clearly defined.
+- We don't believe in micromanaging someone's growth. If you want towards something specific, speak up and we do our best (and work with you) to find a way.
 
-From your very first week, no matter your role, you'll gain the technical skills needed to access, question, and contribute to projects far beyond your job description.
+## Iteration at heart
 
-This unique approach works because we're a team of helpful, passionate people who want to see each other, the company, and clients succeed. We learn from each other, challenge each other, and thank each other.
-
-Come prepared to do meaningful work that will help shape the future of the company.
-
-While the opportunities to contribute are boundless in a growing organization like us, they may not be clearly defined. You'll need to think creatively, speak up to see how you can help, and be willing to try something new.
-
-## Freedom to iterate
-
-At GitLab, our value of iteration has a unique impact on the way we operate and get things done.
-
-Working this way means our team members are expected to quickly deliver the minimum viable change in their work instead of waiting to produce a polished, completed product.
-
-While this can be a challenging practice to adopt at first, it's liberating to be able to make mistakes, get feedback quickly, and course correct to reach a better outcome, faster.
-
-As our company and the industry continue to grow, you'll have the freedom to change and constantly evolve everything from your schedule and your workspace to your job description and your skills.
+- For most things in life, there is no such thing as "done".
+- Think of everything we do through the lense of "minimum viable change".
+- Always strive to work iteratively, quickly, putting it front of others - all before it is done.
+- Changes or interations are best anchored to shorter timescale (few hours instead of days, days instead of weeks).
+- Put things in front of your team, your customers, and work with them to iterate and improve.
+- Everything is iterable - from code, documentation, processes, or even meetings. Don't do things just because someone told you to do it that way.

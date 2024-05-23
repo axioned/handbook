@@ -3,7 +3,7 @@ id: wow
 title: WOW'ing Clients
 sidebar:
   label: WOW'ing Clients
-  order: 10
+  order: 3
 
 ---
 
