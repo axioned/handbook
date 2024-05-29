@@ -1,8 +1,8 @@
 ---
 id: guidingprinciples
-title: Guiding Principles
+title: Guiding principles
 sidebar:
-  label: Guiding Principles
+  label: Guiding principles
   order: 5
 tags: [principles, guide, guiding, values]
 ---

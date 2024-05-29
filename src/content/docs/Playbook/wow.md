@@ -1,8 +1,8 @@
 ---
 id: wow
-title: WOW'ing Clients
+title: WOW
 sidebar:
-  label: WOW'ing Clients
+  label: WOW
   order: 3
 
 ---
