@@ -39,7 +39,90 @@ Tip: Proactive updates for work-in-progress or even for delays are appreciated.
 - **Clear information** - We communicate our expectations/wants/needs of our clients clearly and concisely. This also means we need to have a deeper understanding of what our clients want/need (and not just what they say).
 - **Simplify things** - Always seek opportunities to simplify how we communicate by **being more intentional**.  Ensure customers understand what to expect, avoid jargons, and regularly refine communications for simplicity.
 
+## What customers expect (and want)
+
+- **Human interactions**
+  - With human levels of empathy.
+  - We pick up the phone/get on a Zoom call to talk through things that would benefit from being talked through, especially complicated or difficult things.
+- **Easy interactions**
+  - We’re easy to work with/communicate with.
+- **Fast service**
+  - We deliver on or (ideally) before the timelines we promise.
+  - To achieve this, we add buffer to our estimates/communications with clients but as a team stick to tighter timelines/commitments internally.
+- **Supportive interactions**
+  - We understand who our client is, what they want, why they want it, when they want it, where they want it, and how they want it (5Ws+1H).
+  - We align ourselves, our team, and the service/work we’re delivering to those 5Ws+1H.
+
+- **Clear information**
+  - We communicate our expectations/wants/needs of our clients clearly and concisely.
+  - We revise these communications as/when we see opportunities to make things even simpler/easier for our clients to understand and follow.
+
 :::caution[What customers don't want]
 ![Causes of customer dissatisfaction](../../../assets/causes-of-customer-dissatisfaction.png)
 (Source: [shankmanhonig.com](http://shankmanhonig.com/))
 :::
+
+## How do you know if you are WOWing your Clients?
+
+Avoid assuming or overestimating; while 80% of teams believe they provide superior service, only 8% of customers agree. This indicates a significant disconnect. Source: [shankmanhonig.com](http://shankmanhonig.com/)
+
+Regularly introspect (individually and as a team) and seek timely feedback to gauge client satisfaction and areas for improvement.
+
+### Seeking feedback
+
+- **Ask with intent and curiousity**
+  - Frame questions that guide the client to provide insightful feedback. For example:
+    - Instead of asking, "Are you satisfied with our service?" ask, "How can we improve our service to better meet your needs?"
+    - Instead of, "Did you like the recent update?" ask, "What features of the recent update are most beneficial to you, and which ones could be improved?"
+- **Informal feedback**
+  - Gather feedback during daily or weekly calls. Sometimes this is verbal, sometimes non-verbal. Make sure your request is sincere, showing a true desire to understand and act on their feedback.
+- **Consider the setting**
+  - Choose the a smaller and focused audience for feedback discussions to avoid putting the client on the spot or making the client uncomfortable.
+- **Seek Support**
+  - If unsure, ask teammates or seniors for guidance on how to approach feedback.
+
+> “The single biggest problem in communication is the illusion that it has taken place” <br>
+> — George Bernard Shaw
+
+## Some best practices
+
+### Design and Deliver
+
+Create a site/app/product that aligns with the client's 5Ws+1H:
+
+- **What**: Understand what features and functionalities the client desires.
+- **Why**: Know the purpose and goals behind their requests.
+- **When**: Deliver within the specified timeframe.
+- **Where**: Ensure the product is accessible where the client needs it (e.g., mobile, desktop).
+- **How**: Follow the client's guidelines and preferences for design and functionality.
+
+### Meet Deadlines
+
+- Deliver on or before the agreed timelines.
+- Understand that customers want fast service and do not tolerate lateness.
+- Educate yourself and your team about the concept of “anchoring” to avoid delays.
+
+### Build for Future Maintenance
+
+- Design products with future maintenance and enhancement in mind.
+- Build with empathy for future team members or yourself if someone else needs to take over due to unforeseen circumstances.
+
+### Timely Communication
+
+- Respond promptly to client communications, especially for highlighted or escalated risks and security concerns.
+
+### Treat Clients as Long-Term Partners
+
+- Approach clients as long-term partners, not short-term customers.
+- Invest in understanding their goals, vision, pain points, and frustrations.
+- Dedicate time to find solutions that meet their needs and solve their problems.
+
+### Follow Client Preferences
+
+- Use the “How to Work With Me” cheat sheet to adhere to clients' communication preferences.
+- If unclear, ask further questions to ensure you understand their preferences.
+
+### Request and Act on Feedback
+
+- Seek client feedback early in the engagement.
+- Act on the feedback provided before requesting further input.
