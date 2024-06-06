@@ -39,99 +39,52 @@ Tip: Proactive updates for work-in-progress or even for delays are appreciated.
 - **Clear information** - We communicate our expectations/wants/needs of our clients clearly and concisely. This also means we need to have a deeper understanding of what our clients want/need (and not just what they say).
 - **Simplify things** - Always seek opportunities to simplify how we communicate by **being more intentional**.  Ensure customers understand what to expect, avoid jargons, and regularly refine communications for simplicity.
 
+## What customers expect (and want)
+
+- **Human interactions**
+  - With human levels of empathy.
+  - We pick up the phone/get on a Zoom call to talk through things that would benefit from being talked through, especially complicated or difficult things.
+- **Easy interactions**
+  - We’re easy to work with/communicate with.
+- **Fast service**
+  - We deliver on or (ideally) before the timelines we promise.
+  - To achieve this, we add buffer to our estimates/communications with clients but as a team stick to tighter timelines/commitments internally.
+- **Supportive interactions**
+  - We understand who our client is, what they want, why they want it, when they want it, where they want it, and how they want it (5Ws+1H).
+  - We align ourselves, our team, and the service/work we’re delivering to those 5Ws+1H.
+
+- **Clear information**
+  - We communicate our expectations/wants/needs of our clients clearly and concisely.
+  - We revise these communications as/when we see opportunities to make things even simpler/easier for our clients to understand and follow.
+
 :::caution[What customers don't want]
 ![Causes of customer dissatisfaction](../../../assets/causes-of-customer-dissatisfaction.png)
 (Source: [shankmanhonig.com](http://shankmanhonig.com/))
 :::
 
-## HOW TO WOW: Give Customers What They Want/Expect
+## How do you know if you are WOWing your Clients?
 
-### Customers (and teammates) expect/want:
+Avoid assuming or overestimating; while 80% of teams believe they provide superior service, only 8% of customers agree. This indicates a significant disconnect. Source: [shankmanhonig.com](http://shankmanhonig.com/)
 
-- **Human interactions**  
-  - With human levels of empathy.
-  - We pick up the phone/get on a Zoom call to talk through things that would benefit from being talked through, especially complicated or difficult things.
+Regularly introspect (individually and as a team) and seek timely feedback to gauge client satisfaction and areas for improvement.
 
-- **Easy interactions**  
-  - We’re easy to work with/communicate with.
+### Seeking feedback
 
-- **Fast service**  
-  - We deliver on or (ideally) before the timelines we promise.
-  - To achieve this, we add buffer to our estimates/communications with clients but as a team stick to tighter timelines/commitments internally.
+- **Ask with intent and curiousity**
+  - Frame questions that guide the client to provide insightful feedback. For example:
+    - Instead of asking, "Are you satisfied with our service?" ask, "How can we improve our service to better meet your needs?"
+    - Instead of, "Did you like the recent update?" ask, "What features of the recent update are most beneficial to you, and which ones could be improved?"
+- **Informal feedback**
+  - Gather feedback during daily or weekly calls. Sometimes this is verbal, sometimes non-verbal. Make sure your request is sincere, showing a true desire to understand and act on their feedback.
+- **Consider the setting**
+  - Choose the a smaller and focused audience for feedback discussions to avoid putting the client on the spot or making the client uncomfortable.
+- **Seek Support**
+  - If unsure, ask teammates or seniors for guidance on how to approach feedback.
 
-- **Supportive interactions**  
-  - We understand who our client is, what they want, why they want it, when they want it, where they want it, and how they want it (5Ws+1H).
-  - We align ourselves, our team, and the service/work we’re delivering to those 5Ws+1H.
-
-- **Clear information**  
-  - We communicate our expectations/wants/needs of our clients clearly and concisely.
-  - We revise these communications as/when we see opportunities to make things even simpler/easier for our clients to understand and follow.
- 
-:::caution
-
-(Source: [shankmanhonig.com](http://shankmanhonig.com/))
-:::
-
-## What Customers (and Your Teammates!) Do *NOT* Want
-
-### Customers do not want:
-
-- **Deception**
-- **Rudeness**
-- **Incompetence**
-  - Usually comes down to someone not knowing or not self-educating themselves as to who the client is, what they want, and why.
-  - Not working with fellow teammates to deliver.
-- **Inflexibility**
-- **Lateness**
-
-## How Do You Know If You Are WOWing Your Clients?
-
-:::caution
-
-(Source: [shankmanhonig.com](http://shankmanhonig.com/))
-:::
-
-Avoid assuming or overestimating; while 80% of teams believe they provide superior service, only 8% of customers agree. This indicates a significant disconnect.
-
-### How to Avoid This Disconnect:
-
-- **Communicate Clearly**  
-  Ensure your messages are clear and unambiguous.
-
-- **Ask Questions**  
-  Regularly check in with clients to understand their needs and expectations.
-
-- **Avoid Assumptions**  
-  Always verify details and expectations to prevent misunderstandings.
-
-- **Seek Feedback**  
-  Request feedback frequently to gauge client satisfaction and areas for improvement.
-
-:::tip
-Tips for Asking Feedback:
-
-- **Leading Questions**  
-  Frame questions that guide the client to provide insightful feedback.  
-  Examples:
-  - Instead of asking, "Are you satisfied with our service?" ask, "How can we improve our service to better meet your needs?"
-  - Instead of, "Did you like the recent update?" ask, "What features of the recent update are most beneficial to you, and which ones could be improved?"
-
-- **Informal Feedback**  
-  Gather feedback during daily or weekly calls. Make sure your request is sincere, showing a true desire to understand and act on their feedback.
-
-- **Consider the Setting**  
-  Choose the right environment and audience for feedback discussions to avoid putting the client on the spot or making the client uncomfortable.
-
-- **Seek Support**  
-  If unsure, ask teammates or seniors for guidance on how to approach feedback.
-:::
-
-> “The single biggest problem in communication is the illusion that it has taken place”  
+> “The single biggest problem in communication is the illusion that it has taken place” <br>
 > — George Bernard Shaw
 
-image
-
-## Actionable Steps to WOW Your Clients
+## Some best practices
 
 ### Design and Deliver
 
@@ -173,5 +126,3 @@ Create a site/app/product that aligns with the client's 5Ws+1H:
 
 - Seek client feedback early in the engagement.
 - Act on the feedback provided before requesting further input.
-
-  
