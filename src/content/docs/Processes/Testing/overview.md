@@ -55,7 +55,7 @@ Activities performed:
 
 ### Test Execution
 
-During this phase, the testers carry out the testing based on the test plans and test cases prepared. Bugs will be reported back to the development team for correction, and retesting will be performed. 
+During this phase, the testers carry out the testing based on the test plans and test cases prepared. Bugs will be reported back to the development team for correction, and retesting will be performed.
 
 Activities performed:
 
@@ -88,31 +88,41 @@ Activities performed:
 ### Smoke Testing
 
 **When to perform:** At the start of testing.
+
 **Scope:** To verify that the Site/App is ready for further testing.
+
 **Method(s) Used:** Randomly test the Site/App for any obvious issues against the scope of work/ticket/task.
 
 ### Functionality Testing
 
 **When to perform:** Once all the modules have been unit tested, integrated and smoke testing has been given a “pass”.
+
 **Scope:** To fully test the Site/App against the scope of work/ticket/task.
+
 **Methods Used:** Various inputs will be entered to validate the output - positive inputs and negative inputs. Edge testing inclusive. See also “Testing Prompters: Functionality Testing”, below.
 
 ### UI (User Interface) Testing
 
 **When to perform:** Once smoke testing has been given a “pass” and is carried out in parallel with the functionality testing.
+
 **Purpose:** To verify that there are no UI errors in comparison with what the team imagined the UI would look/feel like (design files).
+
 **Methods Used:** Switching back and forth between the design files given (and/or existing Live UI experience to reference). See also “Testing Prompters: UI Testing”, below.
 
 ### Compatibility (Responsive) Testing
 
 **When to perform:** To be performed during each level of testing.
+
 **Purpose:** To verify that the Site/App is responsive and functions properly on various devices/screen sizes.
+
 **Methods Used:** Observe the respective URL (s) on the browsers/devices outlined as a priority in the Test Case(s) and/or in general of the project scope. See also “Testing Prompters: Compatibility Testing”, below.
 
 ### Retesting
 
 **When to perform:** After the Developer notifies that a defect has been fixed and is ready for retesting.
+
 **Purpose:** To verify that logged issues are fixed.
+
 **Methods Used:** Retest using the same procedures that were used to generate the issue in the first place.
 
 ### Automation testing
@@ -120,13 +130,17 @@ Activities performed:
 #### Unit Testing
 
 **When to perform:** Unit testing is performed during the development phase, immediately after coding each module or function.
+
 **Purpose:** The purpose of unit testing is to verify that individual components or units of code function correctly in isolation.
+
 **Methods Used:** Ensuring that all the requirements are covered by the unit tests and manually validating each unit against the specified requirements.
 
 #### Integration Testing
 
 **When to perform:** Integration testing is typically performed after individual units or components have been tested (unit tested) and integrated into larger modules or subsystems.
+
 **Purpose:** The purpose of manual integration testing is to verify that the interactions between integrated units/modules function correctly as a whole, identifying any interface defects and ensuring proper data flow.
+
 **Methods Used:** Top-down testing, Bottom-up testing, Big Bang testing, Stub and driver approach, Incremental testing
 
 #### End-to-End (E2E) Testing
@@ -148,5 +162,7 @@ Activities performed:
 ### Regression Testing
 
 **When to perform:** After completion of retesting.
+
 **Purpose:** To verify that fixes haven’t affected other areas of the site/app.
+
 **Methods Used:** Randomly test against the scope of work/ticket/task, as well as randomly test some additional issues reported previously as fixed.

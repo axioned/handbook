@@ -26,6 +26,6 @@ A guide to all of the terms we use internally.
 | PO | Product Owner, someone who manages the product |
 | UX | User Experience, the process of designing the app |
 | UI | User Interface, the process of designing the app |
-| e2e | End to end testing. Essentially a robot that checks if our application is working each time we push code | 
+| E2E | End to end testing. Essentially a robot that checks if our application is working each time we push code |
 | Linting | A tool that checks code for errors and formatting |
 | Metadata | Data that is in a computer readable format, like JSON, which looks like `{"team": Liverpool", "ucl": "6"}` |
