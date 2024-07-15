@@ -3,8 +3,6 @@ id: playwright
 title: Playwright Setup
 sidebar:
   label: Playwright Setup
-  badge:
-    text: New
 ---
 
 ## Pre-requisites
