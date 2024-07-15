@@ -12,7 +12,6 @@ sidebar:
 - You will need Axioned VPN access to use the system (this will be as good as someone trying to access this system/code from our offices).
   - If you do not have this already, please ask the <itadmin@axioned.com> team to provision this (along with your SonarQube request).
 - Make a request to get the access by filling out the form [here](https://docs.google.com/forms/d/e/1FAIpQLSc550MkOG_CF2yrvuXtgnheWgii0WKP53yu0RKjNCUTRrL6Vg/viewform).
-.
 
 ## Setup
 
