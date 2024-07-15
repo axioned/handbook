@@ -50,6 +50,11 @@ export default defineConfig({
           autogenerate: { directory: "Roadmap" },
         },
         {
+          label: "Design",
+          collapsed: true,
+          autogenerate: { directory: "Design" },
+        },
+        {
           label: "Glossary",
           link: "/glossary/",
         },
