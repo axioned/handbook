@@ -12,12 +12,12 @@ You'd typically the following channels for your project:
 
 - **#live-clientabv-projectabv**: Public channel containing all Axioned team members assigned on the project.
 - **#live-clientabv-projectabv-notifications**: Public channel with the same Axioned members with Jira, Trello, Sentry, etc integration.
-- **#live-clientname-projectabv-client**: Shared channel with the client (if they are on Slack/use it as their prefered IM tool).
+- **#ext-clientname-projectabv**: Shared channel with the client (if they are on Slack/use it as their prefered IM tool).
 
 ## Email alias
 
 - You would have an email alias that distributes all emails that's received on it to all the members.
-- If you need to get someone added - please reach out to itadmin@axioned.com (or message on #it-support)
+- If you need to get someone added - please reach out to <itadmin@axioned.com> (or message on [#it-support](https://axioned.slack.com/archives/C02TD2MLR))
 
 ## Folder structure
 
