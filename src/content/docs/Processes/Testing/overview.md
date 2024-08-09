@@ -138,14 +138,6 @@ Alternatively, we can help set these up on platforms like Confluence, TestRail o
 
 **Methods Used:** Retest using the same procedures that were used to generate the issue in the first place.
 
-### Unit Testing
-
-**When to perform:** Unit testing is performed during the development phase, immediately after coding each module or function.
-
-**Purpose:** The purpose of unit testing is to verify that individual components or units of code function correctly in isolation.
-
-**Methods Used:** Ensuring that all the requirements are covered by the unit tests and manually validating each unit against the specified requirements.
-
 ### Integration Testing
 
 **When to perform:** Integration testing is typically performed after individual units or components have been tested (unit tested) and integrated into larger modules or subsystems.
@@ -199,6 +191,14 @@ These are additional testing strategies that can be used based on the project re
 1. **Scripting:** Writing test scripts using languages like JavaScript, TypeScript (for Playwright) or Java/Python (for Selenium) to automate user interactions with the application.
 2. **Framework-based testing:** Developing test automation frameworks such as Page Object Model (POM) for Selenium or leveraging built-in features of Playwright for structured and scalable test automation.
 3. **Integration with CI/CD:** Integrating automated tests into CI/CD pipelines to trigger tests automatically on code commits or builds.
+
+### Unit Testing
+
+**When to perform:** Unit testing is performed during the development phase, immediately after coding each module or function.
+
+**Purpose:** The purpose of unit testing is to verify that individual components or units of code function correctly in isolation.
+
+**Methods Used:** Ensuring that all the requirements are covered by the unit tests and manually validating each unit against the specified requirements.
 
 ### Google Analytics (GA) Testing
 
