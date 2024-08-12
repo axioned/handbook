@@ -55,6 +55,11 @@ export default defineConfig({
           autogenerate: { directory: "Design" },
         },
         {
+          label: "Working at Axioned",
+          collapsed: true,
+          autogenerate: { directory: "Work" },
+        },
+        {
           label: "Glossary",
           link: "/glossary/",
         },
