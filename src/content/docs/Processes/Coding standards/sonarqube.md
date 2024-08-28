@@ -52,7 +52,7 @@ Alternatively, these can also be stored in a `sonar-project.properties` file in 
 
 Example:
 
-```file
+```text
 sonar.projectKey=KEY
 sonar.sources=.
 sonar.host.url=URL
