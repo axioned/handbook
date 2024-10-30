@@ -11,8 +11,8 @@
     "sonar-scanner": "sonar-scanner"
   },
   "dependencies": {
-    "@astrojs/starlight": "^0.27.1",
-    "astro": "^4.15.4",
+    "@astrojs/starlight": "^0.28.4",
+    "astro": "^4.16.7",
     "sharp": "^0.33.5"
   },
   "devDependencies": {
