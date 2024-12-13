@@ -1,4 +1,4 @@
-    ---
+---
 title: Benefits and Perks
 ---
 
