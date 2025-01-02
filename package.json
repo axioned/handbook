@@ -11,12 +11,12 @@
     "sonar-scanner": "sonar-scanner"
   },
   "dependencies": {
-    "@astrojs/starlight": "^0.29.0",
-    "astro": "^4.16.13",
+    "@astrojs/starlight": "^0.30.3",
+    "astro": "^5.1.1",
     "sharp": "^0.33.5"
   },
   "devDependencies": {
-    "prettier": "^3.3.3",
+    "prettier": "^3.4.2",
     "prettier-plugin-astro": "^0.14.1"
   }
 }
