@@ -1,14 +1,14 @@
 {
   "name": "handbook",
-  "type": "module",
   "version": "0.0.1",
+  "type": "module",
   "scripts": {
-    "dev": "astro dev",
-    "start": "astro dev",
-    "build": "astro build",
-    "preview": "astro preview",
     "astro": "astro",
-    "sonar-scanner": "sonar-scanner"
+    "build": "astro build",
+    "dev": "astro dev",
+    "preview": "astro preview",
+    "sonar-scanner": "sonar-scanner",
+    "start": "astro dev"
   },
   "dependencies": {
     "@astrojs/starlight": "^0.30.4",

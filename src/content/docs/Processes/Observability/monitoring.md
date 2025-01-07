@@ -10,7 +10,7 @@ tags: [Observability, Monitoring, Playwright, Checkly]
 
 Ensuring websites and applications run smoothly and reliably is essential. Monitoring isn’t just about tools; it’s about addressing problems before they impact users. Our monitoring practices are designed to catch issues early, focus on key user experiences, and alert us quickly when things break so we can fix them before users notice.
 
-We use Playwright as our primary tool for automated testing. For monitoring, we are currently trying out Checkly to see if it fits our needs in the long run.
+We use [Playwright](/processes/testing/playwright) as our primary tool for automated testing. For monitoring, we are currently trying out Checkly to see if it fits our needs in the long run.
 
 ## What This Solves
 
