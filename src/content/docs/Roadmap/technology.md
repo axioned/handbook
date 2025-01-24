@@ -8,22 +8,22 @@ sidebar:
 ### Adopt
 
 - Content Mangagement Systems (CMS)
+  - [Sanity](https://www.sanity.io/)
   - [Contentful](https://www.contentful.com/)
   - [Strapi](https://strapi.io/)
-  - [Sanity](https://www.sanity.io/)
   - [WordPress](https://wordpress.org/)
-  - [Ghost CMS](https://ghost.org/)
   - [DatoCMS](https://www.datocms.com/)
   - [Contentstack](https://www.contentstack.com/)
-  - [Strapi](https://strapi.io/)
 - Frameworks and Libraries
   - [Next.js](https://nextjs.org/)
   - [Astro](https://astro.build/)
+  - [Expo](https://docs.expo.dev/) and [Expo Router](https://docs.expo.dev/router/introduction/)
   - [Tailwind CSS](https://tailwindcss.com/)
   - [shadcn-ui](https://ui.shadcn.com/)
+  - [React Query](https://tanstack.com/query)
   - [Prisma](https://www.prisma.io/)
   - [Zod](https://zod.dev/)
-  - [Zustand](https://zustand-demo.pmnd.rs/) 🏗️
+  - [Zustand](https://zustand-demo.pmnd.rs/)
 - DevOps & Automation
   - [GitHub Actions](https://docs.github.com/en/actions)
 - Database and Storage
@@ -38,10 +38,11 @@ sidebar:
   - [WP Engine](https://wpengine.com/)
   - [Google Cloud](https://cloud.google.com/)
 - AI/Generative AI
-  - [Github Copilot](https://github.com/features/copilot) 🏗️
+  - [Github Copilot](https://github.com/features/copilot)
   - [OpenAI API](https://platform.openai.com/docs/)
   - [Anthropic](https://www.anthropic.com/) / [Claude](https://claude.ai/)
   - [ChatGPT](https://chat.openai.com/)
+  - [Vercel AI SDK](https://sdk.vercel.ai/)
 - Application Monitoring
   - [Sentry](https://sentry.io/)
 - Analytics
@@ -65,21 +66,24 @@ sidebar:
 ### Trial
 
 - Practices
-  - Feature flagd riven development
+  - Feature flag driven development
 - Frameworks and Libraries
-  - [Expo](https://docs.expo.dev/) and [Expo Router](https://docs.expo.dev/router/introduction/) 🏗️
   - [Partytown](https://partytown.builder.io/)
-  - [React Query](https://tanstack.com/query)
   - [T3 Stack](https://create.t3.gg/)
+- AI/Generative AI
+  - [CrewAI](https://www.crewai.ai/)
+  - [PydanticAI](https://ai.pydantic.dev/)
 - Low-code/No-code platforms
+  - [n8n](https://n8n.io/)
   - [FlutterFlow](https://flutterflow.io/)
-  - [Glide](https://www.glideapps.com/)
   - [Flowise](https://flowiseai.com/)
+- Testing
+  - [Checkly](https://checklyhq.com/)
 
 ### Assess
 
-- Framework and Libraries
-  - [Ionic Framework](https://ionicframework.com/)
+- Frameworks and Libraries
+  - [Ruby on Rails](https://rubyonrails.org/)
 - AI/Generative AI
   - MidJourney
   - Dall-E 🏗️
@@ -93,6 +97,7 @@ sidebar:
 - [Microfrontends](https://micro-frontends.org/)
 - [Svelte](https://svelte.dev/)
 - [Redux Toolkit](https://redux-toolkit.js.org/)
+- [Ionic Framework](https://ionicframework.com/)
 
 ### Backlog
 
