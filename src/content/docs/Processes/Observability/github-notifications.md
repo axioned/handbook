@@ -1,5 +1,5 @@
 ---
-id: GithubNotifications
+id: github-notifications
 title: GitHub Notifications on Slack
 sidebar:
   label: GitHub Notifications
