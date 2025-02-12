@@ -10,17 +10,16 @@ sidebar:
 ### Adopt
 
 - [Google Workspace](https://workspace.google.com/) - for email, calendar, docs, sheets, slides, etc
-- [Jira](https://www.atlassian.com/software/jira) - our most common client-facing tool for project management, often paired with [Confluence](https://www.atlassian.com/software/confluence) for documentation
-- [Basecamp](https://basecamp.com/) - our internal tool for project management
-- [Trello](https://trello.com/)
+- [Basecamp](https://basecamp.com/) - our tool of choice for project management
 - [Miro](https://miro.com/) - for whiteboarding and brainstorming
 - [Excalidraw](https://excalidraw.com/) - for whiteboarding and brainstorming
+- [Figma](https://www.figma.com/) - for design and prototyping
+- [Jira](https://www.atlassian.com/software/jira) - our most common client-facing tool for project management, often paired with [Confluence](https://www.atlassian.com/software/confluence) for documentation
+- [Loggr](https://loggr.dev) - for time tracking
+- [Github](https://github.com) - for Issue tracking, Documentation
+- [Open WebUI](https://openwebui.com/)
 
 ### Trial
-
-- [FigJam](https://www.figma.com/figjam/) - for whiteboarding and brainstorming
-- [Github](https://gitbhu.com) - for Issue tracking, Documentation
-- [Loggr](loggr.dev) - for time tracking
 
 ### Assess
 
@@ -28,4 +27,6 @@ sidebar:
 
 - [Asana](https://asana.com/)
 - [ClickUp](https://clickup.com/)
+- [Monday](https://monday.com/)
 - [Notion](https://www.notion.so/)
+- [Trello](https://trello.com/)
