@@ -3,7 +3,7 @@ id: wow
 title: WOW
 sidebar:
   label: WOW
-  order: 3
+  order: 4
 
 ---
 

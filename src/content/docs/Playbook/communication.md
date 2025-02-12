@@ -2,7 +2,7 @@
 title: Effective Communication Guidelines (ECG)
 sidebar:
   label: Communication
-  order: 4
+  order: 5
 ---
 
 1. Communicate your assumptions - verbally or in writing.

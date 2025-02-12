@@ -3,7 +3,7 @@ id: team
 title: Working in a team
 sidebar:
   label: Working in a team
-  order: 5
+  order: 7
 ---
 
 Much of the work we do at Axioned is done in teams. Working in a team can be challenging, but it can also be rewarding. Here are some tips to help you work effectively in a team:
