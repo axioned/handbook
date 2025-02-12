@@ -13,7 +13,7 @@ We optimize, scale, and build digital experiences that drive growth. We partner 
 
 - These businesses rely on their website as a critical lead generation and conversion engine.
 - Axioned provides ongoing optimization, maintenance, and enhancements to ensure their websites stay fast, functional, and conversion-ready.
-- We’ll often support site redesigns and rebuilds also.
+- We'll often support site redesigns and rebuilds also.
 
 **Common client pain points that Axioned can address/support:**
 
@@ -29,15 +29,15 @@ We optimize, scale, and build digital experiences that drive growth. We partner 
 
 **Common client pain points that Axioned can address/support:**
 
-- Slow MVP Launch – Delays in development slow down validation and market entry.
-- No In-House Tech Expertise – They have a vision but lack the right technical team.
-- Scalability Issues – Poor early architecture makes growth costly and complex.
+- Slow MVP Launch - Delays in development slow down validation and market entry.
+- No In-House Tech Expertise - They have a vision but lack the right technical team.
+- Scalability Issues - Poor early architecture makes growth costly and complex.
 - Budgetary restrictions; want to/need to iterate in a financially responsible way.
 
 ## Why Axioned?
 
 - We are responsible, agile, human-centered, and collaborative problem solvers. We take ownership, act with accountability, and adapt quickly with a solutions-first mindset—we live our - Core Values.
-- For high-growth businesses: We’re experts in performance optimization, tech-stack modernization, and bridging skill gaps to drive website-led growth.
+- For high-growth businesses: We're experts in performance optimization, tech-stack modernization, and bridging skill gaps to drive website-led growth.
 - For innovators: We move fast—delivering speed, technical expertise, and AI-driven solutions in a financially responsible way.
 - Our specialization: We excel in JavaScript-driven CMS, app, and digital product development.
 
@@ -50,8 +50,8 @@ We optimize, scale, and build digital experiences that drive growth. We partner 
 
 - We aim to [WOW](/playbook/wow) our clients and our fellow Axioned teammates.
 - When asking clients for feedback, we ask them to also evaluate each member of the Axioned team who contributed to/worked on the project.
-- We regularly ask all our Clients to evaluate us on how well we’re WOW’ing them via Client Feedback Form.
+- We regularly ask all our Clients to evaluate us on how well we're WOW'ing them via Client Feedback Form.
 
 :::tip[The Axioned Journey]
-Axioned was started in 2006 by Dave (Dev) Jhala. Libby Swan joined in 2008. Both are the owners/co-founders of Axioned. Today, Dave serves the role of the company’s CFO and supports the strategic direction/decisions of the company. Today, Libby serves the role of the company’s CEO, with a focus on sales/marketing, and supports the strategic direction/decisions of the company also.
+Axioned was started in 2006 by Dave (Dev) Jhala. Libby Swan joined in 2008. Both are the owners/co-founders of Axioned. Today, Dave serves the role of the company's CFO and supports the strategic direction/decisions of the company. Today, Libby serves the role of the company's CEO, with a focus on sales/marketing, and supports the strategic direction/decisions of the company also.
 :::
