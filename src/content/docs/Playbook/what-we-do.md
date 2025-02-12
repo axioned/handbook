@@ -1,46 +1,40 @@
 ---
-id: whatwedowhoweserve
-title: What we do/Who we serve
+id: who-we-serve
+title: Who we serve
 sidebar:
-  label: What we do/Who we serve
+  label: Who we serve
   order: 3
 
 ---
 
-Axioned (pronounced “actioned!”) – We optimize, scale, and build digital experiences that drive growth.
+We optimize, scale, and build digital experiences that drive growth. We partner with 2 Ideal Client Profiles (ICPs).
 
-## We partner with 2 ICPs (Ideal Client Profiles):
-
-### ICP 1. High-Growth Consumer Services Businesses
+### ICP 1 - High-Growth Consumer Services Businesses
 
 - These businesses rely on their website as a critical lead generation and conversion engine.
 - Axioned provides ongoing optimization, maintenance, and enhancements to ensure their websites stay fast, functional, and conversion-ready.
 - We’ll often support site redesigns and rebuilds also.
 
-### Common Client Pain Points (that Axioned can address/support):
+**Common client pain points that Axioned can address/support:**
 
 - Website underperforming despite high ad spend (low conversions, slow load times).
 - Struggling to manage web updates internally.
 - Current tech partner is slow or lacks expertise in scaling their digital presence.
 - Losing leads due to poor UX, slow page speed, or SEO issues.
 
-**2025 examples:** RateQuote, TeenLife, Pioneer Academics, Piece of Cake Moving & Storage, HomeServe USA.
-
-### ICP 2. Innovators Scaling from Zero to One & Beyond
+### ICP 2 - Innovators Scaling from 0 to 1 and Beyond
 
 - Startups and product teams need a trusted partner to bring their POC/MVP to life or scale an existing digital product.
 - Axioned combines experience and expertise with a practical, iterative approach, ensuring rapid development while maintaining long-term scalability.
 
-### Common Client Pain Points (that Axioned can address/support):
+**Common client pain points that Axioned can address/support:**
 
 - Slow MVP Launch – Delays in development slow down validation and market entry.
 - No In-House Tech Expertise – They have a vision but lack the right technical team.
 - Scalability Issues – Poor early architecture makes growth costly and complex.
 - Budgetary restrictions; want to/need to iterate in a financially responsible way.
 
-**Recent examples:** Clatter.io, ClearForMe, Culture15, Pollzit, Acclinate Community Health App.
-
-### Why Axioned?
+## Why Axioned?
 
 - We are responsible, agile, human-centered, and collaborative problem solvers. We take ownership, act with accountability, and adapt quickly with a solutions-first mindset—we live our - Core Values.
 - For high-growth businesses: We’re experts in performance optimization, tech-stack modernization, and bridging skill gaps to drive website-led growth.
@@ -54,9 +48,10 @@ Axioned (pronounced “actioned!”) – We optimize, scale, and build digital e
 
 ### We value our client relationships and spend a lot of time working on/discussing how to WOW Clients
 
-- We aim to WOW our clients and our fellow Axioned team-mates.
-- When asking clients for feedback, we ask them to also evaluate each member of the Axioned team who contributed to/worked on the project. 
+- We aim to [WOW](/playbook/wow) our clients and our fellow Axioned teammates.
+- When asking clients for feedback, we ask them to also evaluate each member of the Axioned team who contributed to/worked on the project.
 - We regularly ask all our Clients to evaluate us on how well we’re WOW’ing them via Client Feedback Form.
 
-**The Axioned Journey:** Axioned was started in 2006 by Dave (Dev) Jhala. Libby Swan joined in 2008. Both are the owners/co-founders of Axioned. Today, Dave serves the role of the company’s CFO and supports the strategic direction/decisions of the company. Today, Libby serves the role of the company’s CEO, with a focus on sales/marketing, and supports the strategic direction/decisions of the company also.
-
+:::tip[The Axioned Journey]
+Axioned was started in 2006 by Dave (Dev) Jhala. Libby Swan joined in 2008. Both are the owners/co-founders of Axioned. Today, Dave serves the role of the company’s CFO and supports the strategic direction/decisions of the company. Today, Libby serves the role of the company’s CEO, with a focus on sales/marketing, and supports the strategic direction/decisions of the company also.
+:::
