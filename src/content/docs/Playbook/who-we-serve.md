@@ -9,7 +9,9 @@ sidebar:
 
 We optimize, scale, and build digital experiences that drive growth. We partner with 2 Ideal Client Profiles (ICPs).
 
-### ICP 1 - High-Growth Consumer Services Businesses
+## Ideal Client Profiles (ICPs)
+
+### High-Growth Consumer Services Businesses
 
 - These businesses rely on their website as a critical lead generation and conversion engine.
 - Axioned provides ongoing optimization, maintenance, and enhancements to ensure their websites stay fast, functional, and conversion-ready.
@@ -22,7 +24,7 @@ We optimize, scale, and build digital experiences that drive growth. We partner 
 - Current tech partner is slow or lacks expertise in scaling their digital presence.
 - Losing leads due to poor UX, slow page speed, or SEO issues.
 
-### ICP 2 - Innovators Scaling from 0 to 1 and Beyond
+### Innovators Scaling from 0 to 1 and Beyond
 
 - Startups and product teams need a trusted partner to bring their POC/MVP to life or scale an existing digital product.
 - Axioned combines experience and expertise with a practical, iterative approach, ensuring rapid development while maintaining long-term scalability.
