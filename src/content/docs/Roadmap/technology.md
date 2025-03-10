@@ -75,8 +75,8 @@ sidebar:
   - [T3 Stack](https://create.t3.gg/)
   - [Better Auth](https://www.better-auth.com/)
 - AI/Generative AI
-  - [CrewAI](https://www.crewai.com/)
-  - [PydanticAI](https://ai.pydantic.dev/)
+  - [CrewAI - Python framework](https://www.crewai.com/)
+  - [PydanticAI - Python framework](https://ai.pydantic.dev/)
   - [Cloudflare Agents](https://developers.cloudflare.com/agents/)
 - Low-code/No-code platforms
   - [n8n](https://n8n.io/)
