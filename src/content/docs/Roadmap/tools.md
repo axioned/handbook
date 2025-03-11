@@ -15,7 +15,7 @@ sidebar:
 - [Excalidraw](https://excalidraw.com/) - for whiteboarding and brainstorming
 - [Figma](https://www.figma.com/) - for design and prototyping
 - [Jira](https://www.atlassian.com/software/jira) - our most common client-facing tool for project management, often paired with [Confluence](https://www.atlassian.com/software/confluence) for documentation
-- [Loggr](https://loggr.dev) - for time tracking
+- [Loggrr](https://loggrr.com) - for time tracking
 - [Github](https://github.com) - for Issue tracking, Documentation
 - [Open WebUI](https://openwebui.com/)
 
