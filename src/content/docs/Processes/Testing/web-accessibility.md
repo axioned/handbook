@@ -14,7 +14,7 @@ tags:
 
 Web accessibility ensures that websites, applications, and digital content are usable by everyone, including individuals with disabilities. At Axioned, we are committed to creating accessible digital experiences that comply with best practices and legal standards such as the Web Content Accessibility Guidelines (WCAG).
 
-We recommend you read the [four pillars of accessibility](https://www.w3.org/WAI/WCAG22/Understanding/intro#understanding-the-four-principles-of-accessibility) to get a better understanding of the topic. Check out the [Resources](#resources) section below for more information.
+We recommend you read the [four pillars of accessibility](https://www.w3.org/WAI/WCAG22/Understanding/intro#understanding-the-four-principles-of-accessibility)  — Perceivable, Operable, Understandable, and Robust — to get a better understanding of the topic. Check out the [Resources](#resources) section below for more information.
 
 ## Why Accessibility Matters
 
@@ -27,7 +27,7 @@ We recommend you read the [four pillars of accessibility](https://www.w3.org/WAI
 
 - **WCAG A (Minimum Standard):** We ensure that all projects meet at least WCAG A compliance as a baseline.
 - **WCAG 2.1 AA (Aim for this):** Wherever feasible, we strive to meet WCAG 2.1 AA standards, prioritizing accessibility in key areas such as navigation, contrast, and interactive elements.
-- **ARIA (Accessible Rich Internet Applications) Guidelines:** We implement ARIA roles and attributes where necessary to improve accessibility in dynamic content.
+- **ARIA (Accessible Rich Internet Applications) Guidelines:** We implement ARIA roles and attributes to provide semantic information wherever necessary (especially in web apps developed with JavaScript that do not use standard HTML elements) to improve accessibility in dynamic content.
 
 - **Keyboard Navigation & Focus Management**: Ensuring all functionality is accessible via keyboard navigation.
 
