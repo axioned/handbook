@@ -13,27 +13,16 @@ export default defineConfig({
         github: "https://github.com/axioned",
         linkedin: "https://www.linkedin.com/company/axioned",
         instagram: "https://instagram.com/axionedteam",
-        twitter: "https://twitter.com/AxionedTeam",
+        "x.com": "https://x.com/AxionedTeam",
       },
-      editLink: {
-        baseUrl: "https://github.com/axioned/handbook/edit/main/",
-      },
+      editLink: { baseUrl: "https://github.com/axioned/handbook/edit/main/" },
       tableOfContents: true,
       favicon: "/favicon.ico",
-      logo: {
-        src: "/public/logo.png",
-        alt: "Axioned",
-      },
+      logo: { src: "/public/logo.png", alt: "Axioned" },
       lastUpdated: true,
       sidebar: [
-        {
-          label: "Welcome",
-          link: "/welcome",
-        },
-        {
-          label: "Playbook",
-          autogenerate: { directory: "Playbook" },
-        },
+        { label: "Welcome", link: "/welcome" },
+        { label: "Playbook", autogenerate: { directory: "Playbook" } },
         {
           label: "Learning",
           collapsed: true,
@@ -59,14 +48,8 @@ export default defineConfig({
           collapsed: true,
           autogenerate: { directory: "Work" },
         },
-        {
-          label: "Glossary",
-          link: "/glossary/",
-        },
-        {
-          label: "Contribute",
-          link: "/contribute/",
-        },
+        { label: "Glossary", link: "/glossary/" },
+        { label: "Contribute", link: "/contribute/" },
       ],
       head: [
         {
@@ -84,6 +67,19 @@ export default defineConfig({
             gtag('js', new Date());
             gtag('config', 'G-DNGX3SW0WQ');
             `,
+        },
+        {
+          tag: "script",
+          content: `
+            document.addEventListener('DOMContentLoaded', () => {
+              const socialLinks = document.querySelectorAll('div.social-icons a');
+              console.log(socialLinks);
+              socialLinks.forEach(link => {
+                link.setAttribute('target', '_blank');
+                link.setAttribute('rel', 'noopener noreferrer');
+              });
+            });
+          `,
         },
       ],
     }),
