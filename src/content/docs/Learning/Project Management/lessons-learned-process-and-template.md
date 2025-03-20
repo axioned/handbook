@@ -8,6 +8,7 @@ tags: [Lessons, Lesson Learned]
 ---
 
 # Lessons Learned
+
 ## What?
 
 Lessons learned are an informal conversation where you look at a project in retrospect. It is done after project completion,\* usually conducted as a meeting involving the project team and key stakeholders ( may include clients as applicable). During the lessons learned meetings, everyone shares their perspective on what they thought about the project, what they would have changed, what they learned and what could have been done better.
@@ -25,8 +26,6 @@ Lessons learned meetings are performed for three reasons:
 ## Watch out?
 
 It should be clear that lessons learned meetings are **NOT** a forum for people to vent their anger.
-
-##
 
 ## How to conduct a Lessons Learned meeting:
 
@@ -69,7 +68,6 @@ In case of retainers, the lessons learned can be broadcasted on a regular freque
 _Sub:_[Internal]Lesson Learned: _\<Name of the project\>_
 
 - Add the identified actions in comment/consolidated sheet- [Here](https://docs.google.com/spreadsheets/d/1PcvLQbPozLndFhNPNJ-NA4y6KvEXyHpL9Pxu5hrwEe0/edit#gid=0)
-
 
 ## Lessons Learned Template
 
