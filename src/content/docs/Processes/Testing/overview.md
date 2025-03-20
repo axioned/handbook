@@ -6,7 +6,7 @@ sidebar:
   position: 1
 ---
 
-Broadly speaking, Software Testing Life Cycle (STLC) is a sequence of activities conducted to perform software testing. It is a series of steps that are followed in a sequence to test the quality of the software. The STLC is a part of the Software Development Life Cycle (SDLC) and is performed after the coding phase.
+Broadly speaking, the Software Testing Life Cycle (STLC) is a sequence of activities conducted to perform software testing. It is a series of steps that are followed in a sequence to test the quality of the software. The STLC is a part of the Software Development Life Cycle (SDLC) and is performed after the coding phase.
 
 While this works for most workflows and projects, it is important to note that the testing process can **and needs be customized based on the project requirements**. In an Agile environment, the testing process is iterative and can be adapted to the project's needs - sometimes even overlapping with the development phase, which is not the case in a traditional waterfall model. Treat this as a framework, not a rule.
 
