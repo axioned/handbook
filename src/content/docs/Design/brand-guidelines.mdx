@@ -3,39 +3,99 @@ id: Brand Guidelines
 title: Brand Guidelines
 ---
 
-import { Card, CardGrid } from '@astrojs/starlight/components';
+import { Card, CardGrid, Tabs, TabItem } from "@astrojs/starlight/components";
 
 We've created the following guidelines to help others use our brand and assets.
 
 # Logo
 
 ## Full Logo
-### Black Axioned Logo
-[Download PNG](https://drive.google.com/file/d/1sm-GT84GDzzSKXvqhjxzG4XaaFnzc3uu/view)  | [Download SVG](https://drive.google.com/file/d/1hmUv1p97oeyxZokcby-aU30j01dOv0Mz/view)
 
-### White Axioned Logo
-[Download PNG](https://drive.google.com/file/d/16AuC6b3i1DSrYseB37I-5jKGcH9GIlQW/view)  | [Download SVG](https://drive.google.com/file/d/13QnMc5uS31ftm92M_hC9Ru7FQ6XByBT1/view)
+<Tabs>
+  <TabItem label="Black">
+    <Card title="Black Axioned Logo">
+      [Download PNG](https://drive.google.com/file/d/1sm-GT84GDzzSKXvqhjxzG4XaaFnzc3uu/view) | [Download
+      SVG](https://drive.google.com/file/d/1hmUv1p97oeyxZokcby-aU30j01dOv0Mz/view)
+    </Card>
+  </TabItem>
+  <TabItem label="White">
+    <Card title="White Axioned Logo">
+      [Download PNG](https://drive.google.com/file/d/16AuC6b3i1DSrYseB37I-5jKGcH9GIlQW/view) | [Download
+      SVG](https://drive.google.com/file/d/13QnMc5uS31ftm92M_hC9Ru7FQ6XByBT1/view)
+    </Card>
+  </TabItem>
+</Tabs>
 
 ## Symbol
-The Axioned symbol should only be used in places where there is not enough room to display the full logo, or in cases where only brand icons of multiple brands are displayed.
 
-### Black Axioned Symbol
-[Download PNG](https://drive.google.com/file/d/1Xdj4UT2uoFSQmXY6mYSc81mMcyAzu7t6/view)  | [Download SVG](https://drive.google.com/file/d/1EIp2XDQ3rYP8FHPxP7_2IiShJPVOJQ-j/view)
+<div class="sl-markdown-content">
+  The Axioned symbol should only be used in places where there is not enough room to display the full logo, or in cases
+  where only brand icons of multiple brands are displayed.
+</div>
 
-### White Axioned Symbol
-[Download PNG](https://drive.google.com/file/d/1fea36o49IyFeOIgckE0yfF31Dp-FYghl/view)  | [Download SVG](https://drive.google.com/file/d/1tPIIH1bntelnhmYhuOqwXUT4qTFRvmTI/view)
+<Tabs>
+  <TabItem label="Black">
+    <Card title="Black Axioned Symbol">
+      [Download PNG](https://drive.google.com/file/d/1Xdj4UT2uoFSQmXY6mYSc81mMcyAzu7t6/view) | [Download
+      SVG](https://drive.google.com/file/d/1EIp2XDQ3rYP8FHPxP7_2IiShJPVOJQ-j/view)
+    </Card>
+  </TabItem>
+  <TabItem label="White">
+    <Card title="White Axioned Symbol">
+      [Download PNG](https://drive.google.com/file/d/1fea36o49IyFeOIgckE0yfF31Dp-FYghl/view) | [Download
+      SVG](https://drive.google.com/file/d/1tPIIH1bntelnhmYhuOqwXUT4qTFRvmTI/view)
+    </Card>
+  </TabItem>
+</Tabs>
 
 ## Colors
 
-### Primary
-EGGPLANT: #201547      
-FUSCHIA : #E31C79
+<div style={{ display: 'grid', gap: '2rem' }}>
+  ### Primary Colors
 
-### Secondary
-AQUA: #16C6CC      
-GOLD: #BD9B60      
-LIGHT GREY: #FCFCFC      
-FROST GRAY: #E5E7EB    
-WHITE: #FFFFFF    
+<div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fit, minmax(200px, 1fr))", gap: "2rem", margin: 0 }}>
+  <div style={{ margin: 0 }}>
+    <div style={{ fontSize: "1rem", fontWeight: "bold", marginBottom: "0.5rem" }}>Eggplant</div>
+    <div style={{ backgroundColor: "#201547", color: "white", padding: "1rem", borderRadius: "4px" }}>#201547</div>
+  </div>
+  <div style={{ margin: 0 }}>
+    <div style={{ fontSize: "1rem", fontWeight: "bold", marginBottom: "0.5rem" }}>Fuschia</div>
+    <div style={{ backgroundColor: "#E31C79", color: "white", padding: "1rem", borderRadius: "4px" }}>#E31C79</div>
+  </div>
+</div>
 
-## Icons
+### Secondary Colors
+
+  <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(200px, 1fr))', gap: '2rem', margin: 0 }}>
+    <div style={{ margin: 0 }}>
+      <div style={{ fontSize: '1rem', fontWeight: 'bold', marginBottom: '0.5rem' }}>Aqua</div>
+      <div style={{ backgroundColor: "#16C6CC", color: "white", padding: "1rem", borderRadius: "4px" }}>
+        #16C6CC
+      </div>
+    </div>
+    <div style={{ margin: 0 }}>
+      <div style={{ fontSize: '1rem', fontWeight: 'bold', marginBottom: '0.5rem' }}>Gold</div>
+      <div style={{ backgroundColor: "#BD9B60", color: "white", padding: "1rem", borderRadius: "4px" }}>
+        #BD9B60
+      </div>
+    </div>
+    <div style={{ margin: 0 }}>
+      <div style={{ fontSize: '1rem', fontWeight: 'bold', marginBottom: '0.5rem' }}>Light Grey</div>
+      <div style={{ backgroundColor: "#FCFCFC", color: "#333", padding: "1rem", borderRadius: "4px", border: "1px solid #E5E7EB" }}>
+        #FCFCFC
+      </div>
+    </div>
+    <div style={{ margin: 0 }}>
+      <div style={{ fontSize: '1rem', fontWeight: 'bold', marginBottom: '0.5rem' }}>Frost Gray</div>
+      <div style={{ backgroundColor: "#E5E7EB", color: "#333", padding: "1rem", borderRadius: "4px" }}>
+        #E5E7EB
+      </div>
+    </div>
+    <div style={{ margin: 0 }}>
+      <div style={{ fontSize: '1rem', fontWeight: 'bold', marginBottom: '0.5rem' }}>White</div>
+      <div style={{ backgroundColor: "#FFFFFF", color: "#333", padding: "1rem", borderRadius: "4px", border: "1px solid #E5E7EB" }}>
+        #FFFFFF
+      </div>
+    </div>
+  </div>
+</div>
