@@ -232,14 +232,17 @@ Please refer to the matrix below for device priorities:
 |--------------|---------------------------|----------|-----------|-----------|-----------|
 | Windows 11   | Windows Laptop            | P1 | P1 | P2 | -         |
 | MacOS        | Macbook                   | P1 | -         | P2 | P1|
-| iOS  | iPhone 15 series         | P1 | -         | -         | P1|
-| iOS             | iPhone 14 series          | P2 | -         | -         | P2|
-| iOS             | iPhone 13 and 12 series   | P2 | -         | -         | P1|
-| iPad OS (17) | iPhone SE (2nd)           | P1 | -         | -         | P1|
-| iPad OS (17)             | iPad Pro (10.5-inch) (5th generation) | P3 | -         | -         | P2|
-| iPad OS (17)             | iPad Air (5th generation) | P3 | -         | -         | P2|
-| Android 12   | Google Pixel 7            | P2 | -         | -         | -         |
-| Android 12        | Samsung Galaxy S24 and S24+| P1 | -         | -         | -         |
+| iOS (17,18) | iPhone 16 series         | P1 | -         | -         | P1|
+| iOS (17,18) | iPhone 15 series         | P1 | -         | -         | P1|
+| iOS (17,18) | iPhone 14 series          | P2 | -         | -         | P2|
+| iOS (17,18) | iPhone 13 and 12 series   | P3 | -         | -         | P2|
+| iPad OS (18)| iPhone SE (3rd)           | P1 | -         | -         | P1|
+| iPad OS (18)| iPad Pro M2 (10.5-inch) (5th Gen) | P3 | -         | -         | P2|
+| iPad OS (18)| iPad Air M2 (5th generation) | P3 | -         | -         | P2|
+| Android 15  | Google Pixel 9            | P1 | -         | -         | -         |
+| Android 15  | Google Pixel 8           | P2 | -         | -         | -         |
+| Android 15        | Samsung Galaxy S25 and S25+| P1 | -         | -         | -         |
+| Android 15        | Samsung Galaxy S24 | P2 | -         | -         | -         |
 
 Additional References:
 
