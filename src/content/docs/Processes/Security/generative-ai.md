@@ -20,10 +20,11 @@ In using ChatGPT or other generative AI tools, team members must be aware of the
    - Please follow the documentation to turn-off the settings which consent to using your chats for training purposes.
    - **ChatGPT** ([Data Controls FAQ](https://help.openai.com/en/articles/7730893-data-controls-faq))
        - All chats on ChatGPT Plus or ChatGPT Free plan are set to be used for training purposes as a default, and you should turn them off by going to Settings > Data Controls and **disabling** "Improve the model for everyone".
-       - <img width="565" alt="Screenshot 2025-04-02 at 17 05 01" src="https://github.com/user-attachments/assets/266bf2af-5f8d-43d4-aa2e-ba03fbff2ca3" />
+         <img width="400" alt="Screenshot 2025-04-02 at 17 05 01" src="https://github.com/user-attachments/assets/266bf2af-5f8d-43d4-aa2e-ba03fbff2ca3" />
        - Use "Temporary Chats" when necessary as they won’t be used for model training.
-       - <img width="631" alt="Screenshot 2025-04-02 at 17 03 39" src="https://github.com/user-attachments/assets/7cf3d6ee-e072-4c4f-800c-9450047e66b5" />
-       - If you don't use "Temporary Chats", then delete prior chats frequently. You can ask/prompt ChatGPT to "delete prior chats from memory" and then ask further questions about those prior chats to see if that has really taken place.
+         <img width="400" alt="Screenshot 2025-04-02 at 17 03 39" src="https://github.com/user-attachments/assets/7cf3d6ee-e072-4c4f-800c-9450047e66b5" />
+       - If you don't use "Temporary Chats", then delete prior chats frequently.
+       - To test your ability to keep ChatGPT conversations private, test ChatGPT's memory: Ask questions about your prior chats to see if "deletion" has really taken place.
        - Note: The use of their API Platform doesn’t post any direct concern - as they are not used to train their models. (See [Enterprise privacy](https://openai.com/enterprise-privacy/))
    - **GitHub Copilot** ([Managing Copilot policies as an individual subscriber](https://docs.github.com/en/copilot/managing-copilot/managing-copilot-as-an-individual-subscriber/managing-copilot-policies-as-an-individual-subscriber#enabling-or-disabling-prompt-and-suggestion-collection))
      - By default, your prompts and Copilot's suggestions are collected and retained by GitHub, and further processed and shared with Microsoft.
