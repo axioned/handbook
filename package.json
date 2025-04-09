@@ -11,12 +11,12 @@
     "start": "astro dev"
   },
   "dependencies": {
-    "@astrojs/starlight": "^0.31.1",
-    "astro": "^5.2.5",
+    "@astrojs/starlight": "^0.32.3",
+    "astro": "^5.5.3",
     "sharp": "^0.33.5"
   },
   "devDependencies": {
-    "prettier": "^3.5.0",
+    "prettier": "^3.5.3",
     "prettier-plugin-astro": "^0.14.1"
   }
 }

@@ -9,6 +9,7 @@ tags: [Mozilla Observatory, Security, Web Security, Audit, Maintenance, Go-live]
 Some of the most well known tools to run security checks on your websites are:
 
 - Mozilla Observatory <https://observatory.mozilla.org/>
+- Security Headers <https://securityheaders.com/>
 - Snyk Website Vulnerability Scanner <https://snyk.io/website-scanner/>
 - Sucuri SiteCheck <https://sitecheck.sucuri.net/>
 
