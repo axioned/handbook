@@ -39,10 +39,11 @@ If you have a medical condition that you know will take you away from work regul
 
 ## Day in Lieu (Compensatory Time Off)
 
-- If you are required to work on a holiday, you will be given a day off in lieu.
-- This day off is to be taken within 60 days of the public holiday.
-- If you are unable to take the day off within 60 days, these days will be forfeited.
-- Any unused compensatory time off are not encashed should you leave Axioned.
+- If you ever need to work on a public holiday or weekend, you’ll get a proportional comp-off in return.
+- Just be sure to use it within 60 days. If you need more time, Management will review any extension requests.
+- You can use your comp-off as a planned or unplanned leave—just keep HR in the loop on what works best for you.
+- If you’re taking it on short notice, try to give your teammates a heads-up so they’re not caught off guard.
+- Unused comp-offs won’t be encashed if you decide to move on from Axioned.
 
 ## Gratuity and Insurance
 
