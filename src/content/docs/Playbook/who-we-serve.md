@@ -11,7 +11,7 @@ Our team at Axioned specializes in digital engineering; helping businesses build
 
 Whether it’s a website or application (app) - we bring ideas to life and help existing businesses grow.
 
-We typically work with/partner with the following ICPs (Ideal Client Profiles).
+We typically work and partner with the following ICPs (Ideal Client Profiles).
 
 ### ICP #1 - High-Growth Consumer Services Businesses Dependent on Web Lead Gen for Growth
 - Businesses that rely on - and invest in - their website as a critical lead generation and conversion engine.
@@ -22,6 +22,8 @@ We typically work with/partner with the following ICPs (Ideal Client Profiles).
 **Client pain points (the problem we're solving):**
 - 1/ Website is underperforming and losing leads due to low conversions, poor UX, slow speed, weak CRM/data workflows, or SEO issues.
 - 2/ Existing tech partner or team can’t match the required pace or delivery velocity.
+
+***Note:*** *We’re often referred to such clients by agency partners - creative, branding, and ad shops - who trust us as a tech partner to deliver on "all things tech." We welcome and encourage these partnerships. Interested in joining our agency partner program? (Click here/to be activated.)*
 
 ### ICP #2 - Innovators: Stand-alone or In-house
 - Product teams that are starting or scaling, and need a trusted partner to either:
@@ -42,9 +44,10 @@ We typically work with/partner with the following ICPs (Ideal Client Profiles).
 - We prefer to work on a monthly retainer model providing continuous/dedicated support to drive continuous improvement.
 - We also work on project (SOW - Scope of Work) basis.
 
-### We value our client relationships and spend a lot of time working on/discussing how to WOW Clients (CSAT Score):
-- We aim to [WOW](/playbook/wow) our clients and teammates.
-- When asking clients for feedback we also ask them to evaluate each member of the Axioned team who contributed to/worked on the project.
+### We value our clients & CSAT Scores:
+- February 2025: CSAT score = 94%.
+- Our goal is to WOW our clients and fellow teammates. What does this mean? See here: [WOW](/playbook/wow) 
+- Here's our [sample client feedback form:] (https://form.typeform.com/to/GqmZKRrt#projectname=xxxxx&clientname=xxxxx&teammembers=xxxxx&project_incharge=xxxxx)
 
 :::tip[The Axioned Journey]
 Axioned was started in 2006 by Dev Jhala. Libby Swan joined in 2008. Today, Dev serves the role of the company's CFO and supports the strategic direction of the company. Today, Libby serves the role of the company's CEO with a focus on sales/marketing + strategic direction.
