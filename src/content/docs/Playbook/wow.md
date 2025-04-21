@@ -61,7 +61,6 @@ Tip: The proactive communication of updates for work-in-progress (or even forese
 Avoid assuming or overestimating; while 80% of teams believe they provide superior service, only 8% of customers agree. This indicates a significant disconnect. Source: [shankmanhonig.com](http://shankmanhonig.com/) Regularly introspect (individually and as a team) and seek timely feedback to gauge client satisfaction and areas for improvement.
 
 ### Seeking feedback
-
 - **Ask with intent and curiousity**
   - Frame questions that guide the client to provide insightful feedback. For example:
     - Instead of asking, "Are you satisfied with our service?" ask, "How can we improve our service to better meet your needs?"
@@ -76,9 +75,9 @@ Avoid assuming or overestimating; while 80% of teams believe they provide superi
 > “The single biggest problem in communication is the illusion that it has taken place” <br>
 > — George Bernard Shaw
 
-### Further Best Practices
+## Further Best Practices
 
-## Design and Deliver
+### Design and Deliver
 
 Create a site/app/product that aligns with the client's 5Ws+1H:
 - **What**: Understand what features and functionalities the client desires.
@@ -87,27 +86,27 @@ Create a site/app/product that aligns with the client's 5Ws+1H:
 - **Where**: Ensure the product is accessible where the client needs it (e.g., mobile, desktop).
 - **How**: Follow the client's guidelines and preferences for design and functionality.
 
-# Meet Deadlines
+### Meet Deadlines
 - Deliver on or before the agreed timelines.
 - Understand that customers want fast service and do not tolerate lateness.
 - Educate yourself and your team about the concept of “anchoring” to avoid delays.
 
-# Build for Future Maintenance
+### Build for Future Maintenance
 - Design products with future maintenance and enhancement in mind.
 - Build with empathy for future team members or yourself if someone else needs to take over due to unforeseen circumstances.
 
-# Timely Communication
+### Timely Communication
 - Respond promptly to client communications, especially for highlighted or escalated risks and security concerns.
 
-# Treat Clients as Long-Term Partners
+### Treat Clients as Long-Term Partners
 - Approach clients as long-term partners, not short-term customers.
 - Invest in understanding their goals, vision, pain points, and frustrations.
 - Dedicate time to find solutions that meet their needs and solve their problems.
 
-# Follow Client Preferences
+### Follow Client Preferences
 - Use the “How to Work With Me” (HTWwM) cheat sheet to adhere to clients' communication preferences.
 - If unclear, ask further questions to ensure you understand their preferences.
 
-# Request and Act on Feedback
+### Request and Act on Feedback
 - Seek client feedback early in the engagement.
 - Act on the feedback provided before requesting further input.
