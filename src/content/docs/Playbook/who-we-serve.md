@@ -36,13 +36,13 @@ Our team at Axioned specializes in digital engineering; helping businesses build
 
 ## Why Axioned?
 - We are responsible, agile, human-centered, and collaborative problem solvers.
-- We walk, talk, and live by our [Core Values](playbook/core-values/).
+- We walk, talk, and live by our [Core Values](/playbook/core-values/).
 - We're experts in performance optimization, tech-stack modernization, and bridging tech-skill gaps.
 - We excel in/enjoy working with JavaScript-driven frameworks and technologies.
 
 ## We value our clients & CSAT Score:
 - Our CSAT csore (as of Apr 2025): 94%
-- Our goal is to consistently [WOW](/playbook/wow) our clients and teammates.
+- Our goal is to consistently [WOW](/playbook/wow) Axioned clients and teammates.
 
 :::tip[The Axioned Journey]
 Axioned was started in 2006 by Dev Jhala. Libby Swan joined in 2008. Today, Dev serves the role of the company's CFO and supports the strategic direction of the company. Today, Libby serves the role of the company's CEO with a focus on sales/marketing + strategic direction.
