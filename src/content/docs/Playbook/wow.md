@@ -10,7 +10,7 @@ sidebar:
 You might hear us talking a lot about WOW'ing our clients (and teammates). It's not just about delivering what was asked for, but also about delivering more than what was expected. It's about going the extra mile to make sure that our clients are always happy and satisfied with our work. It's about creating a lasting impression that will make them want to work with us again and again.
 
 ## Why?
-- Every client and team mate is different; we must invest in understanding what WOW looks and feels like to them. (This is where our HTWwM Q&A can help - link to be added.)
+- Every client and team mate is different; we must invest in understanding what WOW looks and feels like to them.
 - Putting in the effort to WOW supports growth; as individuals and as a team and company.
 - It drives long-lasting relationships that helps “secure” business (and revenues) to be invested in the team, company and clients.
 
@@ -57,28 +57,27 @@ Tip: The proactive communication of updates for work-in-progress (or even forese
 (Source: [shankmanhonig.com](http://shankmanhonig.com/))
 :::
 
-## How do you know if you are WOWing your Clients?
-Avoid assuming or overestimating; while 80% of teams believe they provide superior service, only 8% of customers agree. This indicates a significant disconnect. Source: [shankmanhonig.com](http://shankmanhonig.com/) Regularly introspect (individually and as a team) and seek timely feedback to gauge client satisfaction and areas for improvement.
+### How do you know if you are WOWing your Clients?
+- **Avoid assuming or overestimating**; while 80% of teams believe they provide superior service, only 8% of customers agree. This indicates a significant disconnect. Source: [shankmanhonig.com](http://shankmanhonig.com/).
+- Regularly introspect (individually and as a team) and seek timely feedback to gauge client satisfaction and areas for improvement.
+- Use Axioned’s WOW Client Feedback Form, along with the related templates and workflow, with a critical eye and clear intent.
 
-### Seeking feedback
+### When asking for Client feedback:
 - **Ask with intent and curiousity**
-  - Frame questions that guide the client to provide insightful feedback. For example:
-    - Instead of asking, "Are you satisfied with our service?" ask, "How can we improve our service to better meet your needs?"
-    - Instead of, "Did you like the recent update?" ask, "What features of the recent update are most beneficial to you, and which ones could be improved?"
+- Frame questions that guide the client to provide insightful feedback. For example: Instead of asking, "Are you satisfied with our service?" ask, "How can we improve our service to better meet your needs?". Instead of, "Did you like the recent update?" ask, "What features of the recent update do you feel worked best? What features do you feel need consistent improvement?"
 - **Informal feedback**
-  - Gather feedback during daily or weekly calls. Sometimes this is verbal, sometimes non-verbal. Make sure your request is sincere, showing a true desire to understand and act on their feedback.
-- **Consider the setting**
-  - Choose the a smaller and focused audience for feedback discussions to avoid putting the client on the spot or making the client uncomfortable.
-- **Seek Support**
-  - If unsure, ask teammates or seniors for guidance on how to approach feedback.
+- Gather feedback during daily or weekly calls. Sometimes this is verbal, sometimes non-verbal. Make sure your request is sincere; showing a true desire to understand and act on their feedback.
+- **Create the appropriate setting for feedback**
+- Choose the a smaller and focused audience for feedback discussions to avoid putting the client on the spot or making the client uncomfortable.
+- **Seek support**
+- If unsure, ask teammates or seniors for guidance on how to approach - or action - feedback.
 
-> “The single biggest problem in communication is the illusion that it has taken place” <br>
+> *“The single biggest problem in communication is the illusion that it has taken place.”* <br>
 > — George Bernard Shaw
 
-## Further Best Practices
+## Further (potentially repetitive!) Best Practices
 
-### Design and Deliver
-
+**Design and Deliver**
 Create a site/app/product that aligns with the client's 5Ws+1H:
 - **What**: Understand what features and functionalities the client desires.
 - **Why**: Know the purpose and goals behind their requests.
@@ -86,27 +85,27 @@ Create a site/app/product that aligns with the client's 5Ws+1H:
 - **Where**: Ensure the product is accessible where the client needs it (e.g., mobile, desktop).
 - **How**: Follow the client's guidelines and preferences for design and functionality.
 
-### Meet Deadlines
+**Meet Deadlines**
 - Deliver on or before the agreed timelines.
 - Understand that customers want fast service and do not tolerate lateness.
 - Educate yourself and your team about the concept of “anchoring” to avoid delays.
 
-### Build for Future Maintenance
+**Build for Future Maintenance**
 - Design products with future maintenance and enhancement in mind.
 - Build with empathy for future team members or yourself if someone else needs to take over due to unforeseen circumstances.
 
-### Timely Communication
+**Timely Communication**
 - Respond promptly to client communications, especially for highlighted or escalated risks and security concerns.
 
-### Treat Clients as Long-Term Partners
+**Treat Clients as Long-Term Partners**
 - Approach clients as long-term partners, not short-term customers.
 - Invest in understanding their goals, vision, pain points, and frustrations.
 - Dedicate time to find solutions that meet their needs and solve their problems.
 
-### Follow Client Preferences
+**Follow Client Preferences**
 - Use the “How to Work With Me” (HTWwM) cheat sheet to adhere to clients' communication preferences.
 - If unclear, ask further questions to ensure you understand their preferences.
 
-### Request and Act on Feedback
+**Request and Act on Feedback**
 - Seek client feedback early in the engagement.
 - Act on the feedback provided before requesting further input.
