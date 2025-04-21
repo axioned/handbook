@@ -51,5 +51,5 @@ We are all work-in-progress, so is everything we do. Be comfortable with "workin
 ## Appendix
 
 :::note[Update]
-As of September 2023, we have refined our core values to 5, with the intention of making them more actionable and specific. This has been inspired by our [Guiding Principles](/docs/Playbook/guiding-principles).
+As of September 2023, we have refined our core values to 5, with the intention of making them more actionable and specific. This has been inspired by [our [Guiding Principles](/docs/Playbook/guiding-principles).](https://handbook.axioned.com/playbook/guiding-principles/)
 :::
