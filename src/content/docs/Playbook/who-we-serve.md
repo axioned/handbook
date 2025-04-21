@@ -19,7 +19,7 @@ Our team at Axioned specializes in digital engineering; helping businesses build
 - 1/ Website is underperforming and losing leads due to low conversions, poor UX, slow speed, weak CRM/data workflows, or SEO issues.
 - 2/ Existing tech partner or team can’t match the required pace or delivery velocity.
 
-***Note:*** *We’re often referred to such clients by agency partners—creative, branding, and ad shops—who trust us as a tech partner to deliver on "all things tech." We welcome and encourage these partnerships. Interested in joining our agency partner program? [Contact Libby] (https://www.linkedin.com/in/libby-swan-axioned-enabling-digital-endeavours/).*
+***Note:*** *We’re often referred to such clients by agency partners—creative, branding, and ad shops—who trust us as a tech partner to deliver on "all things tech." We welcome and encourage these partnerships. Interested in joining our agency partner program? [Contact Libby](https://www.linkedin.com/in/libby-swan-axioned-enabling-digital-endeavours/).*
 
 ## ICP #2 - Innovators: Stand-alone or In-house
 - Product teams that are starting or scaling, and need a trusted partner to either:
