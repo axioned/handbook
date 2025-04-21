@@ -20,17 +20,17 @@ We typically work with/partner with the following ICPs (Ideal Client Profiles).
 - The relationship (Axioned x Client) is typically structured as ongoing monthly support for website maintenance, performance optimization, and iterative enhancements. As needs evolve, Axioned often leads efforts like site redesigns, CRM/tool integrations, data workflows, site analytics, and/or SEO improvements.
 
 **Client pain points (the problem we're solving):**
-1/ Website is underperforming and losing leads due to low conversions, poor UX, slow speed, weak CRM/data workflows, or SEO issues.
-2/ Existing tech partner or team can’t match the required pace or delivery velocity.
+- 1/ Website is underperforming and losing leads due to low conversions, poor UX, slow speed, weak CRM/data workflows, or SEO issues.
+- 2/ Existing tech partner or team can’t match the required pace or delivery velocity.
 
 ### ICP #2 - Innovators: Stand-alone or In-house
 - Product teams that are starting or scaling, and need a trusted partner to either:
-a) bring their POC/MVP to life (often leveraging AI tools like Cursor, GitHub Co-Pilot, Replit), or
-b) scale an existing digital product or platform.
+- a) bring their POC/MVP to life (often leveraging AI tools like Cursor, GitHub Co-Pilot, Replit), or
+- b) scale an existing digital product or platform.
 
 **Client pain points (the problem we're solving):**
-1/ Moving too slowly to validate and iterate—losing time, feedback, and momentum.
-2/ Restricted in-house tech expertise to execute at the desired pace/velocity.
+- 1/ Moving too slowly to validate and iterate—losing time, feedback, and momentum.
+- 2/ Restricted in-house tech expertise to execute at the desired pace/velocity.
 
 ## Why Axioned?
 - We are responsible, agile, human-centered, and collaborative problem solvers.
