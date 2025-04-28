@@ -66,7 +66,7 @@ sidebar:
   - JavaScript/[TypeScript](https://www.typescriptlang.org/)
 - Landing Page Software
   - [HeyFlow](https://heyflow.com/lp/landing-page-software/)
-  - [Unbounce](https://heyflow.com/lp/landing-page-software/](https://unbounce.com/landing-pages-nb/)
+  - [Unbounce](https://unbounce.com/landing-pages-nb/)
 
 ### Trial
 
