@@ -7,14 +7,14 @@ sidebar:
 
 ### Adopt
 
-- Content Mangagement Systems (CMS)
+- Content Mangagement Systems (CMS) - including "Headless"
   - [Sanity](https://www.sanity.io/)
   - [Contentful](https://www.contentful.com/)
   - [Strapi](https://strapi.io/)
   - [WordPress](https://wordpress.org/)
   - [DatoCMS](https://www.datocms.com/)
   - [Contentstack](https://www.contentstack.com/)
-- Frameworks and Libraries
+- Frameworks & Libraries
   - [Next.js](https://nextjs.org/)
   - [Astro](https://astro.build/)
   - [Expo](https://docs.expo.dev/)
@@ -25,7 +25,7 @@ sidebar:
   - [Zustand](https://zustand-demo.pmnd.rs/)
 - DevOps & Automation
   - [GitHub Actions](https://docs.github.com/en/actions)
-- Database and Storage
+- Database & Storage
   - [PostgreSQL](https://www.postgresql.org/)
   - [MongoDB](https://www.mongodb.com/)
   - [Google BigQuery](https://cloud.google.com/bigquery)
@@ -44,8 +44,6 @@ sidebar:
   - [OpenAI API](https://platform.openai.com/docs/)
   - [Anthropic](https://www.anthropic.com/) / [Claude](https://claude.ai/)
   - [Vercel AI SDK](https://sdk.vercel.ai/)
-- Application Monitoring
-  - [Sentry](https://sentry.io/)
 - Analytics
   - [Google Analytics](https://analytics.google.com/)
   - [Adobe Analytics](https://business.adobe.com/products/analytics/adobe-analytics.html)
@@ -56,14 +54,19 @@ sidebar:
   - [Adobe Launch](https://launch.adobe.com/)
 - Search
   - [Algolia](https://www.algolia.com/)
+- Application Monitoring
+  - [Sentry](https://sentry.io/)
 - Testing
   - [Playwright](https://playwright.dev/)
   - [Checkly](https://checklyhq.com/)
-- Languages
-  - JavaScript/[TypeScript](https://www.typescriptlang.org/)
 - User Testing Tools
   - [User Brain](https://www.userbrain.com/en/)
   - [User testing](https://www.usertesting.com/)
+- Languages
+  - JavaScript/[TypeScript](https://www.typescriptlang.org/)
+- Landing Page Software
+  - [HeyFlow](https://heyflow.com/lp/landing-page-software/)
+  - [Unbounce](https://heyflow.com/lp/landing-page-software/](https://unbounce.com/landing-pages-nb/)
 
 ### Trial
 
@@ -82,6 +85,7 @@ sidebar:
   - [n8n](https://n8n.io/)
   - [FlutterFlow](https://flutterflow.io/)
   - [Flowise](https://flowiseai.com/)
+  - [Replit](https://replit.com/)
 - Testing
   - [Grafana k6](https://k6.io/)
   - [Artillery](https://www.artillery.io/docs)
@@ -92,7 +96,7 @@ sidebar:
   - [Ruby on Rails](https://rubyonrails.org/)
 - AI/Generative AI
   - [Replicate](https://www.replicate.com/)
-- [SST](https://sst.dev/)
+  - [SST](https://sst.dev/)
 
 ### Hold
 
