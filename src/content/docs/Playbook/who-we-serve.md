@@ -16,19 +16,19 @@ Our team at Axioned specializes in digital engineering; helping businesses build
 - The relationship (Axioned x Client) is typically structured as ongoing monthly support for website maintenance, performance optimization, and iterative enhancements. As needs evolve, Axioned often leads efforts like site redesigns, CRM/tool integrations, data workflows, site analytics, and/or SEO improvements.
 
 **Client pain points (the problem we're solving):**
-- 1/ Website is underperforming and losing leads due to low conversions, poor UX, slow speed, weak CRM/data workflows, or SEO issues.
-- 2/ Existing tech partner or team can’t match the required pace or delivery velocity.
+1. Website is underperforming and losing leads due to low conversions, poor UX, slow speed, weak CRM/data workflows, or SEO issues.
+2. Existing tech partner or team can’t match the required pace or delivery velocity.
 
 ***Note:*** *We’re often referred to such clients by agency partners—creative, branding, and ad shops—who trust us as a tech partner to deliver on "all things tech." We welcome and encourage these partnerships. Interested in joining our agency partner program? [Contact Libby](https://www.linkedin.com/in/libby-swan-axioned-enabling-digital-endeavours/).*
 
 ## ICP #2 - Innovators: Stand-alone or In-house
 - Product teams that are starting or scaling, and need a trusted partner to either:
-- a) bring their POC/MVP to life (often leveraging AI tools like Cursor, GitHub Co-Pilot, Replit), or
-- b) scale an existing digital product or platform.
+  - bring their POC/MVP to life (often leveraging AI tools like Cursor, GitHub Co-Pilot, Replit), or
+  - scale an existing digital product or platform.
 
 **Client pain points (the problem we're solving):**
-- 1/ Moving too slowly to validate and iterate—losing time, feedback, and momentum.
-- 2/ Restricted in-house tech expertise to execute at the desired pace/velocity.
+1. Moving too slowly to validate and iterate—losing time, feedback, and momentum.
+2. Restricted in-house tech expertise to execute at the desired pace/velocity.
 
 ## How do we work with our Clients?
 - We prefer to work on a monthly retainer model providing continuous/dedicated support to drive continuous improvement.
