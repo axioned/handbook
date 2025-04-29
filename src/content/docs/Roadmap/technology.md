@@ -5,7 +5,7 @@ sidebar:
   order: 1
 ---
 
-We take inspiration on our Technology Roadmap/Radar from [Thoughtworks] (https://www.thoughtworks.com/radar/faq#).
+We take inspiration on our Technology Roadmap/Radar from [Thoughtworks](https://www.thoughtworks.com/radar/faq#).
 
 ### Adopt
 
