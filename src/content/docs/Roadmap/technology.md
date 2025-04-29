@@ -5,6 +5,8 @@ sidebar:
   order: 1
 ---
 
+We take inspiration on our Technology Roadmap/Radar from [Thoughtworks] (https://www.thoughtworks.com/radar/faq#:~:text=Thoughtworks%20Technology%20Radar%20is%20a,to%20explore%20on%20your%20projects.).
+
 ### Adopt
 
 - Content Mangagement Systems (CMS) - including "Headless"
