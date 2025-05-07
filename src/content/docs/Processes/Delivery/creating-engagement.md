@@ -2,7 +2,6 @@
 title: Engaging Clients for Major Releases
 sidebar:
   label: Engaging clients
-position: 5
 tags: [communication, engagement, releases, clients]
 ---
 
