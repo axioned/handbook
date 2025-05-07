@@ -1,0 +1,100 @@
+# Guidelines: Branding and Hierarchy Styling for All Documents
+
+## Objective
+
+This document is to emphasize the importance of consistent branding and hierarchy styling in our internal and client-facing documentation. We have observed that informal or poorly organized documents can lead to frustration and diminished interest in reading. By adhering to a well-structured format, we aim to enhance clarity and visibility, ensuring that stakeholders remain engaged and can easily navigate the content.
+
+By doing so, we can maintain a high standard of documentation that reflects our commitment to quality and professionalism.
+
+### What’s “Good” vs. “Bad” Practice?
+
+| Formatting Element | GOOD ✅ | BAD ❌ |
+| ----- | ----- | ----- |
+| **Axioned’s Logo** | Positioned prominently at the top-right within the header space, ideally with a width of 1.34 and a height of 0.5 inches.  ![][image1] | Placed randomly in the document without regard for layout, such as at the bottom or in the margin. |
+| **Footer** | Include page numbers in the footer (e.g., "Page X of Y") center-aligned. | Omitting page numbers or using unclear footers (e.g., only "Page 1" without context). |
+| **Fonts** | Use of a consistent font type throughout the document (e.g., IBM Plex Sans, Calibri, Proxima Nova). | Mixed fonts within a single document (e.g., Arial on one section or for a heading, Calibri for paragraphs, Inter for disclaimers and/or notes).    |
+| **Font Size** | Use of consistent font sizes based on the hierarchy/structure (e.g., 11 font for paragraph, 15 font for heading 1, 13 font for heading 2, etc). | Not following consistent font sizes to set the hierarchy/structure (e.g., using two different font sizes for paragraphs in different sections). |
+| **Heading** | Use **heading 1, heading 2, heading 3,** etc., to define proper hierarchy for a well-structured and easy-to-read document. | Not using any heading tags or inappropriate sequence could lead to a poorly structured document. |
+| **Line Spacing** | Consistent spacing utilized through line height (e.g., 1.15, or 1.5 spacing) | Random spacing is being used. No consistent and unwanted spacing is followed.  |
+| **Consistency in Color Usage** | Use a consistent color palette that aligns with branding guidelines. | Using multiple colors that clash or are not aligned with brand standards. |
+| **Visual Hierarchy** | Use bold, italics, and underlining purposefully to emphasize key points without overusing them. | Over-correcting with too much emphasis (e.g., bolding everything) can reduce readability. |
+| **Bullet and Numbered Lists** | Use bullet points for non-sequential items and numbered lists for sequential information. Ensure consistent indentation. | Mixing formats in lists (e.g., bullets followed by numbers) or inconsistent indentation can confuse the reader. |
+| **Table Formatting** | Use tables for data presentation with consistent column widths and row heights to enhance readability. | Using tables without borders or inconsistent cell formatting can lead to a messy appearance. |
+| **Images and Graphics** | Include relevant images with captions, ensuring high quality and appropriate placement. | Including images without context or poor-quality graphics can detract from professionalism. |
+| **Hyperlink Formatting** | Use descriptive text for hyperlinks (e.g., "Visit our website" instead of "Click here"). | Using long URLs as hyperlinks or vague phrases can mislead or confuse readers. |
+| **Page Layout** | Employ consistent margins and indentations to enhance readability. | Inconsistent margins or indentations create a chaotic appearance. |
+| **Table of Content Section** | Titles are clear, formatted consistently, logically ordered, have accurate page numbers, are properly indented, hyperlinked for easy access, and regularly updated. | Titles are vague, formatting is inconsistent, order is illogical, page numbers are incorrect or missing, indentation is absent, entries are not hyperlinked, and the TOC is outdated. |
+| **Proofreading** | Always proofread documents for grammatical errors, typos, and clarity before sharing. | Submitting documents with errors can undermine credibility and professionalism. |
+| **Feedback Loop** | Get the document review for verification and/or recommendation on improvements: **QA/Pranit***—Primary touchpoint* **PMO (Sumeet/Shyam)***—Secondary touchpoint* | Not reviewing the document can undermine credibility and professionalism. |
+
+We encourage all team members to refer to the provided templates and documentation that reflect our established guidelines. These resources serve as valuable references to promote consistency and quality in our work. Adhering to these templates will help us maintain our standards and enhance collaboration across our projects.
+
+* Prelim Analysis Report:[Growthspace - Axioned Findings & Opportunities Report](https://docs.google.com/document/d/1EAaysC1hBVLk1UQjgvIjtnxMij5FYKnCSkI6lXGKzdw/edit?tab=t.0)  
+  Website build document: [Copy of Axioned/PAN - Project Brief: EU based extension of PAN Website Build](https://docs.google.com/document/u/0/d/1d8qMpf2X9MRbQgGAH-rqvrxcFHwwS20GWz4d0Uu4B0I/edit)
+
+# **General Information about the Organization**
+
+To effectively communicate our brand and values, it is crucial to integrate the following information about our organization into this guidelines document. By highlighting our mission, vision, core values, and services, we provide essential context that enriches our brand narrative. This not only ensures clarity and consistency but also helps team members align with our goals. Please make sure this information is accurately reflected in the document.
+
+But not to be used within SOW/agreement, technical documents, and other technical documents where those are not needed.
+
+# **Why Axioned**
+
+**Who we serve?**
+
+We optimize, scale, and build digital experiences that drive growth. We partner with 2 Ideal Client Profiles (ICPs).
+
+## 
+
+## **High-Growth Consumer Services Businesses**
+
+* These businesses rely on their website as a critical lead generation and conversion engine.  
+* Axioned provides ongoing optimization, maintenance, and enhancements to ensure their websites stay fast, functional, and conversion-ready.  
+* We’ll often support site redesigns and rebuilds also.
+
+### 
+
+## *Common client pain points that Axioned can address/support:*
+
+* *Website underperforming despite high ad spend (low conversions, slow load times).*  
+* *Struggling to manage web updates internally.*  
+* *Current tech partner is slow or lacks expertise in scaling their digital presence.*  
+* *Losing leads due to poor UX, slow page speed, or SEO issues.*
+
+## 
+
+## **Innovators \- Scaling from 0 to 1 \+ Beyond**
+
+* Startups and product teams need a trusted partner to bring their POC/MVP to life or scale an existing digital product.  
+* Axioned combines experience and expertise with a practical, iterative approach, ensuring rapid development while maintaining long-term scalability.
+
+*Common client pain points that Axioned can address/support:*
+
+* *Slow MVP Launch \- Delays in development slow down validation and market entry.*  
+* *No In-House Tech Expertise \- They have a vision but lack the right technical team.*  
+* *Scalability Issues \- Poor early architecture makes growth costly and complex.*  
+* *Budgetary restrictions; want to/need to iterate in a financially responsible way.*
+
+## 
+
+## **Why Axioned?**
+
+* We are responsible, agile, human-centered, and collaborative problem solvers. We take ownership, act with accountability, and adapt quickly with a solutions-first mindset—we live our \- Core Values.  
+* For high-growth businesses: We’re experts in performance optimization, tech-stack modernization, and bridging skill gaps to drive website-led growth.  
+* For innovators: We move fast—delivering speed, technical expertise, and AI-driven solutions in a financially responsible way.  
+* Our specialization: We excel in JavaScript-driven CMS, app, and digital product development.
+
+## 
+
+## **How do we work with our clients?**
+
+* We prefer to work on a monthly retainer model, providing continuous support for maintenance, enhancement, site/app performance, UX, and integrations \- to drive continuous improvements (and growth) for our clients.  
+* We also work on a SOW/scope of work (project) basis.
+
+# **Contact**
+
+* [**Axioned Website & Case Studies**](https://axioned.com/contact)   
+* **Libby Swan** (CEO) \- [**LinkedIn**](https://www.linkedin.com/in/libby-swan-axioned-enabling-digital-endeavours/%20)  
+* **Tim Redgate** (Strategy Director/UK Head) \- [**LinkedIn**](https://www.linkedin.com/in/tim-redgate/)
+
+[image1]: <data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIEAAAAwCAYAAAA2NhmAAAAFjklEQVR4Xu2cvYskVRTFW0RXDWTVnh5pZran2QFBjJxsE0fBrh4WA4NJBQMNBDFTFAQDcyMRjNT9A0RDEVPBZDYUVCYwEDFRUQN1XevV1uu59at7X72qrobpnnfg0K/uPee+j750z/TXYHDOsbeV3cx525G5hCr8OUlSs3bghjZmYysCz2kjzoob2piNrQg8p404K25oYza2IvCcNuKsuKGN2diKwHPaiLPihkr+QV3CHShntf5N4DDZPnpmoza0QrAB0pldQLABUhNcQLABlm4CFlvw0flhlK7lYqgP8IReD0XbOD911DKnaUKgr0sNB3q1GswxHw0WsdhWLz0EdQ2sNYGiMRnjteIaWc+DuhDplaDWoqVlvUawQBM1jxaTOWJva/YXdY47O8f3M1Zy0QRKLorV+ev5tpT1lqj5d091KmTNIGjuyqZ6cs4mHWMliyZQ4q3YNH8b+lrL1huPD4d91JGUawuCxmUoar7HnKKp5SLyvTSBY191HPuq1VcdT3+WjaCxqQg1lp45qWGshf9Eial+D2piyToO1HhOh9lLjIXqOFBXcvGuKUm/AzUk9SZodJwMs0+ok6DempT5Bv4a4TWbQHoJaptIv8dkNH+e2hDpJ6i3SB9BfayvAE2x5v39o0v0WD5qLHb1aV4N9IRIrwS1FunTQI/BU/oIxRO9Bt08yn6mTkPNZ0zq6lFH0uNATYj0aqAnRHolqF01Ob8F+qK9NEUbB+281C3rqXL+E70a6j6Do+wDeiVq+hWT81ugL9pLU7Rx0M5LHUm9AzU25zfp1VD3GUxNkHM0+4g6DTWfMSk1GgeD47u7+M78zaDHZE9NQF8MWKNNHfqivTS1MdOj+ZgPsU+vBnpMnrMmyPkGdYTiiV/D7vDZMY0xZuotH/New5jmZ66k9S/if9JLKHqbPTWBI70h0NumDvWW78edN2975sm7FgkaFxwePSX8C9R0xqTMSU3+PP4146zBeEmrCSpeCWoa2aEJDgYH9zDmSb8Gr51uZe/SH6pz5cr1h6izPLIBPE/33rmvSNK4DP2EjDMfo2G85Ml4/NwDSrw1zTk6NIEVr3P2w3SUfVmPt60TR7/m7/ZfvcQG8PSa3iZ2tSZb2T+M+xxBjdQyVrKX9w72Hz560KzTsQmsXBv2VcfT1+MdrzaBAws0UfNoMZkjJo/MXqGugUu/lZzfya8HayzRBFY+lr7GdJi9zVwXynXxzlebwIFFLHbVa6C2gZUPlRwMXjafizVKrwPzBZdsAksTw651LK2sxTtfbQAJFhOsvDCj5GuUegv0BFj7ZJGHom1cA3UFe2gCCWpJ6jXQo3nzP7ZvhfIedxrgrV8YT0hISEhISEhISEhISEhISEhIqKJ4lWmUfcb4RYJ/lc16tc0hlFtblC8xLj6UsZGbbInQGYRyawm3IfflT8YddrdnT7jbXPOaj01H2Qs8hKvj2a4few/HhKj9jY+5upNR9uGZyn3ZY3ZDzud9xXvyw/qjVq79NuctGfPr47p9TH54Rqyr0E5H8/fp89fcH6/XBtygRHFAIu/Gjw+O7/VjGW8aE1ptjq2YFm8a+7ePGfdjxmLm0WJrCW3x2iZD1023GkIHKP2TYfaklhPXxVfX8tvaF2a0deTjP5mX0DwO0+H8sXwtT8vcZHs2vbp9vfLIsZbQFm8dhHVt384/P1NXgTum4S3Ss1gtd/nwsmsUxouc4tnDr59xPs0TymmxtQQ3YG0sdJ0/3H6cX//r4zKXP69f82MPHOSLuf9TmSfkmnJ+xXiLsfoTeHn8+/JWzqP+scyxvF5r+M3ITWmbo0bGrWvmtJg1v2DxSx5ujF8x+ULUOGUN7xHjRROEtPK25G/UWNcJCvo8pD5r9YF8Pb8zlrBinMMmOFfr6YL/Ach4RCnoOWc5AAAAAElFTkSuQmCC>
