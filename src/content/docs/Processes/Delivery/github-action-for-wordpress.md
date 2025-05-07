@@ -11,23 +11,25 @@ in order to implement CI/CD in any of the WordPress projects.
 
 CI/CD automates your builds, and deployment so you can ship code changes faster and more reliably.
 
-# General Information
-**Platform**
+## General Information
+
+### Platform
 
 The platform supported by the below scripts can run only on GitHub since the below scripts are using GitHub action to achieve CI/CD.
 
+### Prerequisite
 
-**Prerequisite**
 - A GitHub account
 - Repository/Project on GitHub (always private for client projects)
 - Necessary Permissions on the repository to store some SECRET KEYS _(like: SECURITY_AWS_ACCESS_KEY, SECURITY_AWS_SECRET_ACCESS_KEY, SSH_PRIVATE_KEY, etc)_ in - Github (for more details connect with the IT team)
 - Access to the hosting/control panel to extract the server details and the Private keys etc.
 - SSH should be enabled/supported by the hosting provider
 
+### Architecture
 
-**Architecture** 
-*File & Folder Structure*
-    
+#### File & Folder Structure
+
+```
     ├── .github
     │   └── workflows
     │       ├── prod.yml
@@ -38,9 +40,10 @@ The platform supported by the below scripts can run only on GitHub since the bel
     │   └── plugins
     ├── .gitignore
     └── README.md
-
+```
 
 ## Why CI/CD?
+
 The short answer would be - Speed.
 While faster development is the most well-known benefit of CI/CD, continuous integration and continuous delivery pipeline enable much more.
 
@@ -50,17 +53,17 @@ While faster development is the most well-known benefit of CI/CD, continuous int
 
 [Learn more about the benefits of CI/CD](https://resources.github.com/webcasts/Devops-collaboration-GitHub-Actions-thankyou/)
 
-
 ## How to build a CI/CD pipeline
+
 Build a CI/CD pipeline with GitHub Actions
 [Learn more](https://github.blog/2022-02-02-build-ci-cd-pipeline-github-actions-four-steps/)
 
 Key advantages of using GitHub Actions for CI/CD pipelines
+
 - CI/CD pipeline set-up is simple
 - Respond to any webhook on GitHub
 - Community-powered, reusable workflows
 - Support for any platform, any language, and any cloud
-
 
 [Learn more about](https://youtu.be/5MJRtldPOEI)  how to start a CI pipeline with Github Actions
 
@@ -183,12 +186,9 @@ jobs:
          ./ ${{env.dest}}:[PROJECT_PATH]
        ssh -i ./deploy_key -o StrictHostKeyChecking=no ${{env.dest}} 'rm -r [FOLDER_PATH_OF_CACHE] -f'
 ```
-<br />
 
 For more information about the GitHub Action please visit this [link](https://github.blog/2021-11-04-10-github-actions-resources-basics-ci-cd/)
 Documentation for GitHub Action: [link](https://docs.github.com/en/actions)
-
-
 
 Here is the high-level summary/understanding of the above code (github _[link](https://github.com/axioned/axioned-wordpress-starter/blob/main/.github/workflows/dev.yml))_:
 
