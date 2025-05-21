@@ -1,30 +1,91 @@
 ---
-id: git-checklist
-title: GIT Code Review Checklist
+id: code-review-checklist
+title: Code Review Checklist
 sidebar:
   label: Code Review Checklist
   order: 2
-tags: [git, git checklist, commit, branch]
+tags: [git, code review, checklist]
 ---
 
-# Checklist Pointers
+This checklist serves as a comprehensive guide for code reviews at Axioned. Following these guidelines ensures consistent code quality, maintainable codebase, and efficient collaboration across teams.
 
-Sr No. | Check |
-:----: | ----- |
-1 |	PR description should be proper.
-2 |	Integration branch for conflicts.
-3 |	Commits should be descriptive and according to the task/bug.
-4 |	Make sure no dist files, editor/IDE files, etc are checked in. There should be a .gitignore for that.
-5 |	No commented code should be present while committing the code.
-6 |	Remove console logs while committing.
-7 |	Commits are small and divided into logical parts.
-8 |	Make sure code is rebased before merging to maintain history.
-9 |	Branching name in the agile should be based on the ticket name.
-10 |	Commits should be more descriptive in terms of whether its bug, enhancement, issue fixes, and ticket number. For example: if it is a bug, `[bug] a description of the bug fixed`.
-11 |	Make sure the code that your are committing is formatted correctly. For formatting you  can used extensions such as Prettier if you're using VS code as IDE.
-12 |	If there is a need of commented code please add TODO and then push on the repo.
-13 |	Make sure that you do not provide much file changes for PR> If you are building a bigger functionality use atomic commits and send it for review. 
+This checklist is for both the PR author and the reviewer.
 
-:::tip[Git Checklist]
-Git Checklist reference link can be found [**here**](https://docs.google.com/spreadsheets/d/1kbpSVE_ysY8Is5qvuWfCDTTTMp_Wtt5js7FBZzqGODk/edit#gid=1533928750).
-:::
+We can adapt this checklist to the needs of the project or our clients.
+
+## Pull Request (PR) Standards
+
+- Write clear, descriptive PR titles and descriptions
+- Include relevant ticket/issue numbers in the title (e.g. `feat: add rate limits (AX-123)`)
+- Description should include:
+  - Summary of the changes (if not obvious from the title)
+  - Document any breaking changes
+  - Add screenshots for UI changes (if applicable)
+  - List testing steps and expected outcomes (if applicable)
+
+## Branch Management
+
+- Create branches from the latest `main`
+- Use consistent branch naming: `type/short-description` or  `type/ticket-number-short-description`
+  - Types: `feat`, `fix`, `docs`, `style`, `refactor`, `test`, `chore`
+- Keep branches up-to-date with `main`
+- Delete branches after merging (configured on GitHub in the repository settings)
+
+## Commit Standards
+
+- Write clear, descriptive commit messages.
+- Use [conventional commit](https://www.conventionalcommits.org/) format: `type(scope): description`
+  - Scope is optional
+  - Types: `feat`, `fix`, `docs`, `style`, `refactor`, `test`, `chore`
+  - Examples:
+    - `feat: add rate limits on API endpoints`
+    - `feat(auth): add login functionality`
+    - `fix: handle null values in API response`
+    - `docs: update installation instructions`
+    - `style: improve button styling`
+    - `refactor: extract helper functions`
+    - `test: add test for login component`
+    - `chore(deps): update dependencies`
+- Keep commits atomic and focused
+- Include ticket numbers in commit messages
+- Squash commits when appropriate (e.g. if there are multiple commits that don't need to be in the history)
+
+## Code Quality
+
+- Follow project coding standards
+- Use Prettier/ESLint for consistent formatting
+  - Most Axioned repositories use [@axioned/prettier-config](https://www.npmjs.com/package/@axioned/prettier-config).
+- Remove all console.logs and debug code
+- No commented-out code (use `TODO:` comments if needed)
+- Write meaningful comments for complex logic
+- All applicable projects have Typescript
+- Keep functions small and focused
+- Consider using [JSDoc](https://www.typescriptlang.org/docs/handbook/jsdoc-supported-types.html) for more complex functions and classes
+- Follow DRY (Don't Repeat Yourself) principle
+
+## File Management
+
+- Maintain proper `.gitignore` configuration
+- Don't commit:
+  - Build artifacts (`dist`, `build`)
+  - Dependencies (`node_modules`)
+  - Environment files (`.env`)
+  - IDE/editor files (`.vscode`, `.idea`)
+  - Log files
+  - Cache directories
+
+## Review Process
+
+- Keep PRs small and focused (e.g. don't mix refactoring with new features)
+- Break large features into smaller PRs
+- Address review comments promptly
+- Ensure CI/CD checks pass (e.g. linting, tests)
+- Test changes locally before requesting review
+- Update documentation if needed
+
+## Security
+
+- Don't commit sensitive data
+- Review and regularly update third-party dependencies
+- Validate user inputs
+- Handle errors appropriately
