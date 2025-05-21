@@ -1,12 +1,14 @@
 {
   "name": "handbook",
-  "version": "0.0.1",
+  "version": "1.0.0",
+  "author": "Axioned",
   "type": "module",
   "scripts": {
     "astro": "astro",
     "build": "astro build",
     "dev": "astro dev",
     "preview": "astro preview",
+    "clean": "git clean -xdf node_modules .astro dist .scannerwork",
     "sonar-scanner": "sonar-scanner",
     "start": "astro dev"
   },
