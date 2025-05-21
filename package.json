@@ -6,9 +6,10 @@
   "scripts": {
     "astro": "astro",
     "build": "astro build",
-    "dev": "astro dev",
-    "preview": "astro preview",
     "clean": "git clean -xdf node_modules .astro dist .scannerwork",
+    "dev": "astro dev",
+    "format": "prettier --write \"**/*.{md,mdx,astro,ts,cjs,js,jsx,tsx}\"",
+    "preview": "astro preview",
     "sonar-scanner": "sonar-scanner",
     "start": "astro dev"
   },
@@ -18,7 +19,7 @@
     "sharp": "^0.34.2"
   },
   "devDependencies": {
-    "prettier": "^3.5.3",
+    "@axioned/prettier-config": "^1.0.7",
     "prettier-plugin-astro": "^0.14.1"
   }
 }
