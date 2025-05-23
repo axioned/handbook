@@ -22,6 +22,7 @@ We can adapt this checklist to the needs of the project or our clients.
   - Document any breaking changes
   - Add screenshots for UI changes (if applicable)
   - List testing steps and expected outcomes (if applicable)
+  - Include notes on any required deployment steps or infrastructure changes (if applicable)
 
 ## Branch Management
 
@@ -62,6 +63,8 @@ We can adapt this checklist to the needs of the project or our clients.
 - Keep functions small and focused
 - Consider using [JSDoc](https://www.typescriptlang.org/docs/handbook/jsdoc-supported-types.html) for more complex functions and classes
 - Follow DRY (Don't Repeat Yourself) principle
+- Write clear comments explaining business logic that isn’t self-evident
+- Link to references in comments where appropriate (e.g. documentation, stackoverflow, github issues, etc.)
 
 ## File Management
 
@@ -69,7 +72,7 @@ We can adapt this checklist to the needs of the project or our clients.
 - Don't commit:
   - Build artifacts (`dist`, `build`)
   - Dependencies (`node_modules`)
-  - Environment files (`.env`)
+  - Environment files, secret credentials or key files (e.g. `.env`, `.key`, `.pem`, etc.)
   - IDE/editor files (`.vscode`, `.idea`)
   - Log files
   - Cache directories
