@@ -1,22 +1,30 @@
 {
   "name": "handbook",
-  "version": "0.0.1",
+  "version": "1.0.0",
+  "author": "Axioned",
   "type": "module",
   "scripts": {
     "astro": "astro",
     "build": "astro build",
+    "clean": "git clean -xdf node_modules .astro dist .scannerwork",
     "dev": "astro dev",
+    "format": "prettier --write \"**/*.{md,mdx,astro,ts,cjs,js,jsx,tsx}\"",
     "preview": "astro preview",
     "sonar-scanner": "sonar-scanner",
     "start": "astro dev"
   },
   "dependencies": {
-    "@astrojs/starlight": "^0.34.2",
-    "astro": "^5.7.11",
-    "sharp": "^0.34.1"
+    "@astrojs/starlight": "^0.34.3",
+    "astro": "^5.7.13",
+    "sharp": "^0.34.2"
   },
   "devDependencies": {
-    "prettier": "^3.5.3",
+    "@axioned/prettier-config": "^1.0.7",
     "prettier-plugin-astro": "^0.14.1"
+  },
+  "packageManager": "pnpm@10.11.0",
+  "engines": {
+    "node": ">=22.x",
+    "pnpm": ">=9.x"
   }
 }

@@ -5,7 +5,7 @@ sidebar:
   order: 1
 ---
 
-We take inspiration on our Technology Roadmap/Radar from [Thoughtworks](https://www.thoughtworks.com/radar/faq#).
+We take inspiration on our Technology Roadmap/Radar from [Thoughtworks](https://www.thoughtworks.com/radar/faq).
 
 ### Adopt
 
@@ -25,6 +25,9 @@ We take inspiration on our Technology Roadmap/Radar from [Thoughtworks](https://
   - [Tanstack Query](https://tanstack.com/query)
   - [Zod](https://zod.dev/)
   - [Zustand](https://zustand-demo.pmnd.rs/)
+  - [Better Auth](https://www.better-auth.com/)
+  - [Express](https://expressjs.com/)
+  - [Hono](https://hono.dev/)
 - DevOps & Automation
   - [GitHub Actions](https://docs.github.com/en/actions)
 - Database & Storage
@@ -77,11 +80,11 @@ We take inspiration on our Technology Roadmap/Radar from [Thoughtworks](https://
 - Frameworks and Libraries
   - [Partytown](https://partytown.builder.io/)
   - [Ruby on Rails](https://rubyonrails.org/)
-  - [T3 Stack](https://create.t3.gg/)
-  - [Better Auth](https://www.better-auth.com/)
+  - [trpc](https://trpc.io/)
+  - [Turborepo](https://turborepo.com/)
 - AI/Generative AI
-  - [CrewAI - Python framework](https://www.crewai.com/)
-  - [PydanticAI - Python framework](https://ai.pydantic.dev/)
+  - [CrewAI](https://www.crewai.com/) (Python)
+  - [PydanticAI](https://ai.pydantic.dev/) (Python)
   - [Cloudflare Agents](https://developers.cloudflare.com/agents/)
 - Low-code/No-code platforms
   - [n8n](https://n8n.io/)
@@ -96,9 +99,9 @@ We take inspiration on our Technology Roadmap/Radar from [Thoughtworks](https://
 
 - Frameworks and Libraries
   - [Ruby on Rails](https://rubyonrails.org/)
+  - [SST](https://sst.dev/)
 - AI/Generative AI
   - [Replicate](https://www.replicate.com/)
-  - [SST](https://sst.dev/)
 
 ### Hold
 
@@ -106,10 +109,10 @@ We take inspiration on our Technology Roadmap/Radar from [Thoughtworks](https://
 - [Microfrontends](https://micro-frontends.org/)
 - [Redux Toolkit](https://redux-toolkit.js.org/)
 - [Ionic Framework](https://ionicframework.com/)
+- [Web Components](https://developer.mozilla.org/en-US/docs/Web/Web_Components)
 
 ### Backlog
 
 - [Terraform](https://www.terraform.io/)
 - [Vite](https://vitejs.dev/)
-- [Web Components](https://developer.mozilla.org/en-US/docs/Web/Web_Components)
 - Form abandonment tracking (debate)
