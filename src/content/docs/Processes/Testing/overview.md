@@ -82,7 +82,7 @@ Activities performed:
 
 | Priority               | Definition                                                                 | Examples                                                                                          |
 |------------------------|----------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
-| Blocker (aka Showstopper) | 1. Site/App outage<br>2. Order flow or vital business process is broken<br>3. Security issues<br>4. A major loss of revenue to the Client<br>5. A major impact to the Client or its affiliates’ reputation(s) | 1. Site/App is unavailable and cannot be accessed<br>2. No order capturing<br>3. No payment processing<br>4. Critical security issues |
+| Blocker (aka Showstopper) | 1. Site/App outage<br>2. Order flow or vital business process is broken<br>3. Security issues<br>4. A major loss of revenue to the Client<br>5. A major impact to the Client or its affiliates' reputation(s) | 1. Site/App is unavailable and cannot be accessed<br>2. No order capturing<br>3. No payment processing<br>4. Critical security issues |
 | P1–Critical            | Specific functionality is completely unavailable, severely corrupted or degraded for a large number of users | 1. File loads necessary for pricing or product management are not loading<br>2. Cannot make updates from the content management system administration module<br>3. User registration process is not working<br>4. Broken search |
 | P2 – Major             | Functionality failure with a workaround available in place                 | 1. Features or functionalities are unavailable as desired but workaround is available<br>2. Third-party integrations are working, but failing occasionally |
 | P3–Minor               | Minor business functionality failure with little or no end-user impact. Default issue prioritization in Google sheet/JIRA. | 1. User interface anomalies occur but these do not prevent end-users from using the Site/App<br>2. Files are missing from a secure FTP Site/App or other drop-off processes which do not impact delivery of business services |
@@ -108,19 +108,19 @@ Alternatively, we can help set these up on platforms like Confluence, TestRail o
 
 ### Functionality Testing
 
-**When to perform:** Once all the modules have been unit tested, integrated and smoke testing has been given a “pass”.
+**When to perform:** Once all the modules have been unit tested, integrated and smoke testing has been given a "pass".
 
 **Scope:** To fully test the Site/App against the scope of work/ticket/task.
 
-**Methods Used:** Various inputs will be entered to validate the output - positive inputs and negative inputs. Edge testing inclusive. See also “Testing Prompters: Functionality Testing”, below.
+**Methods Used:** Various inputs will be entered to validate the output - positive inputs and negative inputs. Edge testing inclusive. See also "Testing Prompters: Functionality Testing", below.
 
 ### UI (User Interface) Testing
 
-**When to perform:** Once smoke testing has been given a “pass” and is carried out in parallel with the functionality testing.
+**When to perform:** Once smoke testing has been given a "pass" and is carried out in parallel with the functionality testing.
 
 **Purpose:** To verify that there are no UI errors in comparison with what the team imagined the UI would look/feel like (design files).
 
-**Methods Used:** Switching back and forth between the design files given (and/or existing Live UI experience to reference). See also “Testing Prompters: UI Testing”, below.
+**Methods Used:** Switching back and forth between the design files given (and/or existing Live UI experience to reference). See also "Testing Prompters: UI Testing", below.
 
 ### Compatibility (Responsive) Testing
 
@@ -128,7 +128,7 @@ Alternatively, we can help set these up on platforms like Confluence, TestRail o
 
 **Purpose:** To verify that the Site/App is responsive and functions properly on various devices/screen sizes.
 
-**Methods Used:** Observe the respective URL (s) on the browsers/devices outlined as a priority in the Test Case(s) and/or in general of the project scope. See also “Testing Prompters: Compatibility Testing”, below.
+**Methods Used:** Observe the respective URL (s) on the browsers/devices outlined as a priority in the Test Case(s) and/or in general of the project scope. See also "Testing Prompters: Compatibility Testing", below.
 
 ### Retesting
 
@@ -150,7 +150,7 @@ Alternatively, we can help set these up on platforms like Confluence, TestRail o
 
 **When to perform:** After completion of retesting.
 
-**Purpose:** To verify that fixes haven’t affected other areas of the site/app.
+**Purpose:** To verify that fixes haven't affected other areas of the site/app.
 
 **Methods Used:** Randomly test against the scope of work/ticket/task, as well as randomly test some additional issues reported previously as fixed.
 
@@ -184,7 +184,7 @@ These are additional testing strategies that can be used based on the project re
 - We need to be pragmatic about the value addition of these tests.
 - We are not rushing for a rigid or an objective x% coverage.
 - The goal is to automate what we should so that we can use the remaining time for higher value things.
-- We don’t want to add or create more work for someone else while we do this.
+- We don't want to add or create more work for someone else while we do this.
 
 **Methods Used:**
 
@@ -202,7 +202,7 @@ These are additional testing strategies that can be used based on the project re
 
 ### Google Analytics (GA) Testing
 
-**When to perform:** Once Integration testing (functionality + UI) has been given a “pass”.
+**When to perform:** Once Integration testing (functionality + UI) has been given a "pass".
 
 **Purpose:** To track click events, user traffic, and user interaction on the site.
 
@@ -210,15 +210,15 @@ These are additional testing strategies that can be used based on the project re
 
 ### Client UAT (User Acceptance Testing)
 
-**When to perform:** Once Axioned QA has been given a “pass” and the Axioned PM has notified the Client PM (central point of contact/product owner) that Client UAT can be commenced.
+**When to perform:** Once Axioned QA has been given a "pass" and the Axioned PM has notified the Client PM (central point of contact/product owner) that Client UAT can be commenced.
 
 **Purpose:** To support go-live approval.
 
 **Expectations/Methods to be used:**
 
 - Management of Client UAT and creation of Client UAT test cases is the responsibility of the Client. Unless indicated in writing otherwise, upfront (at the start of the engagement).
-- Axioned will hand-over the solution to the Client for User Acceptance Testing (UAT). This is when the Client will review and ensure that it meets the Client’s requirements (documented at an earlier stage in the project).
-- Before Client UAT begins, Axioned will set up and provide access to an issue logging tool/google sheet and instruct the Client (through the format of an example issue) re: expected entry and formatting of logging issues, so that the Axioned team can easily reproduce the problem and fix/re-test. The Client is expected to identify and remove any duplicate issues they might have identified and logged before “submitting” to Axioned.
+- Axioned will hand-over the solution to the Client for User Acceptance Testing (UAT). This is when the Client will review and ensure that it meets the Client's requirements (documented at an earlier stage in the project).
+- Before Client UAT begins, Axioned will set up and provide access to an issue logging tool/google sheet and instruct the Client (through the format of an example issue) re: expected entry and formatting of logging issues, so that the Axioned team can easily reproduce the problem and fix/re-test. The Client is expected to identify and remove any duplicate issues they might have identified and logged before "submitting" to Axioned.
 - Client UAT includes the Client validating fixes for previously logged issues.
 - Significant issues identified during Client UAT in the areas of performance or code review will be addressed by Axioned. Axioned will support this process and work with the Client team to prioritise and facilitate any reasonable changes.
 
@@ -228,21 +228,21 @@ We use a blend of actual/physical devices as well as real devices through Cloud 
 
 Please refer to the matrix below for device priorities:
 
-| OS           | Device                    | Chrome   | Edge      | Firefox   | Safari    |
-|--------------|---------------------------|----------|-----------|-----------|-----------|
-| Windows 11   | Windows Laptop            | P1 | P1 | P2 | -         |
-| MacOS        | Macbook                   | P1 | -         | P2 | P1|
-| iOS (17,18) | iPhone 16 series         | P1 | -         | -         | P1|
-| iOS (17,18) | iPhone 14 or 15 series       | P2 | -         | -         | P2|
-| iOS (17,18) | iPhone 13 or 12 series         | P3 | -         | -         | P3|
-| iOS (17,18)| iPhone SE (3rd)           | P1 | -         | -         | P1|
-| iPad OS (18)| iPad Pro 12.9-inch (5th generation) | P3 | -         | -         | P1|
-| iPad OS (18)| iPad Pro 11-inch (4th generation)| P3 | -         | -         | P2|
-| iPad OS (18)| iPad Air 11-inch (M2, 2024)| P3 | -         | -         | P1|
-| Android 14 & 15  | Samsung Galaxy S25+         | P1 | -         | -         | -         |
-| Android 14 & 15  | Google Pixel 9           | P1 | -         | -         | -         |
-| Android 14 & 15       | Samsung Galaxy S24| P2 | -         | -         | -         |
-| Android 14 & 15       | Google Pixel 8 | P2 | -         | -         | -         |
+| OS             | Device                    | Chrome   | Edge      | Firefox   | Safari    |
+|----------------|---------------------------|----------|-----------|-----------|-----------|
+| Windows 11     | Windows Laptop            | P1       | P1        | P2        | -         |
+| MacOS          | Macbook                   | P1       | -         | P2        | P1        |
+| iOS (17,18)    | iPhone 16 series          | P1       | -         | -         | P1        |
+| iOS (17,18)    | iPhone 14 or 15 series    | P2       | -         | -         | P2        |
+| iOS (17,18)    | iPhone 13 or 12 series    | P3       | -         | -         | P3        |
+| iOS (17,18)    | iPhone SE (3rd)           | P1       | -         | -         | P1        |
+| iPad OS (18)   | iPad Pro 12.9" (5th gen)  | P3       | -         | -         | P1        |
+| iPad OS (18)   | iPad Pro 11" (4th gen)    | P3       | -         | -         | P2        |
+| iPad OS (18)   | iPad Air 11" (M2, 2024)   | P3       | -         | -         | P1        |
+| Android 14 & 15| Samsung Galaxy S25+       | P1       | -         | -         | -         |
+| Android 14 & 15| Google Pixel 9            | P1       | -         | -         | -         |
+| Android 14 & 15| Samsung Galaxy S24        | P2       | -         | -         | -         |
+| Android 14 & 15| Google Pixel 8            | P2       | -         | -         | -         |
 
 Additional References:
 
@@ -255,11 +255,11 @@ Additional References:
 
 #### Functionality Issues
 
-- Ensuring that the functioning of all custom functions is working as defined within the Client’s Deliverables & Dependencies.
+- Ensuring that the functioning of all custom functions is working as defined within the Client's Deliverables & Dependencies.
 - Ensure that the functioning of all menu items, links, buttons, etc. work as expected/directed.
 - Ensure that the execution of specific functions do not cause any other issues within the page/Site/App.
   e.g. Clicking on "About" within the menu, should take the user to the "About" page, and NOT produce any other results.
-  e.g. The “on-click” event should NOT cause any alignment issues within the current page or "About" page.
+  e.g. The "on-click" event should NOT cause any alignment issues within the current page or "About" page.
   e.g. In-page links should either jump to the relevant portion within the page - or open up a new tab.
 
 #### CMS Admin Experience Issues
@@ -282,8 +282,8 @@ ii. [brokenlinkcheck.com](https://www.brokenlinkcheck.com/)
 
 #### Site/App Speed
 
-- Is the load speed acceptable from a user’s perspective across all devices? (Benchmarks: Facebook. See: (Care of Google) [How Speed Impacts the User Experience.](http://googleresearch.blogspot.in/2009/06/speed-matters.html))
-- What is the Site/App’s speed?
+- Is the load speed acceptable from a user's perspective across all devices? (Benchmarks: Facebook. See: (Care of Google) [How Speed Impacts the User Experience.](http://googleresearch.blogspot.in/2009/06/speed-matters.html))
+- What is the Site/App's speed?
   - [Google Page Speed](https://developers.google.com/speed/pagespeed/insights/): Target 80% or above
 - Lighthouse/Web Vitals audit also returns additional checks such as Accessibility, which shall be captured.
 - More on core web vitals-[here](https://docs.google.com/document/d/19ZJQbqp5xIs-AzoOg-eHVPLRcArR6E_3X6GVGbggwK8/edit).
@@ -298,13 +298,13 @@ ii. [brokenlinkcheck.com](https://www.brokenlinkcheck.com/)
 
 **On Desktop browsers:**
 
-- Emails should open up default/user’s email client.
-- Telephone numbers should open up Skype (if installed). Otherwise remain inactive (depending on the Client’s desired experience/what’s documented in the SOW).
+- Emails should open up default/user's email client.
+- Telephone numbers should open up Skype (if installed). Otherwise remain inactive (depending on the Client's desired experience/what's documented in the SOW).
 
 **On Mobile browsers:**
 
-- Emails should open up default/user’s email client.
-- Telephone numbers should initiate the phone call process on the user’s phone.
+- Emails should open up default/user's email client.
+- Telephone numbers should initiate the phone call process on the user's phone.
 
 #### Form Issues
 
@@ -312,23 +312,23 @@ ii. [brokenlinkcheck.com](https://www.brokenlinkcheck.com/)
 
 **Mandatory Fields:**
 
-- Ensure that it's clear to the user WHAT fields are mandatory. (For example: The field is starred *or highlighted in some way.* If starred, there should be a reference message as to what this star means. E.g. “This field is mandatory.”)
-- Ensure that the appropriate “alert” message appears on-screen if the user does not “fill-in” a mandatory field (ideally DURING the user experience/next to the field as opposed to “on Submit”).
+- Ensure that it's clear to the user WHAT fields are mandatory. (For example: The field is starred *or highlighted in some way.* If starred, there should be a reference message as to what this star means. E.g. "This field is mandatory.")
+- Ensure that the appropriate "alert" message appears on-screen if the user does not "fill-in" a mandatory field (ideally DURING the user experience/next to the field as opposed to "on Submit").
 
 **All Fields:**
 
-- Ensure that it's been indicated to the user, what kind of entry they’re expected to make within each field. (For example: The field might be a calendar, whereby a date before a certain date or after a certain date can not be selected.)
-- Ensure that the appropriate “alert” message appears if the user does not provide an appropriate entry for each field  (ideally DURING the user experience as opposed to “on Submit”).
+- Ensure that it's been indicated to the user, what kind of entry they're expected to make within each field. (For example: The field might be a calendar, whereby a date before a certain date or after a certain date can not be selected.)
+- Ensure that the appropriate "alert" message appears if the user does not provide an appropriate entry for each field  (ideally DURING the user experience as opposed to "on Submit").
 
 **Alert/Error Messages:**
 
-- Ensure that the alert messages match-up with what's been documented in terms of “form requirements”*.
+- Ensure that the alert messages match-up with what's been documented in terms of "form requirements"*.
 If there are any CAPTCHA fields, ensure that they are working as expected.
 - Form Errors: Alert/Error Messages: Ensure that there are no appearance related issues. Font style, color, alignment, spacing, position, wrapping, overlapping issues, pop-up appearance issues, etc.
 
  **Confirmation Emails:**
 
-- Ensure that the confirmation email(s) related to any forms on the Site/App match-up with what's in the “form requirements”*. (Usually, confirmation emails are sent to 1. the user, 2. the Site/App Admin.)
+- Ensure that the confirmation email(s) related to any forms on the Site/App match-up with what's in the "form requirements"*. (Usually, confirmation emails are sent to 1. the user, 2. the Site/App Admin.)
 
 #### Plugin and API Behavior Issues
 
@@ -407,7 +407,7 @@ To ensure the implementation is functioning correctly, providing accurate data f
 - Make sure the text is easily visible/readable.
 - Small font sizes may look OK in the .PSD file, but may not be easily visible/readable when presented on the site/app.
 
-*Note: Some fonts may not be able to render in exactly the same way across all devices/browsers. In this scenario, ensure you understand WHICH device/browser is of priority to the Client (as per the “Testing Requirements and Priorities” as documented in the SOW). Consult your PM for priorities.*
+*Note: Some fonts may not be able to render in exactly the same way across all devices/browsers. In this scenario, ensure you understand WHICH device/browser is of priority to the Client (as per the "Testing Requirements and Priorities" as documented in the SOW). Consult your PM for priorities.*
 
 **Spelling Errors:**
 
@@ -417,7 +417,7 @@ Highlight any spelling errors, even if the mistakes are also in the Copy deck.
 
 Ensure that the text on each page matches up with what's in the Copy deck/what's been directed. (Unless the Copy deck contains a spelling error. See above.)
 
-*Note for Axioned Team: The team SHOULD have a separate Copy deck document - in a .doc or Google doc format. And we SHOULD directly copy/paste from that document ONLY. To check that what you’ve copied is accurate: Ctrl C (COPY), Ctrl F (FIND/within your document or page), Ctrl V (PASTE/within “Find”).*
+*Note for Axioned Team: The team SHOULD have a separate Copy deck document - in a .doc or Google doc format. And we SHOULD directly copy/paste from that document ONLY. To check that what you've copied is accurate: Ctrl C (COPY), Ctrl F (FIND/within your document or page), Ctrl V (PASTE/within "Find").*
 
 **Image Quality Issues:**
 
