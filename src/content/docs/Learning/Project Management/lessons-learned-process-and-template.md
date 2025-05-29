@@ -1,13 +1,12 @@
 ---
-id: axioned-communication guideline
-title: Communication Guidelines
+id: lessons-learned
+title: Lessons Learned
 sidebar:
-  label: Communication Guidelines
+  label: Lessons Learned
   order: 3
-tags: [Lessons, Lesson Learned]
+tags: [Lessons, Lesson Learned, Retrospective]
 ---
 
-# Lessons Learned
 ## What?
 
 Lessons learned are an informal conversation where you look at a project in retrospect. It is done after project completion,\* usually conducted as a meeting involving the project team and key stakeholders ( may include clients as applicable). During the lessons learned meetings, everyone shares their perspective on what they thought about the project, what they would have changed, what they learned and what could have been done better.
@@ -24,17 +23,15 @@ Lessons learned meetings are performed for three reasons:
 
 ## Watch out?
 
-It should be clear that lessons learned meetings are **NOT** a forum for people to vent their anger.
+It should be clear that lessons learned meetings are **not** a forum for people to vent their anger.
 
-##
+## How to conduct a Lessons Learned meeting
 
-## How to conduct a Lessons Learned meeting:
-
-## Step 1- Welcome the Team
+### Welcome the Team
 
 Start off by welcoming the team. Then move on to explaining the purpose of a lessons learned workshop. You should have gotten enough ideas from this article.
 
-## Step 2- Explain the Rules
+### Explain the Rules
 
 Explain the rules to the attendees. Everybody is asked to give their feedback on the following questions:
 
@@ -49,7 +46,7 @@ Rules:
 - Avoid personal attacks or naming names. If somebody wants to complain about a specific individual, they can use the title instead, e.g. saying _'the QA'_ instead of _John Doe_.
 - Everymember of the team mandatorily identifies a set of items for self which can be done in a better way in future.
 
-## Step 3- Gather Feedback
+### Gather Feedback
 
 Use the template provided below to gather/record feedback.
 
@@ -58,7 +55,7 @@ Right attitude for all members attending the meeting
 - **Don't dwell on past mistakes:** Shift your focus away from whatever bad things have happened and focus instead on things you have learned (and the things that went well).
 - **Be open to learn:** Accept you may not know the best approach for everything. There may be better ways to plan or to conduct certain project tasks. If you're willing to learn, you will become better. And that's the key. Lack of willingness to introspect is a clear signal for failure in terms of project as well as an individual contributor.
 
-## Step 4- Identify action items and broadcast to the wider audience
+### Identify action items and broadcast to the wider audience
 
 The action items can be at individual level, team level, organization level. Once the action items are identified, share/broadcast to the wider audience (Project Management, QA, Tech Leads, Management) in the internal project closure emails.
 
@@ -69,7 +66,6 @@ In case of retainers, the lessons learned can be broadcasted on a regular freque
 _Sub:_[Internal]Lesson Learned: _\<Name of the project\>_
 
 - Add the identified actions in comment/consolidated sheet- [Here](https://docs.google.com/spreadsheets/d/1PcvLQbPozLndFhNPNJ-NA4y6KvEXyHpL9Pxu5hrwEe0/edit#gid=0)
-
 
 ## Lessons Learned Template
 

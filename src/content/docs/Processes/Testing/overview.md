@@ -312,7 +312,7 @@ ii. [brokenlinkcheck.com](https://www.brokenlinkcheck.com/)
 
 **Mandatory Fields:**
 
-- Ensure that it's clear to the user WHAT fields are mandatory. (For example: The field is starred* or highlighted in some way. *If starred, there should be a reference message as to what this star means. E.g. “This field is mandatory.”)
+- Ensure that it's clear to the user WHAT fields are mandatory. (For example: The field is starred *or highlighted in some way.* If starred, there should be a reference message as to what this star means. E.g. “This field is mandatory.”)
 - Ensure that the appropriate “alert” message appears on-screen if the user does not “fill-in” a mandatory field (ideally DURING the user experience/next to the field as opposed to “on Submit”).
 
 **All Fields:**

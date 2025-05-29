@@ -7,53 +7,43 @@ sidebar:
 
 ---
 
-We optimize, scale, and build digital experiences that drive growth. We partner with 2 Ideal Client Profiles (ICPs).
+Our team at Axioned specializes in digital engineering; helping businesses build, optimize, and scale digital user experiences. Whether it’s a website or application (app) - we bring ideas to life and help existing businesses grow. We typically work with/partner with the following ICPs (Ideal Client Profiles)...
 
-## Ideal Client Profiles (ICPs)
+## ICP #1 - High-Growth Consumer Services Businesses Dependent on Web Lead Gen for Growth
+- Businesses that rely on - and invest in - their website as a critical lead generation and conversion engine.
+- Often already investing in sales and marketing tactics (ads, SEO, etc.) to drive users to their site and are therefore invested in ensuring such users convert.
+-	Axioned steps in as a trusted & skilled technology partner to keep their website(s) and marketing/integrated tech (e.g., CRM) fast, functional, and conversion-optimized.
+- The relationship (Axioned x Client) is typically structured as ongoing monthly support for website maintenance, performance optimization, and iterative enhancements. As needs evolve, Axioned often leads efforts like site redesigns, CRM/tool integrations, data workflows, site analytics, and/or SEO improvements.
 
-### High-Growth Consumer Services Businesses
+**Client pain points (the problem we're solving):**
+1. Website is underperforming and losing leads due to low conversions, poor UX, slow speed, weak CRM/data workflows, or SEO issues.
+2. Existing tech partner or team can’t match the required pace or delivery velocity.
 
-- These businesses rely on their website as a critical lead generation and conversion engine.
-- Axioned provides ongoing optimization, maintenance, and enhancements to ensure their websites stay fast, functional, and conversion-ready.
-- We'll often support site redesigns and rebuilds also.
+***Note:*** *We’re often referred to such clients by agency partners—creative, branding, and ad shops—who trust us as a tech partner to deliver on "all things tech." We welcome and encourage these partnerships. Interested in joining our agency partner program? [Contact Libby](https://www.linkedin.com/in/libby-swan-axioned-enabling-digital-endeavours/).*
 
-**Common client pain points that Axioned can address/support:**
+## ICP #2 - Innovators: Stand-alone or In-house
+- Product teams that are starting or scaling, and need a trusted partner to either:
+  - bring their POC/MVP to life (often leveraging AI tools like Cursor, GitHub Co-Pilot, Replit), or
+  - scale an existing digital product or platform.
 
-- Website underperforming despite high ad spend (low conversions, slow load times).
-- Struggling to manage web updates internally.
-- Current tech partner is slow or lacks expertise in scaling their digital presence.
-- Losing leads due to poor UX, slow page speed, or SEO issues.
+**Client pain points (the problem we're solving):**
+1. Moving too slowly to validate and iterate—losing time, feedback, and momentum.
+2. Restricted in-house tech expertise to execute at the desired pace/velocity.
 
-### Innovators Scaling from 0 to 1 and Beyond
-
-- Startups and product teams need a trusted partner to bring their POC/MVP to life or scale an existing digital product.
-- Axioned combines experience and expertise with a practical, iterative approach, ensuring rapid development while maintaining long-term scalability.
-
-**Common client pain points that Axioned can address/support:**
-
-- Slow MVP Launch - Delays in development slow down validation and market entry.
-- No In-House Tech Expertise - They have a vision but lack the right technical team.
-- Scalability Issues - Poor early architecture makes growth costly and complex.
-- Budgetary restrictions; want to/need to iterate in a financially responsible way.
+## How do we work with our Clients?
+- We prefer to work on a monthly retainer model providing continuous/dedicated support to drive continuous improvement.
+- We also work on project (SOW - Scope of Work) basis.
 
 ## Why Axioned?
+- We are responsible, agile, human-centered, and collaborative problem solvers.
+- We walk, talk, and live by our [Core Values](/playbook/core-values/).
+- We're experts in performance optimization, tech-stack modernization, and bridging tech-skill gaps.
+- We excel in/enjoy working with JavaScript-driven frameworks and technologies.
 
-- We are responsible, agile, human-centered, and collaborative problem solvers. We take ownership, act with accountability, and adapt quickly with a solutions-first mindset—we live our - Core Values.
-- For high-growth businesses: We're experts in performance optimization, tech-stack modernization, and bridging skill gaps to drive website-led growth.
-- For innovators: We move fast—delivering speed, technical expertise, and AI-driven solutions in a financially responsible way.
-- Our specialization: We excel in JavaScript-driven CMS, app, and digital product development.
-
-### How do we work with our Clients?
-
-- We prefer to work on a monthly retainer model, providing continuous support for maintenance, enhancement, site/app performance, UX, and integrations - to drive continuous improvements (and growth) for our clients.
-- We also work on a SOW/scope of work (project) basis.
-
-### We value our client relationships and spend a lot of time working on/discussing how to WOW Clients
-
-- We aim to [WOW](/playbook/wow) our clients and our fellow Axioned teammates.
-- When asking clients for feedback, we ask them to also evaluate each member of the Axioned team who contributed to/worked on the project.
-- We regularly ask all our Clients to evaluate us on how well we're WOW'ing them via Client Feedback Form.
+## We value our clients & CSAT Score:
+- Our CSAT csore (as of Apr 2025): 94%
+- Our goal is to consistently [WOW](/playbook/wow) Axioned clients and teammates.
 
 :::tip[The Axioned Journey]
-Axioned was started in 2006 by Dave (Dev) Jhala. Libby Swan joined in 2008. Both are the owners/co-founders of Axioned. Today, Dave serves the role of the company's CFO and supports the strategic direction/decisions of the company. Today, Libby serves the role of the company's CEO, with a focus on sales/marketing, and supports the strategic direction/decisions of the company also.
+Axioned was started in 2006 by Dev Jhala. Libby Swan joined in 2008. Today, Dev serves the role of the company's CFO and supports the strategic direction of the company. Today, Libby serves the role of the company's CEO with a focus on sales/marketing + strategic direction.
 :::

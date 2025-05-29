@@ -3,7 +3,7 @@ id: Brand Guidelines
 title: Brand Guidelines
 ---
 
-import { Card, CardGrid } from '@astrojs/starlight/components';
+import { Card, CardGrid, Tabs, TabItem } from "@astrojs/starlight/components";
 
 We've created the following guidelines to help others use our brand and assets.
 
@@ -11,17 +11,118 @@ We've created the following guidelines to help others use our brand and assets.
 
 ### Full Logo
 
-TODO
+<div style={{ display: 'grid', gridTemplateColumns: 'repeat(2, 1fr)', gap: '2rem', backgroundColor: '#f9f9f9', padding: '2rem', borderRadius: '8px' }}>
+  <div style={{ backgroundColor: "white", padding: "2rem", borderRadius: "4px", border: "1px solid #E5E7EB", display: "flex", flexDirection: "column", alignItems: "center", margin: 0 }}>
+    <div style={{ display: "flex", alignItems: "center", justifyContent: "center", marginBottom: "1rem" }}>
+      <img
+        src="/assets/axioned-logo.png"
+        alt="Axioned Dark Logo"
+        style={{ width: "100%", maxWidth: "300px" }}
+      />
+    </div>
+    <div style={{ display: "flex", gap: "1rem" }}>
+      <a href="/assets/axioned-logo.png" download style={{ color: "#0066cc" }}>PNG</a>
+      <a href="/assets/axioned-logo.svg" download style={{ color: "#0066cc" }}>SVG</a>
+    </div>
+  </div>
+
+  <div style={{ backgroundColor: "#201547", padding: "2rem", borderRadius: "4px", display: "flex", flexDirection: "column", alignItems: "center", margin: 0 }}>
+    <div style={{ display: "flex", alignItems: "center", justifyContent: "center", marginBottom: "1rem" }}>
+      <img
+        src="/assets/axioned-logo-light.png"
+        alt="Axioned Light Logo"
+        style={{ width: "100%", maxWidth: "300px" }}
+      />
+    </div>
+    <div style={{ display: "flex", gap: "1rem" }}>
+      <a href="/assets/axioned-logo-light.png" download style={{ color: "white" }}>PNG</a>
+      <a href="/assets/axioned-logo-light.svg" download style={{ color: "white" }}>SVG</a>
+    </div>
+  </div>
+</div>
 
 ### Symbol
 
-TODO
-
 The Axioned symbol should only be used in places where there is not enough room to display the full logo, or in cases where only brand icons of multiple brands are displayed.
+
+<div style={{ display: 'grid', gridTemplateColumns: 'repeat(2, 1fr)', gap: '2rem', backgroundColor: '#f9f9f9', padding: '2rem', borderRadius: '8px' }}>
+  <div style={{ backgroundColor: "white", padding: "2rem", borderRadius: "4px", border: "1px solid #E5E7EB", display: "flex", flexDirection: "column", alignItems: "center", margin: 0 }}>
+    <div style={{ width: "100px", height: "100px", display: "flex", alignItems: "center", justifyContent: "center", marginBottom: "1rem" }}>
+      <img
+        src="/assets/axioned-symbol-dark.svg"
+        alt="Axioned Dark Symbol"
+        style={{ width: "100%" }}
+      />
+    </div>
+    <div style={{ display: "flex", gap: "1rem" }}>
+      <a href="/assets/axioned-symbol-dark.png" download style={{ color: "#0066cc" }}>PNG</a>
+      <a href="/assets/axioned-symbol-dark.svg" download style={{ color: "#0066cc" }}>SVG</a>
+    </div>
+  </div>
+
+  <div style={{ backgroundColor: "#201547", padding: "2rem", borderRadius: "4px", display: "flex", flexDirection: "column", alignItems: "center", margin: 0 }}>
+    <div style={{ width: "100px", height: "100px", display: "flex", alignItems: "center", justifyContent: "center", marginBottom: "1rem" }}>
+      <img
+        src="/assets/axioned-symbol-light.svg"
+        alt="Axioned Light Symbol"
+        style={{ width: "100%" }}
+      />
+    </div>
+    <div style={{ display: "flex", gap: "1rem" }}>
+      <a href="/assets/axioned-symbol-light.png" download style={{ color: "white" }}>PNG</a>
+      <a href="/assets/axioned-symbol-light.svg" download style={{ color: "white" }}>SVG</a>
+    </div>
+  </div>
+</div>
 
 ## Colors
 
-TODO
+### Primary Colors
 
+<div style={{ display: 'grid', gap: '2rem' }}>
+<div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fit, minmax(200px, 1fr))", gap: "2rem", margin: 0 }}>
+  <div style={{ margin: 0 }}>
+    <div style={{ fontSize: "1rem", fontWeight: "bold", marginBottom: "0.5rem" }}>Eggplant</div>
+    <div style={{ backgroundColor: "#201547", color: "white", padding: "1rem", borderRadius: "4px" }}>#201547</div>
+  </div>
+  <div style={{ margin: 0 }}>
+    <div style={{ fontSize: "1rem", fontWeight: "bold", marginBottom: "0.5rem" }}>Fuschia</div>
+    <div style={{ backgroundColor: "#E31C79", color: "white", padding: "1rem", borderRadius: "4px" }}>#E31C79</div>
+  </div>
+</div>
 
-## Icons
+### Secondary Colors
+
+<div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(200px, 1fr))', gap: '2rem', margin: 0 }}>
+  <div style={{ margin: 0 }}>
+    <div style={{ fontSize: '1rem', fontWeight: 'bold', marginBottom: '0.5rem' }}>Aqua</div>
+    <div style={{ backgroundColor: "#16C6CC", color: "white", padding: "1rem", borderRadius: "4px" }}>
+      #16C6CC
+    </div>
+  </div>
+  <div style={{ margin: 0 }}>
+    <div style={{ fontSize: '1rem', fontWeight: 'bold', marginBottom: '0.5rem' }}>Gold</div>
+    <div style={{ backgroundColor: "#BD9B60", color: "white", padding: "1rem", borderRadius: "4px" }}>
+      #BD9B60
+    </div>
+  </div>
+  <div style={{ margin: 0 }}>
+    <div style={{ fontSize: '1rem', fontWeight: 'bold', marginBottom: '0.5rem' }}>Light Grey</div>
+    <div style={{ backgroundColor: "#FCFCFC", color: "#333", padding: "1rem", borderRadius: "4px", border: "1px solid #E5E7EB" }}>
+      #FCFCFC
+    </div>
+  </div>
+  <div style={{ margin: 0 }}>
+    <div style={{ fontSize: '1rem', fontWeight: 'bold', marginBottom: '0.5rem' }}>Frost Gray</div>
+    <div style={{ backgroundColor: "#E5E7EB", color: "#333", padding: "1rem", borderRadius: "4px" }}>
+      #E5E7EB
+    </div>
+  </div>
+  <div style={{ margin: 0 }}>
+    <div style={{ fontSize: '1rem', fontWeight: 'bold', marginBottom: '0.5rem' }}>White</div>
+    <div style={{ backgroundColor: "#FFFFFF", color: "#333", padding: "1rem", borderRadius: "4px", border: "1px solid #E5E7EB" }}>
+      #FFFFFF
+    </div>
+  </div>
+</div>
+</div>

@@ -43,7 +43,7 @@ You'd typically the following channels for your project:
 
 ### Generic
 
-Avaible here: https://github.com/axioned/axioned-starter
+Available here: https://github.com/axioned/axioned-starter
 
 ### WordPress
 
