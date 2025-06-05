@@ -11,7 +11,11 @@ Regular security maintenance is crucial for system safety and efficiency. This i
 
 ### Regular Maintenance
 
-- Bi-weekly dependency checks (consider using [Dependabot](/processes/security/dependabot) or [Renovate](https://docs.renovatebot.com/))
+- Bi-weekly dependency checks (consider using [Dependabot](/processes/security/dependabot) or [Renovate](https://docs.renovatebot.com/)).
+- Some handy commands to check for vulnerabilities and outdated packages yourself:
+  - `npm audit` or `pnpm audit` to check for vulnerabilities
+  - `npm outdated` or `pnpm outdated` to check for outdated packages
+  - `npx npm-check-updates --interactive` or `pnpm up --recursive --interactive --latest` to check for outdated packages and update them interactively
 - If you see vulnerability flagged during package installation, you should fix it.
 - Use Dependabot for [security updates](https://docs.github.com/en/code-security/dependabot/dependabot-security-updates/about-dependabot-security-updates)
 - Document findings and keep a shared maintenance log, when applicable.
