@@ -1,4 +1,11 @@
-# Actions on WPEngine, Dependabot, Wordfence alerts
+---
+id: Guidelines for Security Actions
+title: Guidelines for Security Actions
+sidebar:
+  label: Security Actions
+---
+
+# Guidelines for Security Actions
 In the contemporary digital landscape, ensuring the security and operational efficiency of our systems is paramount. Routine activities such as updating software dependencies, removing unused packages, and enhancing documentation play a critical role in safeguarding our infrastructure and streamlining workflows. By prioritizing these actions, we mitigate vulnerabilities and maintain a robust and effective development environment. Implementing clear guidelines for these activities promotes accountability, fosters proactive problem-solving, and minimizes technical debt, facilitating a more secure operational framework.
 
 ## Goal/Objective:
@@ -24,7 +31,7 @@ To effectively implement these guidelines, we will undertake the following struc
 - Create a responsibility matrix outlining who is accountable for each activity related to security and performance.
 
 ### Automation of Security Processes:
-- Implement tools such as Uptime Kuma, Renovate and Dependabot for automated dependency management, enabling real-time alerts regarding outdated packages or potential vulnerabilities.
+- Implement automation monitoring tools such as Uptime Kuma, Renovate, Dependabot, etc, enable real-time alerts regarding outdated packages or potential vulnerabilities.
 - Schedule automated scans for security vulnerabilities to be conducted at least once a month, with results reviewed by the team.
 
 ### Encouragement of Collaborative Problem-Solving:
