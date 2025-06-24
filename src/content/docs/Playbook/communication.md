@@ -1,8 +1,8 @@
 ---
-title: General Communication Guidelines (ECG)
+title: Effective Communication Guidelines (ECG)
 sidebar:
-  label: General Communication Guidelines
-  order: 1
+  label: Communication
+  order: 5
 ---
 
 1. Communicate your assumptions - verbally or in writing.
