@@ -1,27 +1,42 @@
+# Documentation Formatting Guidelines
+
+Team members are encouraged to refer to the shared template examples that showcase both effective and ineffective formatting styles – [here](https://docs.google.com/document/d/1oir-s-MQssqH54MDqGK9s9jJxNgcutvBGuiepffN87M/edit?usp=sharing)
+
+---
+
 ## Objective
-This document is to emphasize the importance of consistent branding and hierarchy styling in our internal and client-facing documentation. We have observed that informal or poorly organized documents can lead to frustration and diminished interest in reading. By adhering to a well-structured format, we aim to enhance clarity and visibility, ensuring that stakeholders remain engaged and can easily navigate the content.
 
-By doing so, we can maintain a high standard of documentation that reflects our commitment to quality and professionalism.
+This document emphasizes the importance of consistent branding and hierarchy styling in our internal and client-facing documentation. We have observed that informal or poorly organized documents can lead to frustration and diminished interest in reading.
 
-## What’s “Good” vs. “Bad” Practice?
-| **Formatting Element**              | **GOOD ✅**                                                                                                                                                    | **BAD ❌**                                                                                                                                              |
-|------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Axioned’s Logo**                 | Positioned prominently at the top-right within the header space, ideally with a width of 1.34 and a height of 0.5 inches. | Placed randomly in the document without regard for layout, such as at the bottom or in the margin.                                                    |
-| **Footer**                         | Include page numbers in the footer (e.g., "Page X of Y") center-aligned.                                                                                       | Omitting page numbers or using unclear footers (e.g., only "Page 1" without context).                                                                 |
-| **Fonts**                          | Use of a consistent font type throughout the document (e.g., IBM Plex Sans, Calibri, Proxima Nova).                                                            | Mixed fonts within a single document (e.g., Arial for a heading, Calibri for paragraphs, Inter for disclaimers).                                      |
-| **Font Size**                      | Use of consistent font sizes based on hierarchy/structure (e.g., 11pt for paragraph, 15pt for heading 1, 13pt for heading 2).                                  | Using inconsistent font sizes for different sections.                                                                                                  |
-| **Heading**                        | Use **heading 1, heading 2, heading 3** to define proper hierarchy for a well-structured, easy-to-read document.                                                | Not using heading tags or using them inappropriately can lead to a poorly structured document.                                                         |
-| **Line Spacing**                   | Consistent spacing utilized through line height (e.g., 1.15 or 1.5 spacing).                                                                                   | Random spacing is being used. No consistent and unwanted spacing.                                                                                      |
-| **Consistency in Color Usage**     | Use a consistent color palette that aligns with branding guidelines.                                                                                           | Using multiple colors that clash or are not aligned with brand standards.                                                                              |
-| **Visual Hierarchy**               | Use **bold**, *italics*, and _underlining_ purposefully to emphasize key points without overusing them.                                                       | Over-correcting with too much emphasis (e.g., bolding everything) can reduce readability.                                                              |
-| **Bullet and Numbered Lists**      | Use bullet points for non-sequential items and numbered lists for sequential information. Ensure consistent indentation.                                       | Mixing formats (e.g., bullets followed by numbers) or inconsistent indentation.                                                                        |
-| **Table Formatting**               | Use tables for data presentation with consistent column widths and row heights to enhance readability.                                                         | Using tables without borders or inconsistent formatting can lead to a messy appearance.                                                                |
-| **Images and Graphics**           | Include relevant images with captions, ensuring high quality and appropriate placement.                                                                        | Including images without context or poor-quality graphics can detract from professionalism.                                                            |
-| **Hyperlink Formatting**           | Use descriptive text for hyperlinks (e.g., "Visit our website" instead of "Click here").                                                                       | Using long URLs or vague phrases as links can confuse readers.                                                                                        |
-| **Page Layout**                    | Employ consistent margins and indentations to enhance readability.                                                                                             | Inconsistent margins or indentations create a chaotic appearance.                                                                                      |
-| **Table of Content Section**       | Titles are formatted consistently, logically ordered, with accurate page numbers, proper indentation, and hyperlinks for easy access.                          | Titles are vague, formatting is inconsistent, entries may be outdated or not hyperlinked.                                                              |
-| **Proofreading**                   | Always proofread documents for grammar, typos, and clarity before sharing.                                                                                     | Submitting documents with errors can undermine professionalism.                                                                                        |
-| **Feedback Loop**                  | Get the document reviewed for improvement:<br>• QA/Pranit – *Primary touchpoint*<br>• PMO (Sumeet/Shyam) – *Secondary touchpoint*                             | Not reviewing the document can undermine credibility and professionalism.                                                                              |
+By adhering to a well-structured format, we aim to enhance clarity and visibility, ensuring that stakeholders remain engaged and can easily navigate the content.
 
+Maintaining these standards helps reflect our commitment to quality and professionalism.
 
-We encourage all team members to refer to the provided templates and documentation that reflect our established guidelines. These resources serve as valuable references to promote consistency and quality in our work. Adhering to these templates will help us maintain our standards and enhance collaboration across our projects.
+---
+
+## What’s “Good” Practice?
+
+| **Formatting Element**       | **GOOD Formatting ✅** |
+|-----------------------------|------------------------|
+| **Axioned’s Logo**          | Positioned prominently at the top-right within the header space, ideally with a width of 1.34 and a height of 0.5 inches. |
+| **Footer**                  | Include page numbers in the footer (e.g., "Page X of Y"), center-aligned. |
+| **Fonts**                   | Use a consistent font type throughout the document (e.g., IBM Plex Sans, Calibri, Proxima Nova). |
+| **Font Size**               | Define hierarchy through font sizes (e.g., 11 for paragraphs, 15 for Heading 1, 13 for Heading 2, etc.). |
+| **Heading**                 | Use defined heading levels (H1, H2, H3, etc.) to create a clear document structure. |
+| **Line Spacing**            | Maintain consistent line spacing—recommend 1.15 or 1.5 for readability. |
+| **Consistency in Color Usage** | Use a consistent color palette that aligns with branding guidelines. |
+| **Visual Hierarchy**        | Use bold, italics, and underlining purposefully to guide attention—not decoratively. |
+| **Bullet and Numbered Lists** | Use bullet points for non-sequential items and numbered lists for sequential information. Ensure consistent indentation. |
+| **Table Formatting**        | Use tables for data presentation with consistent column widths and row heights to enhance readability. |
+| **Images and Graphics**     | Use high-quality images with captions where necessary. Position thoughtfully within the layout. |
+| **Hyperlink Formatting**    | Use descriptive anchor text (e.g., "Visit our website" instead of "Click here"). |
+| **Page Layout**             | Maintain uniform margins and indentations throughout. |
+| **Table of Content Section** | Ensure TOC is well-formatted, linked, up-to-date, and clearly reflects document structure. |
+| **Proofreading**            | Review all documents for typos, grammatical issues, and clarity before sharing. |
+| **Feedback Loop**           | Get the document reviewed for verification and/or improvements:<br> - QA/Pranit — Primary review<br> - PMO (Sumeet/Shyam) — Secondary review |
+
+---
+
+## Reference Templates
+
+To support consistency, please refer to the available templates and example documents that reflect these standards. These should be used as the base for all new documentation. They serve as a guide to ensure quality and coherence in our written communication.
