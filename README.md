@@ -1,16 +1,16 @@
-# Handbook
+# Axioned Handbook
+
+A comprehensive knowledge base and documentation for Axioned's development practices, tools, and processes.
 
 ## 🚀 Project Structure
 
-Inside of your Astro + Starlight project, you'll see the following folders and files:
-
 ```
 .
-├── public/
+├── public/          # Static assets
 ├── src/
-│   ├── assets/
-│   ├── content/
-│   │   ├── docs/
+│   ├── assets/      # Images and other media
+│   ├── content/     # Documentation content
+│   │   ├── docs/    # Main documentation
 │   │   └── config.ts
 │   └── env.d.ts
 ├── astro.config.mjs
@@ -18,25 +18,32 @@ Inside of your Astro + Starlight project, you'll see the following folders and f
 └── tsconfig.json
 ```
 
-Starlight looks for `.md` or `.mdx` files in the `src/content/docs/` directory. Each file is exposed as a route based on its file name.
+## 📚 Documentation Structure
 
-Images can be added to `src/assets/` and embedded in Markdown with a relative link.
+- `src/content/docs/` contains all documentation in Markdown format
+- Each `.md` file becomes a route in the documentation
+- Images should be placed in `src/assets/` and referenced in Markdown
+- Static assets (favicons, etc.) go in `public/`
 
-Static assets, like favicons, can be placed in the `public/` directory.
+## 🛠️ Development
 
-## 🧞 Commands
-
-All commands are run from the root of the project, from a terminal:
+All commands are run from the root of the project:
 
 | Command                   | Action                                           |
 | :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
+| `npm install`             | Install dependencies                             |
+| `npm run dev`             | Start local dev server at `localhost:4321`       |
+| `npm run build`           | Build production site to `./dist/`               |
+| `npm run preview`         | Preview production build locally                 |
 
-## 👀 Want to learn more?
+## 📝 Contributing
 
-Check out [Starlight’s docs](https://starlight.astro.build/), read [the Astro documentation](https://docs.astro.build), or jump into the [Astro Discord server](https://astro.build/chat).
+1. Create a new branch for your changes
+2. Follow the [Code Review Checklist](./src/content/docs/Learning/Git/code-review-checklist.md)
+3. Submit a PR with clear description of changes
+4. Ensure all documentation is clear and well-formatted
+
+## 🔍 Need Help?
+
+- Check [Starlight's docs](https://starlight.astro.build/) for documentation features
+- Join [#handbook](https://axioned.slack.com/archives/C02UV6BREDU) for requests and support

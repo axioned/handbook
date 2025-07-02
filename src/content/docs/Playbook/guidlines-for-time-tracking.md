@@ -1,6 +1,6 @@
 ---
 id: guidelines-for-billable
-title: Guidelines for Time tracking
+title: Guidelines for Time Tracking
 tags: [Billable, Non-Billable, Time, Time Tracking]
 sidebar:
   label: Guidelines for Time tracking
