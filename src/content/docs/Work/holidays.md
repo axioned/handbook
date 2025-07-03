@@ -1,5 +1,7 @@
 ---
 title: Public Holidays
+sidebar:
+  order: 2
 ---
 
 ## Holiday list
