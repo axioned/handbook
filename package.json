@@ -15,14 +15,14 @@
   },
   "dependencies": {
     "@astrojs/starlight": "^0.34.4",
-    "astro": "^5.10.1",
+    "astro": "^5.10.2",
     "sharp": "^0.34.2"
   },
   "devDependencies": {
     "@axioned/prettier-config": "^1.0.7",
     "prettier-plugin-astro": "^0.14.1"
   },
-  "packageManager": "pnpm@10.11.0",
+  "packageManager": "pnpm@10.12.4",
   "engines": {
     "node": ">=22.x",
     "pnpm": ">=9.x"
