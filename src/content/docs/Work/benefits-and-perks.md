@@ -1,5 +1,7 @@
 ---
 title: Benefits and Perks
+sidebar:
+  order: 1
 ---
 
 ## Paid Time Off (Planned Leaves)
