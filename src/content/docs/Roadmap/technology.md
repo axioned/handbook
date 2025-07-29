@@ -44,7 +44,7 @@ We take inspiration on our Technology Roadmap/Radar from [Thoughtworks](https://
   - [Netlify](https://www.netlify.com/)
   - [WP Engine](https://wpengine.com/)
   - [Google Cloud](https://cloud.google.com/)
-  - [Coudflare](https://www.cloudflare.com/)
+  - [Cloudflare](https://www.cloudflare.com/)
 - Forms
   - [Cognito Forms](https://www.cognitoforms.com/)
   - [Slate](https://slate.org/)
