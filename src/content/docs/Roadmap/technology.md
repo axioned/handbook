@@ -7,15 +7,16 @@ sidebar:
 
 We take inspiration on our Technology Roadmap/Radar from [Thoughtworks](https://www.thoughtworks.com/radar/faq).
 
-### Adopt
+### Adopt ("In Play")
 
 - Content Mangagement Systems (CMS) - including "Headless"
   - [Sanity](https://www.sanity.io/)
   - [Contentful](https://www.contentful.com/)
-  - [Strapi](https://strapi.io/)
   - [WordPress](https://wordpress.org/)
+  - [Strapi](https://strapi.io/)
   - [DatoCMS](https://www.datocms.com/)
-  - [Contentstack](https://www.contentstack.com/)
+- Languages
+  - JavaScript/[TypeScript](https://www.typescriptlang.org/)
 - Frameworks & Libraries
   - [Next.js](https://nextjs.org/)
   - [Astro](https://astro.build/)
@@ -37,26 +38,19 @@ We take inspiration on our Technology Roadmap/Radar from [Thoughtworks](https://
   - [Prisma](https://www.prisma.io/)
   - [Drizzle](https://orm.drizzle.team/)
   - [Supabase](https://supabase.io/)
-- Hosting
+- Hosting & CDN
   - [AWS](https://aws.amazon.com/)
   - [Vercel](https://vercel.com/)
   - [Netlify](https://www.netlify.com/)
   - [WP Engine](https://wpengine.com/)
   - [Google Cloud](https://cloud.google.com/)
-- AI/Generative AI
-  - [Cursor](https://cursor.com/)
-  - [Github Copilot](https://github.com/features/copilot)
-  - [OpenAI API](https://platform.openai.com/docs/)
-  - [Anthropic](https://www.anthropic.com/) / [Claude](https://claude.ai/)
-  - [Vercel AI SDK](https://sdk.vercel.ai/)
-- Analytics
-  - [Google Analytics](https://analytics.google.com/)
-  - [Adobe Analytics](https://business.adobe.com/products/analytics/adobe-analytics.html)
-  - [PostHog](https://posthog.com/)
-  - [Segment](https://segment.com/)
-- Tag Management
-  - [Google Tag Manager](https://tagmanager.google.com/)
-  - [Adobe Launch](https://launch.adobe.com/)
+  - [Coudflare](https://www.cloudflare.com/)
+- Forms
+  - [Cognito Forms](https://www.cognitoforms.com/)
+  - [Slate](https://slate.org/)
+- Landing Pages
+  - [HeyFlow](https://heyflow.com/lp/landing-page-software/)
+  - [Unbounce](https://unbounce.com/landing-pages-nb/)
 - Search
   - [Algolia](https://www.algolia.com/)
 - Application Monitoring
@@ -64,14 +58,20 @@ We take inspiration on our Technology Roadmap/Radar from [Thoughtworks](https://
 - Testing
   - [Playwright](https://playwright.dev/)
   - [Checkly](https://checklyhq.com/)
-- User Testing Tools
-  - [User Brain](https://www.userbrain.com/en/)
-  - [User testing](https://www.usertesting.com/)
-- Languages
-  - JavaScript/[TypeScript](https://www.typescriptlang.org/)
-- Landing Page Software
-  - [HeyFlow](https://heyflow.com/lp/landing-page-software/)
-  - [Unbounce](https://unbounce.com/landing-pages-nb/)
+- Analytics & Tag Management
+  - [Google Analytics](https://analytics.google.com/)
+  - [Google Tag Manager](https://tagmanager.google.com/)
+  - [Adobe Analytics](https://business.adobe.com/products/analytics/adobe-analytics.html)
+  - [Adobe Launch](https://launch.adobe.com/)
+  - [PostHog](https://posthog.com/)
+  - [Segment](https://segment.com/)
+- AI/Generative AI
+  - [Cursor](https://cursor.com/)
+  - [Github Copilot](https://github.com/features/copilot)
+  - [OpenAI API](https://platform.openai.com/docs/)
+  - [Anthropic](https://www.anthropic.com/)
+  - [Claude](https://claude.ai/)
+  - [Vercel AI SDK](https://sdk.vercel.ai/)
 
 ### Trial
 
@@ -86,7 +86,7 @@ We take inspiration on our Technology Roadmap/Radar from [Thoughtworks](https://
   - [CrewAI](https://www.crewai.com/) (Python)
   - [PydanticAI](https://ai.pydantic.dev/) (Python)
   - [Cloudflare Agents](https://developers.cloudflare.com/agents/)
-- Low-code/No-code platforms
+- Low-code/No-code
   - [n8n](https://n8n.io/)
   - [FlutterFlow](https://flutterflow.io/)
   - [Flowise](https://flowiseai.com/)
@@ -98,10 +98,12 @@ We take inspiration on our Technology Roadmap/Radar from [Thoughtworks](https://
 ### Assess
 
 - Frameworks and Libraries
-  - [Ruby on Rails](https://rubyonrails.org/)
   - [SST](https://sst.dev/)
 - AI/Generative AI
   - [Replicate](https://www.replicate.com/)
+- User Testing
+  - [User Brain](https://www.userbrain.com/en/)
+  - [User Testing](https://www.usertesting.com/)
 
 ### Hold
 
@@ -110,6 +112,7 @@ We take inspiration on our Technology Roadmap/Radar from [Thoughtworks](https://
 - [Redux Toolkit](https://redux-toolkit.js.org/)
 - [Ionic Framework](https://ionicframework.com/)
 - [Web Components](https://developer.mozilla.org/en-US/docs/Web/Web_Components)
+- [Contentstack](https://www.contentstack.com/)
 
 ### Backlog
 
