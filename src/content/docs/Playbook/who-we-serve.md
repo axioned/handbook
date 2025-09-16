@@ -45,5 +45,4 @@ Our team at Axioned specializes in digital engineering; helping businesses build
 - Our goal is to consistently [WOW](/playbook/wow) Axioned clients and teammates.
 
 :::tip[The Axioned Journey]
-Axioned was started in 2006 by Dev Jhala. Libby Swan joined in 2008. Today, Dev serves the role of the company's CFO and supports the strategic direction of the company. Today, Libby serves the role of the company's CEO with a focus on sales/marketing + strategic direction.
-:::
+Axioned began in 2006 as a small team tackling digital challenges at the intersection of creativity and technology. Since the beginning, Axioned's leadership has taken a hands-on approach; shaping strategy, guiding the company’s go-to-market focus, and working closely with clients to understand what actually drives results. Today, Axioned partners with growth-stage companies, agencies, and product builders. Serving as the tech/digital execution arm for teams that need to move fast, do more, and scale smartly. From early stage concepts to new builds, migrations, and relaunches, Axioned helps teams deliver digital projects that work.:::
