@@ -86,6 +86,7 @@ We take inspiration on our Technology Roadmap/Radar from [Thoughtworks](https://
   - [CrewAI](https://www.crewai.com/) (Python)
   - [PydanticAI](https://ai.pydantic.dev/) (Python)
   - [Cloudflare Agents](https://developers.cloudflare.com/agents/)
+  - [Model Context Protocol (MCP) SDKs] (https://modelcontextprotocol.io/docs/sdk)
 - Low-code/No-code
   - [n8n](https://n8n.io/)
   - [FlutterFlow](https://flutterflow.io/)
