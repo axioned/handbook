@@ -9,12 +9,12 @@ export default defineConfig({
     starlight({
       title: "Axioned Handbook",
       description: "Central repository for how we run the company",
-      social: {
-        github: "https://github.com/axioned",
-        linkedin: "https://www.linkedin.com/company/axioned",
-        instagram: "https://instagram.com/axionedteam",
-        "x.com": "https://x.com/AxionedTeam",
-      },
+      social: [
+        { icon: "github", label: "GitHub", href: "https://github.com/axioned" },
+        { icon: "linkedin", label: "LinkedIn", href: "https://www.linkedin.com/company/axioned" },
+        { icon: "instagram", label: "Instagram", href: "https://instagram.com/axionedteam" },
+        { icon: "x.com", label: "X", href: "https://x.com/AxionedTeam" },
+      ],
       editLink: { baseUrl: "https://github.com/axioned/handbook/edit/main/" },
       tableOfContents: true,
       favicon: "/favicon.ico",
