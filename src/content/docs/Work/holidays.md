@@ -27,7 +27,7 @@ Below is the list of public holidays for 2026 at Axioned.
 
 - *Gudi Padwa* and *Id-e-Milad* are optional holidays — team members can choose **one**. HR will share a Google Form to record selections.
 - *Id-e-Milad* is moon-dependent; the exact date may shift slightly.
-- Dates may change by a few days depend🇮🇳g on festival confirmations. Any updates will be reflected 🇮🇳 the calendar and notified to the team.
+- Dates may change by a few days depending on festival confirmations. Any updates will be reflected in the calendar and notified to the team.
 
 ---
 
