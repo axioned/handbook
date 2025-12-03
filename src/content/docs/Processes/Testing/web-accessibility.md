@@ -2,12 +2,20 @@
 id: accessibility
 title: Web Accessibility
 description: Guide to web accessibility testing compliance.
-tags: [Accessibility, WCAG, ARIA, Contrast, Maintenance, Go-live]
+tags:
+  [
+    Accessibility,
+    WCAG,
+    ARIA,
+    Contrast,
+    Maintenance,
+    Go-live,
+  ]
 ---
 
 Web accessibility ensures that websites, applications, and digital content are usable by everyone, including individuals with disabilities. At Axioned, we are committed to creating accessible digital experiences that comply with best practices and legal standards such as the Web Content Accessibility Guidelines (WCAG).
 
-We recommend you read the [four pillars of accessibility](https://www.w3.org/WAI/WCAG22/Understanding/intro#understanding-the-four-principles-of-accessibility) — Perceivable, Operable, Understandable, and Robust — to get a better understanding of the topic. Check out the [Resources](#resources) section below for more information.
+We recommend you read the [four pillars of accessibility](https://www.w3.org/WAI/WCAG22/Understanding/intro#understanding-the-four-principles-of-accessibility)  — Perceivable, Operable, Understandable, and Robust — to get a better understanding of the topic. Check out the [Resources](#resources) section below for more information.
 
 ## Why Accessibility Matters
 
@@ -33,16 +41,19 @@ We recommend you read the [four pillars of accessibility](https://www.w3.org/WAI
 ## In practice
 
 - **Design Phase**
+
   - Use color palettes that meet contrast requirements.
   - Ensure designs accommodate text resizing and reflow.
   - Include accessibility annotations in design files.
 
 - **Development Phase**
+
   - Write clean, semantic HTML with proper heading structures.
   - Ensure all interactive elements (buttons, links, forms) are keyboard accessible.
   - Implement ARIA attributes only when necessary.
 
 - **Testing & Validation**
+
   - Run automated accessibility scans (see [Tools](#tools)).
   - Perform manual testing using keyboard and screen readers.
   - Conduct usability tests with individuals who rely on assistive technology.

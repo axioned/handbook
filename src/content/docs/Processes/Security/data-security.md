@@ -4,24 +4,7 @@ title: Data Security Policies and Procedures
 description: IT and client data security guidelines.
 sidebar:
   label: Data Security
-tags:
-  [
-    Device Use Regulation,
-    External Pen Drives,
-    Using SSH/SFTP,
-    Personal Devices,
-    Internet Cable,
-    Credentials and Systems Management,
-    Data Security,
-    Security Auditing Actions,
-    Data Sharing,
-    Project Closure,
-    workstation usage,
-    Device lost,
-    Remote Access,
-    VPN Policy,
-    Technical Safeguards,
-  ]
+tags: [Device Use Regulation, External Pen Drives, Using SSH/SFTP, Personal Devices, Internet Cable, Credentials and Systems Management, Data Security, Security Auditing Actions, Data Sharing, Project Closure, workstation usage, Device lost, Remote Access, VPN Policy, Technical Safeguards]
 ---
 
 ## Introduction
@@ -45,7 +28,7 @@ The Axioned IT Team also wants to ensure that employees should get educated abou
 **Key Contact Details:**
 
 Email: <it@axioned.com>, <privacy@axioned.com>, <security@axioned.com>
-1.IT/Support: <itadmin@axioned.com>
+  1.IT/Support: <itadmin@axioned.com>
 
 :::tip[Data/Security Incident Guidelines]
 Note: Data/Security Incident Response Guidelines can be found [**here**](https://docs.google.com/document/d/1FuH1U6Iv_bDVoLYbBk3zDgi1NYZkdpbIFBSJYUa0DIg/edit#)
@@ -157,7 +140,7 @@ We wish to prevent any/all of the following with respect to our own and/or Clien
 Data and information here can mean any of the following:
 
 - Data/information we have access to via the platforms, tools or applications our Clients use - e.g. Google drive, Cloud Servers, JIRA, Slack, etc.
-- Data/information we have access to via the platforms, tools or applications we/Axioned use - e.g. Google drive, Cloud Servers, GoDaddy, etc.
+- Data/information we have access to via the platforms, tools or applications we/Axioned  use - e.g. Google drive, Cloud Servers, GoDaddy, etc.
 
 ### 5.1 Guidelines for Axioned Employees and Axioned IT Team
 
@@ -251,18 +234,18 @@ Do not change the testing device setting or lock password, if there’s somethin
 
 ## 7. Remote Access Policy
 
-The intent of this policy is to establish guidelines specifically pertaining to remote access to Axioned’s internal network. Preventing unauthorized access to company data from insecure networks is of utmost importance to Axioned. This policy is designed to ensure remote and/or traveling employees have the ability to securely connect to the corporate network without fear of threat and to provide the Company with an additional means of monitoring and controlling access to the internal network.
+  The intent of this policy is to establish guidelines specifically pertaining to remote access to Axioned’s internal network. Preventing unauthorized access to company data from insecure networks is of utmost importance to Axioned. This policy is designed to ensure remote and/or traveling employees have the ability to securely connect to the corporate network without fear of threat and to provide the Company with an additional means of monitoring and controlling access to the internal network.
 
-The remote access will be provided to the employee working from home or can’t reach office under some circumstances
+  The remote access will be provided to the employee working from home or can’t reach office under some circumstances  
 
-Axioned Member pls see Remote Access Policy [here](https://docs.google.com/document/d/1rhzYntLRHXscUGZhrUTFOuGvd7wYej8WZiBM4WOTkr0/edit)
+  Axioned Member pls see Remote Access Policy [here](https://docs.google.com/document/d/1rhzYntLRHXscUGZhrUTFOuGvd7wYej8WZiBM4WOTkr0/edit)
 
 ## 8. Email/Communication Policy
 
-The Axioned emails are used for work purposes, @axioned.com email account is assigned to all individuals (eg: <employeename@axioned.com>) and individuals are added to group email a/c is created accordingly to the project needs (eg: <clientname@axioned.com>). We want to ensure that our employees understand the limitations of using their email accounts.
+  The Axioned emails are used for work purposes, @axioned.com email account is assigned to all individuals (eg: <employeename@axioned.com>) and individuals are added to group email a/c is created accordingly to the project needs (eg: <clientname@axioned.com>). We want to ensure that our employees understand the limitations of using their email accounts.
 
 ### 8.1 Inappropriate use of company email
-
+  
 Our employees represent our company whenever they use their corporate email address. They must not
 
 - Sign up for illegal, unreliable, disreputable or suspect websites and services.
@@ -273,7 +256,7 @@ Our employees represent our company whenever they use their corporate email addr
 - Should not subscribe to unwanted newsletters.
 
 ### 8.2 Appropriate use of corporate email
-
+  
 Employees are allowed to use their corporate email for work-related purposes with limitations. For example, employees can use their email to
 
 - Communicate with current or prospective Clients/project members.
@@ -284,9 +267,9 @@ Employees are allowed to use their corporate email for work-related purposes wit
 
 ## 9. VPN Policy
 
-In Axioned, the use of VPN is used to create a secure connection to Client server/network. But it is also possible that people can misuse it. To avoid such, the IT Team is constantly monitoring users in the network.
+  In Axioned, the use of VPN is used to create a secure connection to Client server/network. But it is also possible that people can misuse it. To avoid such, the IT Team is constantly monitoring users in the network.
 
-Axioned members VPN Policy: [VPN Policy Agreement](https://docs.google.com/document/d/1re9DoI8oDe1HgvlFVXtsnOYldmICB-xKysN6fEkMcxc/edit)
+  Axioned members VPN Policy: [VPN Policy Agreement](https://docs.google.com/document/d/1re9DoI8oDe1HgvlFVXtsnOYldmICB-xKysN6fEkMcxc/edit)
 
 ## 10. Physical and Technical Safeguards Management
 
@@ -298,15 +281,15 @@ Axioned members VPN Policy: [VPN Policy Agreement](https://docs.google.com/docum
 - Implemented a locked server room with restricted access for authorized personnel only
 
 1. **Technical Safeguards**
-   - To enhance security measures, the computer screens for both Axioned and Personal devices will automatically lock after 5 minutes of being idle.
-   - Implement screensavers that lock the computer screen.
-   - Regularly audit and ensure that these technical safeguards are in place and functioning effectively.
+    - To enhance security measures, the computer screens for both Axioned and Personal devices will automatically lock after 5 minutes of being idle.
+    - Implement screensavers that lock the computer screen.
+    - Regularly audit and ensure that these technical safeguards are in place and functioning effectively.
 
 2. **Evaluation and Continual Improvement**
-   - Regularly evaluate the effectiveness of the physical and technical safeguards
-   - Determine any additional steps/practices that need to be implemented to improve data security
-   - Assign an owner for this initiative and determine a timeline for implementation.
+    - Regularly evaluate the effectiveness of the physical and technical safeguards
+    - Determine any additional steps/practices that need to be implemented to improve data security
+    - Assign an owner for this initiative and determine a timeline for implementation.
 
 3. **Additional Safeguard in place**
-   - Biometric data is monitored by HR on a daily basis.
-   - Cameras are audited on a weekly basis.
+    - Biometric data is monitored by HR on a daily basis.
+    - Cameras are audited on a weekly basis.
