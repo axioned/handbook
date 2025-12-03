@@ -70,7 +70,7 @@ _Sub:_[Internal]Lesson Learned: _\<Name of the project\>_
 
 ## Lessons Learned Template
 
-[https://docs.google.com/document/d/1ner_GJ9_9RynPu-vQrOZCBqDlmgNr_EFZFXf5ukOGl8/edit#](https://docs.google.com/document/d/1ner_GJ9_9RynPu-vQrOZCBqDlmgNr_EFZFXf5ukOGl8/edit#)
+[https://docs.google.com/document/d/1ner\_GJ9\_9RynPu-vQrOZCBqDlmgNr\_EFZFXf5ukOGl8/edit#](https://docs.google.com/document/d/1ner_GJ9_9RynPu-vQrOZCBqDlmgNr_EFZFXf5ukOGl8/edit#)
 
 Respective Project Folder can be created in this folder - [Client Projects\>\> \_Retrospectives](https://drive.google.com/drive/folders/0B9KzpG4J3_sNMWRLeUlISmJENDQ?usp=sharing), where the lessons learned document can be stored.
 
