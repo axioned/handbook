@@ -1,18 +1,10 @@
 ---
 id: self-audit
 title: Web Performance Self-Audit
+description: Self-audit guides for processes and performance.
 sidebar:
   label: Performance Self-Audit
-tags:
-  [
-    Web Performance,
-    Lighthouse,
-    Web Vitals,
-    Core Web Vitals,
-    Audit,
-    Maintenance,
-    Go-live,
-  ]
+tags: [Web Performance, Lighthouse, Web Vitals, Core Web Vitals, Audit, Maintenance, Go-live]
 ---
 
 Some of the most well known tools to run security checks on your websites are:

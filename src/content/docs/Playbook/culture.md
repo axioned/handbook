@@ -1,6 +1,7 @@
 ---
 id: culture
 title: Culture
+description: A culture built on impact, iteration, and mutual respect at Axioned.
 sidebar:
   label: Culture
   order: 1

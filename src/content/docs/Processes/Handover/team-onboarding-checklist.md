@@ -2,9 +2,10 @@
 position: 1
 id: team-onboarding-checklist
 title: Team Onboarding/Offboarding Checklist
+description: Step-by-step team onboarding checklist.
 sidebar:
   label: Team Onboarding/Offboarding
-tags: ['handover', 'new members', 'onboarding', 'transition', 'kt', 'knowledge transfer']
+tags: ["handover", "new members", "onboarding", "transition", "kt", "knowledge transfer"]
 ---
 
 ## Onboarding

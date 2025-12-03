@@ -1,6 +1,7 @@
 ---
 id: team
 title: Working in a team
+description: Team roles, responsibilities, and collaboration
 sidebar:
   label: Working in a team
   order: 7

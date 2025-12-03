@@ -1,5 +1,6 @@
 ---
 title: Effective Communication Guidelines (ECG)
+description: Clear communication, decisions, and team involvement.
 sidebar:
   label: Communication
   order: 5
