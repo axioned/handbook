@@ -1,6 +1,7 @@
 ---
 id: wow
 title: WOW
+description: Best practices for exceptional team performance.
 sidebar:
   label: WOW
   order: 4

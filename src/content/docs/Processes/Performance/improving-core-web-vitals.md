@@ -1,6 +1,7 @@
 ---
 position: 2
 title: Improving Core Web Vitals
+description: Optimize website performance and Core Web Vitals.
 ---
 
 Some tips and suggestions on how to improve your Core Vital scores

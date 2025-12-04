@@ -1,6 +1,7 @@
 ---
 id: lessons-learned
 title: Lessons Learned
+description: Capture project insights with lessons learned.
 sidebar:
   label: Lessons Learned
   order: 3

@@ -1,6 +1,7 @@
 ---
 id: wordpress-checklist
 title: WordPress Code Review Checklist
+description: WordPress Code Review Checklist for improved security, performance, and SEO.
 sidebar:
   label: Code Review Checklist
   order: 2

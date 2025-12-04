@@ -1,6 +1,7 @@
 ---
 id: javascript-checklist
 title: Javascript Code Review Checklist
+description: JavaScript checklist for efficient, error-free code.
 sidebar:
   label: Code Review Checklist
   order: 2

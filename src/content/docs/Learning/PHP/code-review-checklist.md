@@ -1,6 +1,7 @@
 ---
 id: php-checklist
 title: PHP Code Review Checklist
+description: PHP code review checklist for clean code.
 sidebar:
   label: Code Review Checklist
   order: 2

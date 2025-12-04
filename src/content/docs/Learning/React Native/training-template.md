@@ -1,6 +1,7 @@
 ---
 id: react-native-training
 title: React Native Training Template
+description: Learn React Native setup, navigation, components.
 sidebar:
   label: Training Template
   order: 1

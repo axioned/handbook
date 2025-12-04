@@ -1,6 +1,7 @@
 ---
 id: wordpress-training
 title: WordPress Training Template
+description: WordPress training- setup, themes, plugins, ACF.
 sidebar:
   label: Training Template
   order: 1

@@ -1,6 +1,7 @@
 ---
 id: self-audit
 title: Web Performance Self-Audit
+description: Self-audit guides for processes and performance.
 sidebar:
   label: Performance Self-Audit
 tags:
