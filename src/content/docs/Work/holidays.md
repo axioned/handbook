@@ -1,5 +1,7 @@
 ---
 title: Public Holidays
+sidebar:
+  order: 2
 ---
 
 ## Holiday list
@@ -37,5 +39,3 @@ Below is the list of public holidays for 2026 at Axioned.
 |-------------|------------------------------------------------------|
 | February, 2026 | Work Together Week (February 23rd – 27th)         |
 | July, 2026     | Work Together Week (July 27th – 31st)             |
-
----
