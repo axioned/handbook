@@ -8,7 +8,7 @@ sidebar:
 tags: [react native, react native template, training, react native reducers, reducers]
 ---
 
-# Overview
+## Overview
 
 React Native is an open-source JavaScript framework, designed for building apps on multiple platforms like iOS, Android, and also web applications, utilizing the very same code base. It is based on React, and it brings all its glory to mobile app development.
 React Native documentation link can be found [**here**](https://reactnative.dev/docs/getting-started)

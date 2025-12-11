@@ -8,7 +8,7 @@ sidebar:
 tags: [wordpress code review, wordpress checklist]
 ---
 
-# Checklist
+## Checklist
 
 Sr No. | check | Description |
 :-: | --- | --- 

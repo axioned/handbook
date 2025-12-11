@@ -8,7 +8,7 @@ sidebar:
 tags: [wordpress, wordpress template, wordpress training, theme development, acf, woocommerce]
 ---
 
-# Overview
+## Overview
 
 WordPress is a way to create websites in an open-source, modular ecosystem. It’s known as a Content Management System (CMS), which means you get an intuitive way to create and manage your posts and pages of your website. It comes full-featured out of the box, but is also extendable. There are two ways to do this:
 
