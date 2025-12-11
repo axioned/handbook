@@ -8,7 +8,7 @@ sidebar:
 tags: [PHP code review, PHP checklist, PHP tags, control structures, method arguments]
 ---
 
-# Checklist
+## Checklist
 
 Sr No. | Check | Description |
 :-: | --- | ---  

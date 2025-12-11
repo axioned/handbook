@@ -8,7 +8,7 @@ sidebar:
 tags: [Javascript, Javascript checklist, JS, JS checklist]
 ---
 
-# Checklist Pointers
+## Checklist Pointers
 
 Sr No. | Check |
 :----: | ----- |
