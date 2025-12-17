@@ -62,8 +62,8 @@ We take inspiration on our Technology Roadmap/Radar from [Thoughtworks](https://
 - Analytics & Tag Management
   - [Google Analytics](https://analytics.google.com/)
   - [Google Tag Manager](https://tagmanager.google.com/)
-  - [Adobe Analytics](https://business.adobe.com/products/analytics/adobe-analytics.html)
-  - [Adobe Launch](https://experience.adobe.com/)
+  - [Adobe Analytics](https://business.adobe.com/products/adobe-analytics.html)
+  - [Adobe Launch](https://business.adobe.com/products/adobe-analytics.html)
   - [PostHog](https://posthog.com/)
   - [Segment](https://segment.com/)
 - AI/Generative AI
