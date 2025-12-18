@@ -44,5 +44,5 @@ The resulting data is made available via:
 - [CrUX Dashboard on Data Studio](https://web.dev/chrome-ux-report-data-studio-dashboard/), which can be setup to track an origin's user experience trends (my personal favourite given the ease of use for Engineers and non-Engineers alike, and gives you high-level snapshot based on the same data that Google uses).
 
 :::tip[Want more?]
-Head on over to https://web.dev/vitals-tools/ to learn about how to capture your own data, and other tools/libraries that might be worth knowing about.
+Head on over to [Web Vitals Tools](https://web.dev/vitals-tools/) to learn about how to capture your own data, and other tools/libraries that might be worth knowing about.
 :::
