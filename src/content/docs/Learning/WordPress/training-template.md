@@ -39,7 +39,7 @@ Sr No. | Type | Topics | Efforts (in hrs)
 13 | Reading |	What is plugin? | 1 |
 14 | Reading |	What are the different ways of adding plugins and what is the correct way? | 1 |
 15 | Reading |	Plugins & Modules: How to Evaluate & Select | 1 |
-16 | Reading |	What is Template? Template Hierarchy - (https://developer.wordpress.org/themes/basics/template-hierarchy/) | 3 |
+16 | Reading |	What is Template? Template Hierarchy - [WordPress Template Hierarchy](https://developer.wordpress.org/themes/basics/template-hierarchy/) | 3 |
 17 | Reading |	What is Theme? | 2 |
 18 | Task | How to create Custom Wordpress Theme? | 3 |
 19 | Task | Apply Theme and Add pages, posts to that theme. | 1 |
