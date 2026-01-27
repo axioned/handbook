@@ -1,6 +1,7 @@
 ---
 id: cost-oversights
 title: Cost Oversights
+description: Identify and manage project cost oversights.
 sidebar:
   label: Cost Oversights
   order: 3

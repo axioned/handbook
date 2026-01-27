@@ -1,6 +1,7 @@
 ---
 position: 2
 title: Improving Core Web Vitals
+description: Optimize website performance and Core Web Vitals.
 ---
 
 Some tips and suggestions on how to improve your Core Vital scores
@@ -27,7 +28,7 @@ If you want to dynamically add height and width attributes we can use the inbuil
 ?>
 ```
 
-Reference: https://developer.wordpress.org/reference/functions/wp_get_attachment_image/
+Reference: [wp_get_attachment_image() Function](https://developer.wordpress.org/reference/functions/wp_get_attachment_image/)
 
 ## Element render blocking and Remove unused javascript
 

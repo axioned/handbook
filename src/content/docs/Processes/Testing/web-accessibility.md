@@ -1,6 +1,7 @@
 ---
 id: accessibility
 title: Web Accessibility
+description: Guide to web accessibility testing compliance.
 tags:
   [
     Accessibility,

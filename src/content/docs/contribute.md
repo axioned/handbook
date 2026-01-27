@@ -1,6 +1,8 @@
 ---
 id: contribute
 title: Contribute to the Handbook
+description: Share ideas and updates to Axioned handbook.
+
 sidebar:
   label: Contribute
   order: 99

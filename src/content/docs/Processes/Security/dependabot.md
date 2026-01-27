@@ -1,6 +1,7 @@
 ---
 id: Dependabot
 title: Dependabot for module updates
+description: Automate dependency updates with Dependabot.
 sidebar:
   label: Dependabot for module updates
 tags: [GitHub, GitHub Actions, CI/CD, Dependabot, Maintenance]

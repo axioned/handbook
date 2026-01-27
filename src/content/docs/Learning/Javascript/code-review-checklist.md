@@ -1,13 +1,14 @@
 ---
 id: javascript-checklist
 title: Javascript Code Review Checklist
+description: JavaScript checklist for efficient, error-free code.
 sidebar:
   label: Code Review Checklist
   order: 2
 tags: [Javascript, Javascript checklist, JS, JS checklist]
 ---
 
-# Checklist Pointers
+## Checklist Pointers
 
 Sr No. | Check |
 :----: | ----- |

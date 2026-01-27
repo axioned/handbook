@@ -1,6 +1,7 @@
 ---
 id: glossary
 title: Glossary
+description: Key terms and definitions for Axioned.
 sidebar:
   label: Glossary
   order: 98

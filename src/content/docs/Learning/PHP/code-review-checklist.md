@@ -1,13 +1,14 @@
 ---
 id: php-checklist
 title: PHP Code Review Checklist
+description: PHP code review checklist for clean code.
 sidebar:
   label: Code Review Checklist
   order: 2
 tags: [PHP code review, PHP checklist, PHP tags, control structures, method arguments]
 ---
 
-# Checklist
+## Checklist
 
 Sr No. | Check | Description |
 :-: | --- | ---  

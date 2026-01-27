@@ -1,5 +1,6 @@
 ---
 title: How to on-board yourself
+description: Self-onboarding tips for quick impact.
 sidebar:
   label: Onboarding yourself
 ---
