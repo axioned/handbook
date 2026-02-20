@@ -21,7 +21,7 @@ Below is the list of public holidays for 2026 at Axioned.
 | October 2, 2026   | Gandhi Jayanti                             | 🇮🇳          |
 | October 20, 2026  | Dussehra                                   | 🇮🇳          |
 | November 9, 2026  | Diwali                                     | 🇮🇳          |
-| December 25, 2026 | Christmas Day                              | 🇮🇳 🇬🇧  🇺🇸    |
+| December 25, 2026 | Christmas Day                              | 🇮🇳 🇬🇧 🇺🇸    |
 
 **Notes:**
 
