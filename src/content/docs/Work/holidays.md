@@ -10,11 +10,11 @@ Below is the list of public holidays for 2026 at Axioned.
 |-------------------|--------------------------------------------|-------------|
 | January 1, 2026   | New Year's Day                             | 🇮🇳 🇬🇧 🇺🇸 |
 | January 26, 2026  | Republic Day                               | 🇮🇳          |
-| March 4, 2026     | Holi                                       | 🇮🇳          |
+| March 3, 2026     | Holi                                       | 🇮🇳          |
 | March 19, 2026    | Gudi Padwa *(Optional)*                    | 🇮🇳          |
 | April 3, 2026     | Good Friday                                | 🇮🇳 🇬🇧       |
 | May 1, 2026       | Maharashtra Day / May Day / Labour Day     | 🇮🇳          |
-| May 27, 2026      | Bakri Id                                   | 🇮🇳          |
+| May 28, 2026      | Bakri Id                                   | 🇮🇳          |
 | June 26, 2026     | Muharram                                   | 🇮🇳          |
 | August 26, 2026   | Id-e-Milad *(Optional)*                    | 🇮🇳          |
 | September 14, 2026| Ganesh Chaturthi                           | 🇮🇳          |
