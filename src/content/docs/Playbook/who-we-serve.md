@@ -67,7 +67,7 @@ Defined-scope builds, rebuilds, migrations, or replatforming — designed for ef
 Ongoing platform ownership. Stability, performance, continuous improvement.
 
 **Extend**  
-Embedded specialists (engineering, QA, analytics, content ops) that increase internal execution speed without long-term hiring risk.
+Embedded specialists (typically: development/engineering, testing/QA) that increase execution speed without long-term hiring risk.
 
 ---
 
@@ -76,7 +76,7 @@ Embedded specialists (engineering, QA, analytics, content ops) that increase int
 - 1,000+ launches completed  
 - 30+ brands supported annually  
 - 94% CSAT  
-- In business since 2006 (aka experienced with evolved intuition and taste)
+- In business since 2006 (aka stable + experienced with evolved intuition and taste)
 - 90% full-time team — not a rotating freelancer bench  
 - US, UK, and India presence for timezone overlap and cost-effective delivery
 - We keep revenue-critical platforms improving — consistently, predictably, and with clear accountability.
