@@ -57,7 +57,6 @@ This often starts as a **Build** engagement and evolves into **Run or Extend** o
 ---
 
 ## How We Work
-
 _Our engagement models:_
 
 **Build**  
@@ -72,7 +71,6 @@ Embedded specialists (typically: development/engineering, testing/QA) that incre
 ---
 
 ## Why Axioned
-
 - 1,000+ launches completed  
 - 30+ brands supported annually  
 - 94% CSAT  
@@ -84,5 +82,4 @@ Embedded specialists (typically: development/engineering, testing/QA) that incre
 ---
 
 ## The Axioned Journey
-
 Since 2006, we’ve supported growth-focused teams by building, running, and improving their digital platforms. As the tech-partner responsible for keeping execution moving.
