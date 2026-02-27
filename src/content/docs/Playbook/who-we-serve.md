@@ -86,8 +86,4 @@ We keep revenue-critical platforms improving — consistently, predictably, and 
 
 ## The Axioned Journey
 
-Since 2006, we’ve supported growth-focused teams by building, running, and improving their digital platforms.
-
-Not as a vendor you call when something breaks.
-
-As the partner responsible for keeping execution moving.
+Since 2006, we’ve supported growth-focused teams by building, running, and improving their digital platforms. As a trusted tech-partner responsible for keeping execution moving.
