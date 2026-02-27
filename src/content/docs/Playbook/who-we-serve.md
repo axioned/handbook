@@ -78,16 +78,11 @@ Embedded specialists (engineering, QA, analytics, content ops) that increase int
 - 94% CSAT  
 - In business since 2006 (aka experienced with evolved intuition and taste)
 - 90% full-time team — not a rotating freelancer bench  
-- US, UK, and India presence for timezone overlap and cost-effective delivery  
-
-We keep revenue-critical platforms improving — consistently, predictably, and with clear accountability.
+- US, UK, and India presence for timezone overlap and cost-effective delivery
+- We keep revenue-critical platforms improving — consistently, predictably, and with clear accountability.
 
 ---
 
 ## The Axioned Journey
 
-Since 2006, we’ve supported growth-focused teams by building, running, and improving their digital platforms.
-
-Not as a vendor you call when something breaks.
-
-As the partner responsible for keeping execution moving.
+Since 2006, we’ve supported growth-focused teams by building, running, and improving their digital platforms. As the tech-partner responsible for keeping execution moving.
