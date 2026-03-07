@@ -6,6 +6,10 @@ sidebar:
   order: 1
 ---
 
+We work across modern CMS, JavaScript, and cloud ecosystems — including WordPress, Contentful, Sanity, Next.js, and Node.js. Our teams build both content-driven platforms and product applications, selecting technologies based on what best supports the platform’s goals, scale, and long-term maintainability. 
+
+We increasingly use AI-assisted development tools to accelerate delivery, improve code quality, and support more intelligent user experiences. As of March 2026, we're leaning more towards using Anthropic/Claude.
+
 We take inspiration on our Technology Roadmap/Radar from [Thoughtworks](https://www.thoughtworks.com/radar/faq).
 
 ### Adopt ("In Play")
