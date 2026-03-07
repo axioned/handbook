@@ -12,7 +12,7 @@ Our teams build both content-driven platforms and product applications, selectin
 
 We increasingly use AI-assisted development tools to accelerate delivery, improve code quality, and support more intelligent user experiences. **As of March 2026, we're leaning more towards using Anthropic/Claude.**
 
-The below **Adopt**, **Trial & Assess**, and **Hold/Don't Pursue** lists take _inspiration _ from how [Thoughtworks](https://www.thoughtworks.com/radar/faq) approaches their Technology Roadmap/Radar.
+The below **Adopt**, **Trial & Assess**, and **Hold/Don't Pursue** lists take inspiration from how [Thoughtworks](https://www.thoughtworks.com/radar/faq) approaches their Technology Roadmap/Radar.
 
 ### Adopt (In Active Usage)
 - Practices
