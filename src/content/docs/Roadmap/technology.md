@@ -10,7 +10,7 @@ We work across modern CMS, JavaScript, and cloud ecosystems — including WordPr
 
 We increasingly use AI-assisted development tools to accelerate delivery, improve code quality, and support more intelligent user experiences. As of March 2026, we're leaning more towards using Anthropic/Claude.
 
-We take inspiration on our Technology Roadmap/Radar from [Thoughtworks](https://www.thoughtworks.com/radar/faq).
+The below **Adopt**/**Trial**/**Assess**/**Hold** lists take inspiration from how [Thoughtworks](https://www.thoughtworks.com/radar/faq) approaches their Technology Roadmap/Radar.
 
 ### Adopt ("In Play")
 
