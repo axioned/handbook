@@ -6,22 +6,27 @@ sidebar:
   order: 1
 ---
 
-We work across modern CMS, JavaScript, and cloud ecosystems — including WordPress, Contentful, Sanity, Next.js, and Node.js. Our teams build both content-driven platforms and product applications, selecting technologies based on what best supports the platform’s goals, scale, and long-term maintainability. 
+We work across modern CMS, JavaScript, and cloud ecosystems — including WordPress, Contentful, Sanity, Next.js, and Node.js. 
 
-We increasingly use AI-assisted development tools to accelerate delivery, improve code quality, and support more intelligent user experiences. As of March 2026, we're leaning more towards using Anthropic/Claude.
+Our teams build both content-driven platforms and product applications, selecting technologies based on what best supports the platform’s goals, scale, and long-term maintainability. 
 
-The below **Adopt**/**Trial**/**Assess**/**Hold** lists take inspiration from how [Thoughtworks](https://www.thoughtworks.com/radar/faq) approaches their Technology Roadmap/Radar.
+We increasingly use AI-assisted development tools to accelerate delivery, improve code quality, and support more intelligent user experiences. **As of March 2026, we're leaning more towards using Anthropic/Claude.**
 
-### Adopt ("In Play")
+The below **Adopt**, **Trial & Assess**, and **Hold/Don't Pursue** lists take _inspiration _ from how [Thoughtworks](https://www.thoughtworks.com/radar/faq) approaches their Technology Roadmap/Radar.
 
+### Adopt (In Active Usage)
+- Practices
+  - [ShapeUp Framework](https://basecamp.com/shapeup/)
 - Content Mangagement Systems (CMS) - including "Headless"
+  - [WordPress](https://wordpress.org/)
   - [Sanity](https://www.sanity.io/)
   - [Contentful](https://www.contentful.com/)
-  - [WordPress](https://wordpress.org/)
   - [Strapi](https://strapi.io/)
   - [DatoCMS](https://www.datocms.com/)
 - Languages
-  - JavaScript/[TypeScript](https://www.typescriptlang.org/)
+  - JavaScript
+  - [TypeScript](https://www.typescriptlang.org/)
+  - Ruby
 - Frameworks & Libraries
   - [Next.js](https://nextjs.org/)
   - [Astro](https://astro.build/)
@@ -34,6 +39,13 @@ The below **Adopt**/**Trial**/**Assess**/**Hold** lists take inspiration from ho
   - [Better Auth](https://www.better-auth.com/)
   - [Express](https://expressjs.com/)
   - [Hono](https://hono.dev/)
+  - [Ruby on Rails](https://rubyonrails.org/)
+- AI/Generative AI
+  - [Cursor](https://cursor.com/)
+  - [Github Copilot](https://github.com/features/copilot)
+  - [OpenAI API](https://platform.openai.com/docs/)
+  - [Claude](https://claude.ai/)
+  - [Vercel AI SDK](https://sdk.vercel.ai/)
 - DevOps & Automation
   - [GitHub Actions](https://docs.github.com/en/actions)
 - Database & Storage
@@ -70,58 +82,41 @@ The below **Adopt**/**Trial**/**Assess**/**Hold** lists take inspiration from ho
   - [Adobe Launch](https://business.adobe.com/products/adobe-analytics.html)
   - [PostHog](https://posthog.com/)
   - [Segment](https://segment.com/)
-- AI/Generative AI
-  - [Cursor](https://cursor.com/)
-  - [Github Copilot](https://github.com/features/copilot)
-  - [OpenAI API](https://platform.openai.com/docs/)
-  - [Anthropic](https://www.anthropic.com/)
-  - [Claude](https://claude.ai/)
-  - [Vercel AI SDK](https://sdk.vercel.ai/)
 
-### Trial
-
+### Trialing & Asssessing
 - Practices
-  - Feature flag driven development
+  - Feature-flag driven development
 - Frameworks and Libraries
   - [Partytown](https://partytown.builder.io/)
-  - [Ruby on Rails](https://rubyonrails.org/)
   - [trpc](https://trpc.io/)
   - [Turborepo](https://turborepo.com/)
+  - [SST](https://sst.dev/)
 - AI/Generative AI
-  - [CrewAI](https://www.crewai.com/) (Python)
-  - [PydanticAI](https://ai.pydantic.dev/) (Python)
   - [Cloudflare Agents](https://developers.cloudflare.com/agents/)
   - [Model Context Protocol (MCP) SDKs] (https://modelcontextprotocol.io/docs/sdk)
 - Low-code/No-code
   - [n8n](https://n8n.io/)
-  - [FlutterFlow](https://flutterflow.io/)
   - [Flowise](https://flowiseai.com/)
-  - [Replit](https://replit.com/)
 - Testing
+  - [User Brain](https://www.userbrain.com/en/)
+  - [User Testing](https://www.usertesting.com/)
   - [Grafana k6](https://k6.io/)
   - [Artillery](https://www.artillery.io/docs)
 
-### Assess
+### TBD
+- [Terraform](https://www.terraform.io/)
+- [Vite](https://vitejs.dev/)
+- Form abandonment tracking (debate)
 
-- Frameworks and Libraries
-  - [SST](https://sst.dev/)
-- AI/Generative AI
-  - [Replicate](https://www.replicate.com/)
-- User Testing
-  - [User Brain](https://www.userbrain.com/en/)
-  - [User Testing](https://www.usertesting.com/)
-
-### Hold
-
+### Hold/Not Pursuing
+- [Replit](https://replit.com/)
+- [FlutterFlow](https://flutterflow.io/)
+- [Replicate](https://www.replicate.com/)
+- [CrewAI](https://www.crewai.com/) (Python)
+- [PydanticAI](https://ai.pydantic.dev/) (Python)
 - [Cypress](https://www.cypress.io/)
 - [Microfrontends](https://micro-frontends.org/)
 - [Redux Toolkit](https://redux-toolkit.js.org/)
 - [Ionic Framework](https://ionicframework.com/)
 - [Web Components](https://developer.mozilla.org/en-US/docs/Web/Web_Components)
 - [Contentstack](https://www.contentstack.com/)
-
-### Backlog
-
-- [Terraform](https://www.terraform.io/)
-- [Vite](https://vitejs.dev/)
-- Form abandonment tracking (debate)
