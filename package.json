@@ -22,9 +22,9 @@
     "@axioned/prettier-config": "^1.0.7",
     "prettier-plugin-astro": "^0.14.1"
   },
-  "packageManager": "pnpm@10.12.4",
+  "packageManager": "bun@1.3.10",
   "engines": {
     "node": ">=22.x",
-    "pnpm": ">=9.x"
+    "bun": ">=1.3.x"
   }
 }
