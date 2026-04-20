@@ -4,45 +4,82 @@ title: Who we serve
 sidebar:
   label: Who we serve
   order: 3
+---
+
+At Axioned, we work with teams where digital performance directly affects revenue. That usually means one of two things:
+- The website is a primary driver of leads, bookings, applications, or ecommerce sales.
+- A digital product or platform needs to ship, iterate, and scale quickly to stay competitive.
+
+In both cases, the common constraint is execution capacity. Ideas exist. Demand exists. But technical bandwidth, platform limitations, or slow delivery cycles create friction.
+
+We step in as an accountable technical partner — providing structured Build, Run, and Extend support that keeps platforms improving and teams moving.
+
+## Axioned as a service provider to: Marketing & Growth Teams
+Founder-led or marketing-led businesses in the US and UK where:
+- The website is a core revenue channel — not a brochure.
+- Paid media, SEO, email, and CRM activity all depend on the site converting properly.
+- Marketing has ideas ready to ship — but development bandwidth is limited.
+- Slow release cycles mean missed campaign windows and lost opportunities.
+
+### Typical Situations We Step Into
+- The site that worked 18 months ago now feels slow, fragile, or hard to change.
+- The CMS has become a bottleneck.
+- CRM or marketing tool integrations are unreliable.
+- Core Web Vitals are hurting performance and paid traffic efficiency.
+- Internal teams are stretched managing freelancers, agencies, and internal requests.
+
+### What We Actually Do
+We take ownership of the platform through a monthly **Run** or **Run + Extend** model:
+- Ongoing dev, UX, QA, analytics, and content support
+- Performance improvements (speed, stability, Core Web Vitals)
+- Conversion and UX refinements
+- CMS and CRM integration fixes
+- Structured roadmap execution — not reactive ticket handling
+
+If the platform has hit its ceiling, we may run a focused **Build** project (redesign, rebuild, migration) once we've gathered additional/helpful context through **Run**. The goal: faster idea-to-live cycles and a website that improves continuously — not sporadically.
 
 ---
 
-Our team at Axioned specializes in digital engineering; helping businesses build, optimize, and scale digital user experiences. Whether it’s a website or application (app) - we bring ideas to life and help existing businesses grow. We typically work with/partner with the following ICPs (Ideal Client Profiles)...
+## Axioned as a service provider to: Product Teams That Need to Move Faster
+Founder-led products or internal product and innovation teams that:
+- Need to ship an MVP or MLP quickly
+- Have validated demand but lack execution capacity
+- Need embedded engineering without long hiring cycles
+- Want external accountability for shipping
 
-## ICP #1 - High-Growth Consumer Services Businesses Dependent on Web Lead Gen for Growth
-- Businesses that rely on - and invest in - their website as a critical lead generation and conversion engine.
-- Often already investing in sales and marketing tactics (ads, SEO, etc.) to drive users to their site and are therefore invested in ensuring such users convert.
--	Axioned steps in as a trusted & skilled technology partner to keep their website(s) and marketing/integrated tech (e.g., CRM) fast, functional, and conversion-optimized.
-- The relationship (Axioned x Client) is typically structured as ongoing monthly support for website maintenance, performance optimization, and iterative enhancements. As needs evolve, Axioned often leads efforts like site redesigns, CRM/tool integrations, data workflows, site analytics, and/or SEO improvements.
+### Where We Help
+- Transitioning from proof-of-concept to production-ready platform
+- Modernizing architecture to support scale
+- Improving performance and release velocity
+- Providing embedded engineering or QA capacity
+This often starts as a **Build** engagement and evolves into **Run or Extend** once the platform is live.
 
-**Client pain points (the problem we're solving):**
-1. Website is underperforming and losing leads due to low conversions, poor UX, slow speed, weak CRM/data workflows, or SEO issues.
-2. Existing tech partner or team can’t match the required pace or delivery velocity.
+---
 
-***Note:*** *We’re often referred to such clients by agency partners—creative, branding, and ad shops—who trust us as a tech partner to deliver on "all things tech." We welcome and encourage these partnerships. Interested in joining our agency partner program? [Contact Libby](https://www.linkedin.com/in/libby-swan-axioned-enabling-digital-endeavours/).*
+## How We Work
+_Our engagement models:_
 
-## ICP #2 - Innovators: Stand-alone or In-house
-- Product teams that are starting or scaling, and need a trusted partner to either:
-  - bring their POC/MVP to life (often leveraging AI tools like Cursor, GitHub Co-Pilot, Replit), or
-  - scale an existing digital product or platform.
+**Build**  
+Defined-scope builds, rebuilds, migrations, or replatforming — designed for efficient time-to-market.
 
-**Client pain points (the problem we're solving):**
-1. Moving too slowly to validate and iterate—losing time, feedback, and momentum.
-2. Restricted in-house tech expertise to execute at the desired pace/velocity.
+**Run**  
+Ongoing platform ownership. Stability, performance, continuous improvement.
 
-## How do we work with our Clients?
-- We prefer to work on a monthly retainer model providing continuous/dedicated support to drive continuous improvement.
-- We also work on project (SOW - Scope of Work) basis.
+**Extend**  
+Embedded specialists (typically: development/engineering, testing/QA) that increase execution speed without long-term hiring risk.
 
-## Why Axioned?
-- We are responsible, agile, human-centered, and collaborative problem solvers.
-- We walk, talk, and live by our [Core Values](/playbook/core-values/).
-- We're experts in performance optimization, tech-stack modernization, and bridging tech-skill gaps.
-- We excel in/enjoy working with JavaScript-driven frameworks and technologies.
+---
 
-## We value our clients & CSAT Score:
-- Our CSAT csore (as of Apr 2025): 94%
-- Our goal is to consistently [WOW](/playbook/wow) Axioned clients and teammates.
+## Why Axioned
+- 1,000+ launches completed  
+- 30+ brands supported annually  
+- 94% CSAT  
+- In business since 2006 (aka stable + experienced with evolved intuition and taste)
+- 90% full-time team — not a rotating freelancer bench  
+- US, UK, and India presence for timezone overlap and cost-effective delivery
+- We keep revenue-critical platforms improving — consistently, predictably, and with clear accountability.
 
-:::tip[The Axioned Journey]
-Axioned has been building digital solutions since 2006, combining creativity and technology to help teams move faster and scale smarter. We work with growth-stage companies, agencies, and product builders to deliver digital projects that work — from early concepts to new builds and relaunches.
+---
+
+## The Axioned Journey
+Since 2006, we’ve supported growth-focused teams by building, running, and improving their digital platforms. As the tech-partner responsible for keeping execution moving.

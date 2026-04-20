@@ -19,10 +19,18 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout your repository using git
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
+      - name: Cache Bun dependencies
+        uses: actions/cache@v5
+        with:
+          path: ~/.bun/install/cache
+          key: ${{ runner.os }}-bun-${{ hashFiles('**/bun.lockb') }}
+          restore-keys: |
+            ${{ runner.os }}-bun-
+      - name: Setup Bun
+        uses: oven-sh/setup-bun@v2
       - name: Install, build, and upload your site
-        uses: withastro/action@v3
-
+        uses: withastro/action@v5
   deploy:
     needs: build
     runs-on: ubuntu-latest
