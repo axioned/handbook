@@ -2,9 +2,9 @@
 title: Public Holidays
 ---
 
-## 🇮🇳 India Holiday List
-
 Below is the list of public holidays for 2026 at Axioned.
+
+## 🇮🇳 India Holiday List
 
 | Date               | Holiday                                | Observation |
 | ------------------ | -------------------------------------- | ----------- |
@@ -31,20 +31,11 @@ Below is the list of public holidays for 2026 at Axioned.
 
 ---
 
-## Team events
-
-| Month          | Event                                    |
-| -------------- | ---------------------------------------- |
-| February, 2026 | Work Together Week (February 9th – 13th) |
-| July, 2026     | Work Together Week (July 27th – 31st)    |
-
----
-
 ## 🇺🇸 US Holiday Observation List
 
 | Date              | Holiday                    | Observation |
 | ----------------- | -------------------------- | ----------- |
-| January 1, 2026   | New Year's Day             | 🇮🇳 🇬🇧 🇺🇸    |
+| January 1, 2026   | New Year's Day             | 🇺🇸 🇮🇳 🇬🇧    |
 | January 19, 2026  | Martin Luther King Jr. Day | 🇺🇸          |
 | February 16, 2026 | Presidents' Day            | 🇺🇸          |
 | May 25, 2026      | Memorial Day               | 🇺🇸          |
@@ -54,7 +45,7 @@ Below is the list of public holidays for 2026 at Axioned.
 | October 12, 2026  | Columbus Day               | 🇺🇸          |
 | November 11, 2026 | Veterans Day               | 🇺🇸          |
 | November 26, 2026 | Thanksgiving               | 🇺🇸          |
-| December 25, 2026 | Christmas Day              | 🇮🇳 🇬🇧 🇺🇸    |
+| December 25, 2026 | Christmas Day              | 🇺🇸 🇮🇳 🇬🇧    |
 
 ---
 
@@ -62,13 +53,22 @@ Below is the list of public holidays for 2026 at Axioned.
 
 | Date              | Holiday                | Observation |
 | ----------------- | ---------------------- | ----------- |
-| January 1, 2026   | New Year's Day         | 🇮🇳 🇬🇧 🇺🇸    |
+| January 1, 2026   | New Year's Day         | 🇬🇧 🇮🇳 🇺🇸    |
 | April 3, 2026     | Good Friday            | 🇬🇧 🇮🇳       |
 | April 6, 2026     | Easter Monday          | 🇬🇧          |
 | May 4, 2026       | Early May Bank Holiday | 🇬🇧          |
 | May 25, 2026      | Spring Bank Holiday    | 🇬🇧          |
 | August 31, 2026   | Summer Bank Holiday    | 🇬🇧          |
-| December 25, 2026 | Christmas Day          | 🇮🇳 🇬🇧 🇺🇸    |
+| December 25, 2026 | Christmas Day          | 🇬🇧 🇮🇳 🇺🇸    |
 | December 28, 2026 | Boxing Day             | 🇬🇧          |
+
+---
+
+## Team Events
+
+| Month          | Event                                    |
+| -------------- | ---------------------------------------- |
+| February, 2026 | Work Together Week (February 9th – 13th) |
+| July, 2026     | Work Together Week (July 27th – 31st)    |
 
 ---
