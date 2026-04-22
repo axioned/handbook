@@ -2,7 +2,7 @@
 title: Public Holidays
 ---
 
-## Holiday list
+## 🇮🇳 India Holiday List
 
 Below is the list of public holidays for 2026 at Axioned.
 
@@ -40,7 +40,7 @@ Below is the list of public holidays for 2026 at Axioned.
 
 ---
 
-## 🇺🇸 Holiday Observation List (Reference Only)
+## 🇺🇸 US Holiday Observation List
 
 | Date              | Holiday                    | Observation |
 | ----------------- | -------------------------- | ----------- |
@@ -58,7 +58,7 @@ Below is the list of public holidays for 2026 at Axioned.
 
 ---
 
-## UK Holiday Observation List (Reference Only)
+## 🇬🇧 UK Holiday Observation List
 
 | Date              | Holiday                | Observation |
 | ----------------- | ---------------------- | ----------- |
