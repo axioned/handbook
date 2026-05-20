@@ -17,7 +17,7 @@ Use the following format: **first letter of your last name + first name + "axion
 
 | Name | Username |
 |---|---|
-| Anurag Banerjee | `banuragaxioned` |
+| John Doe | `djohnaxioned` |
 | Jane Smith | `sjaneaxioned` |
 
 > All lowercase, no spaces or special characters.
