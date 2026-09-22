@@ -22,31 +22,34 @@ export default defineConfig({
       lastUpdated: true,
       sidebar: [
         { label: "Welcome", link: "/welcome" },
-        { label: "Playbook", autogenerate: { directory: "Playbook" } },
+        {
+          label: "Playbook",
+          items: [{ autogenerate: { directory: "Playbook" } }],
+        },
         {
           label: "Learning",
           collapsed: true,
-          autogenerate: { directory: "Learning" },
+          items: [{ autogenerate: { directory: "Learning" } }],
         },
         {
           label: "Processes",
           collapsed: true,
-          autogenerate: { directory: "Processes" },
+          items: [{ autogenerate: { directory: "Processes" } }],
         },
         {
           label: "Roadmap",
           collapsed: true,
-          autogenerate: { directory: "Roadmap" },
+          items: [{ autogenerate: { directory: "Roadmap" } }],
         },
         {
           label: "Design",
           collapsed: true,
-          autogenerate: { directory: "Design" },
+          items: [{ autogenerate: { directory: "Design" } }],
         },
         {
           label: "Working at Axioned",
           collapsed: true,
-          autogenerate: { directory: "Work" },
+          items: [{ autogenerate: { directory: "Work" } }],
         },
         { label: "Glossary", link: "/glossary/" },
         { label: "Contribute", link: "/contribute/" },

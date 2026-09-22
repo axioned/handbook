@@ -33,3 +33,7 @@ In using ChatGPT or other generative AI tools, team members must be aware of the
 4. **Be alert for AI-related phishing or malicious plugins:** Generative AI has made it easier for malicious actors to create sophisticated scams. Continue to follow security best practices and report suspicious messages to <security@axioned.com>.
 
 Following these guidelines will help us maintain the security and confidentiality of our information while leveraging AI tools effectively.
+
+## Coding
+
+For guidance on AI tools used in coding (Claude Code and Cursor IDE), including security configuration and a quick-reference summary, see the [AI Coding Tools](/processes/security/ai-coding-tools) page.
