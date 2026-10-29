@@ -27,14 +27,16 @@ A comprehensive knowledge base and documentation for Axioned's development pract
 
 ## 🛠️ Development
 
+Node and Bun versions are pinned in `.tool-versions`, following Buddy's tooling setup. Run `mise install` to install the pinned versions if needed.
+
 All commands are run from the root of the project:
 
 | Command                   | Action                                           |
 | :------------------------ | :----------------------------------------------- |
-| `npm install`             | Install dependencies                             |
-| `npm run dev`             | Start local dev server at `localhost:4321`       |
-| `npm run build`           | Build production site to `./dist/`               |
-| `npm run preview`         | Preview production build locally                 |
+| `bun install`             | Install dependencies                             |
+| `bun run dev`             | Start local dev server at `localhost:4321`       |
+| `bun run build`           | Build production site to `./dist/`               |
+| `bun run preview`         | Preview production build locally                 |
 
 ## 📝 Contributing
 
