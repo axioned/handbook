@@ -20,17 +20,23 @@ jobs:
     steps:
       - name: Checkout your repository using git
         uses: actions/checkout@v6
+      - name: Read runtime versions
+        id: runtimes
+        run: |
+          echo "node=$(awk '$1 == "nodejs" { print $2 }' .tool-versions)" >> "$GITHUB_OUTPUT"
+          echo "bun=$(awk '$1 == "bun" { print $2 }' .tool-versions)" >> "$GITHUB_OUTPUT"
       - name: Cache Bun dependencies
         uses: actions/cache@v5
         with:
           path: ~/.bun/install/cache
-          key: ${{ runner.os }}-bun-${{ hashFiles('**/bun.lockb') }}
+          key: ${{ runner.os }}-bun-${{ steps.runtimes.outputs.bun }}-${{ hashFiles('**/bun.lock') }}
           restore-keys: |
             ${{ runner.os }}-bun-
-      - name: Setup Bun
-        uses: oven-sh/setup-bun@v2
       - name: Install, build, and upload your site
         uses: withastro/action@v5
+        with:
+          node-version: ${{ steps.runtimes.outputs.node }}
+          package-manager: bun@${{ steps.runtimes.outputs.bun }}
   deploy:
     needs: build
     runs-on: ubuntu-latest
