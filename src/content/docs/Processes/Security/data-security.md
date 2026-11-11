@@ -199,6 +199,7 @@ As an IT software and QA service provider, it is important to ensure that Client
 
 - **User Exit Checklist**
   - The IT Team will also follow the user exit checklist to delete/format user systems and check for any data that needs to be deleted.
+  - The IT Team will also check the user’s Claude account for skills, projects and other data worth retaining (and move them to an Axioned-owned account), then remove or reassign the Claude seat and revoke any connectors or API keys set up by the user.
   - Once the IT team completes the user exit checklist, they will send a final sign-off email to the HR team, indicating that the employee exit process can proceed.
 
 - **Timely Implementation**
@@ -213,6 +214,27 @@ As an IT software and QA service provider, it is important to ensure that Client
 - Access Control: Implementing strict access control measures such as multi-factor authentication tools and application of Clients to ensure that only authorized personnel can access Client data.
 - Training and awareness: Providing training to the team members working on Client data, to increase their awareness of the importance of data security and the measures in place to protect it.
 - These guidelines should be followed to ensure the security and proper storage of Client data by authorized persons within the organization.
+
+### 5.5 AI Tools (Claude) for Subcontractors
+
+- Using personal AI accounts for Axioned or Client work is strictly prohibited. Subcontractors must use an Axioned Claude seat, assigned to their @axioned.com account.
+
+**Threat this aims to address:**
+
+- Axioned and Client data being stored in personal accounts outside Axioned’s control, with no way to revoke access once the engagement ends.
+
+**Access**
+
+- A Claude seat will be assigned only after the NDA and contractor agreement are signed.
+- The project manager (PM) will send an email to the IT Team (itadmin@axioned.com) with the subcontractor’s name, project(s) and end date. Axioned Management approves the request.
+- This email serves as the formal approval for the subcontractor to work with Client data in Claude, for the listed project(s) only.
+- The IT Team will reuse an available seat before a new one is purchased.
+- Each seat is assigned to one individual. Sharing seats or login credentials is strictly prohibited.
+
+**Actions taken:**
+
+- The IT Team reviews Claude seats as part of the monthly account check-in.
+- On the subcontractor’s last day, the PM will inform the IT Team. Before removing the user from the org, the IT Team will check the user’s Claude account for skills, projects and other data worth retaining and move them to an Axioned-owned account. The seat will then be removed or reassigned the same day, and any connectors or API keys set up by the subcontractor will be revoked.
 
 ## 6. Lock Computers And Devices
 
