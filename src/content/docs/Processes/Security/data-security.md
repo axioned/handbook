@@ -226,21 +226,15 @@ As an IT software and QA service provider, it is important to ensure that Client
 **Access**
 
 - A Claude seat will be assigned only after the NDA and contractor agreement are signed.
-
-- The project manager (PM) will send an email to the IT Team (itadmin@axioned.com) with the subcontractor’s name, project(s) and end date. Libby approves the request.
-
+- The project manager (PM) will send an email to the IT Team (itadmin@axioned.com) with the subcontractor’s name, project(s) and end date. Axioned Management approves the request.
 - This email serves as the formal approval for the subcontractor to work with Client data in Claude, for the listed project(s) only.
-
 - The IT Team will reuse an available seat before a new one is purchased.
-
 - Each seat is assigned to one individual. Sharing seats or login credentials is strictly prohibited.
 
 **Actions taken:**
 
 - The IT Team reviews Claude seats as part of the monthly account check-in.
-
-- On the subcontractor’s last day, the PM will inform the IT Team. Before removing the user from the org, the IT Team will check the user’s Claude account for skills, projects and other data worth retaining and move them to an Axioned-owned account. The seat will then be removed or reassigned the same day.
- 
+- On the subcontractor’s last day, the PM will inform the IT Team. Before removing the user from the org, the IT Team will check the user’s Claude account for skills, projects and other data worth retaining and move them to an Axioned-owned account. The seat will then be removed or reassigned the same day, and any connectors or API keys set up by the subcontractor will be revoked.
 
 ## 6. Lock Computers And Devices
 

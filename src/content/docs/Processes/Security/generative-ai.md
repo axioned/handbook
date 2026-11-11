@@ -30,17 +30,17 @@ In using ChatGPT or other generative AI tools, team members must be aware of the
      - By default, your prompts and Copilot's suggestions are collected and retained by GitHub, and further processed and shared with Microsoft.
      - **Deselect** the “Allow GitHub to use my code snippets from the code editor for product improvements.” from your [GitHub Copilot settings](https://github.com/settings/copilot).
 3. **You are responsible for any content that you produce or publish that includes AI-generated material:** AI-generated content can be inaccurate, misleading, or entirely fabricated (sometimes called “hallucinations”), or may contain copyrighted material. Review your AI-generated content before publication.
-     - **Use Axioned accounts only:** Use your Axioned Claude seat only for projects run under Axioned. It should not be used for other clients, side work or personal projects.
-     - **Check with your PM before use:** Before using AI on a client project, check with your PM. The PM will confirm whether the client allows it. Do not ask the client directly.
-     - **No database connections:** You should not connect Claude to any database (production, staging or local copies of client data). Database records or query results should not  be pulled into Claude or Slack.
-     - **Store exported data in Axioned accounts:** Any client data exported to a CSV or Google Sheet must be saved in Axioned’s Google Drive, not in a personal account.
-     - **Delete local data periodically:** AI-generated files and data exports on your computer should be deleted at least once a month, and when the project ends.
-     - **Protect credentials:** Never enter passwords, API keys, personal data or contracts into Claude.
-     - **Get approval for integrations:** Connecting Claude to a client system (e.g. Sanity, AWS, GitHub) requires approval from your PM and tech lead.
-     - **Keep projects private:** Claude projects should be shared only with the project team.
-     - **Review before sharing:** Review and test all AI-generated work before it reaches the client. If a client asks whether we use AI, be honest: we do, with human review.
-
-4. **Be alert for AI-related phishing or malicious plugins:** Generative AI has made it easier for malicious actors to create sophisticated scams. Continue to follow security best practices and report suspicious messages to <security@axioned.com>.
+4. **Using Claude at Axioned:**
+   - **Use Axioned accounts only:** Use your Axioned Claude seat only for projects run under Axioned. It should not be used for other clients, side work or personal projects.
+   - **Check with your PM before use:** Before using AI on a client project, check with your PM. The PM will confirm whether the client allows it. Do not ask the client directly.
+   - **No database connections:** You should not connect Claude to any database (production, staging or local copies of client data). Database records or query results should not be pulled into Claude.
+   - **Store exported data in Axioned accounts:** Any client data exported to a CSV or Google Sheet must be saved in Axioned’s Google Drive, not in a personal account.
+   - **Delete local data periodically:** AI-generated files and data exports on your computer should be deleted at least once a month, and when the project ends.
+   - **Protect credentials:** Never enter passwords, API keys or contracts into Claude. Personal data is covered in point 1.
+   - **Get approval for integrations:** Connecting Claude to a client system (e.g. Sanity, AWS, GitHub) requires approval from your PM and tech lead.
+   - **Keep projects private:** Claude projects should be shared only with the project team.
+   - **Review before sharing:** Review and test all AI-generated work before it reaches the client. If a client asks whether we use AI, be honest: we do, with human review.
+5. **Be alert for AI-related phishing or malicious plugins:** Generative AI has made it easier for malicious actors to create sophisticated scams. Continue to follow security best practices and report suspicious messages to <security@axioned.com>.
 
 Following these guidelines will help us maintain the security and confidentiality of our information while leveraging AI tools effectively.
 
